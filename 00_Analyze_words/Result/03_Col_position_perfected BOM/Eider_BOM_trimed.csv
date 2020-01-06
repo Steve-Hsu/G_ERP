@@ -1,0 +1,467 @@
+,brand,style,item,outer,inner,fabric,trims,description,supplier,ref,spec,width:,weight:,position,qty,colorway-1,colorway-2,colorway-3,colorway-4,colorway-5
+0,edier,eiv4439,fabric 1,1,0,1,0,defender libolon,libolon,06302 10k/10k,88% pes 12% pu// 100% tpu // 0,"56""",none,"main shell 
+(except yokes next to left hand and sleeve pockets)",none,aquamarine,dark night,none,none,none
+1,edier,eiv4439,fabric 2,1,0,1,0,defender + motley dull,flying tex,pfw017n35,100% pes// 100% tpu // 0,"56""",162g/m2,"hood + body sides + under sleeves     
+     
+     
+     
+     
+     
+",none,aquamarine,dark night,none,none,none
+2,edier,eiv4439,lining,1,0,1,0,nylon downproof planet,caroltex  8093ldf3,none,none,none,none,hood + front body + back sides,none,dark night,blue morpho,none,none,none
+3,edier,eiv4439,lining,1,0,1,0,210t nylon ,local sourcing,none,none,none,none,sleeves + inner pocket bag + care label pocket ,none,black,black,none,none,none
+4,edier,eiv4439,pockets,1,0,1,0,"micromax / polytricot     
+","local sourcing     
+",none,none,none,none,hand pockets,none,black,black,none,none,none
+5,edier,eiv4439,pockets,1,0,1,0,nylon,"local sourcing     
+",none,none,none,none,inner pocket,none,black,black,none,none,none
+6,edier,eiv4439,"waterproofness
+",1,0,1,0,"sealed seams       
+",all seams,none,none,none,none,none,none,none,none,none,none,none
+7,edier,eiv4439,threads,1,0,1,0,topstitching,topstitching,none,none,none,none,none,none,none,none,none,none,none
+8,edier,eiv4439,threads,1,0,1,0,bartacks,topstitching,none,none,none,none,none,none,none,none,none,none,none
+9,edier,eiv4439,fabric 1,0,1,1,0,downproof planet print,caroltex,8093ldf3 + print,none,none,none,main shell,none,dark night  / candy pink camo,dark night,none,none,none
+10,edier,eiv4439,lining,0,1,1,0,spacer,local sourcing,none,none,none,none,bottom of body + bottom sleeves,none,none,none,none,none,none
+11,edier,eiv4439,lining,0,1,1,0,downproof planet,"caroltex 8093ldf3     
+",none,none,none,none, - body,none,dark night,aquamarine,none,none,none
+12,edier,eiv4439,lining,0,1,1,0,"210t nylon     
+","local sourcing     
+",none,none,none,none," - sleeves
+",none,black,black,none,none,none
+13,edier,eiv4439,lining,0,1,1,0,"micromax - (polytricot approved 03/08/2016)     
+","local sourcing     
+",none,none,none,none,#NAME?,none,black,black,none,none,none
+14,edier,eiv4439,"insulation
+
+
+
+
+
+
+
+
+
+",0,1,1,0,fake down     ,local sourcing,none,none,none,none," - body
+ - sleeves",none,none,none,none,none,none
+15,edier,eiv4439,"insulation
+
+
+
+
+
+
+
+
+
+",0,1,1,0,e loft,local sourcing,none,none,60gr ,none, - collar,none,none,none,none,none,none
+16,edier,eiv4439,"insulation
+
+
+
+
+
+
+
+
+
+",0,1,1,0,e loft,local sourcing,none,none,60gr -> 120g,none, - collar,none,none,none,none,none,none
+17,edier,eiv4439,threads,0,1,1,0,topstitching,none,none,none,none,none,none,none,matching,matching,none,none,none
+18,edier,eiv4439,threads,0,1,1,0,bartacks,none,none,none,none,none,none,none,matching,matching,none,none,none
+19,edier,eiv4439,zippers,1,0,1,0,"metallux zipper/ antic silver finishin g5mm autolock, open end1 way, dalh slidersupplier : ykk",none,none,none,none,none,front opening,1,blue morpho ykk 020,dark night ykk 169,none,none,none
+20,edier,eiv4439,zippers,1,0,0,1,"5mm reversible vislonopen end, 1 waydu slidersupplier : ykk",none,none,none,none,none,for ias system,1,blue morpho ykk 020,dark night ykk 169,none,none,none
+21,edier,eiv4439,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slidersupplier : ykk",none,none,none,none,none,"inner pocket,",1,blue morpho ykk 020,dark night ykk 169,none,none,none
+22,edier,eiv4439,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slidersupplier : ykk",none,none,none,none,none,hand pockets,2,blue morpho ykk 020,dark night ykk 169,none,none,none
+23,edier,eiv4439,trims,1,0,0,1,"coil zip3mmautolock, open end1 way, da slidersupplier : ykk",none,none,none,none,none,removable hood12 cm,1,blue morpho ykk 020,dark night ykk 169,none,none,none
+24,edier,eiv4439,trims,1,0,0,1,rubber pullerref: eiw18-03,none,none,none,none,none,center front opening ,1,blue morpho,dark night,none,none,none
+25,edier,eiv4439,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,hand pockets,2,blue morpho,dark night,none,none,none
+26,edier,eiv4439,trims,1,0,0,1,drawstring outdoorref: ew026supplier: yf zipper,none,none,none,none,none,hood,1,blue morpho,dark night,none,none,none
+27,edier,eiv4439,trims,1,0,0,1,supplier: yf zippernot elasticcolored pearl,none,none,none,none,none,inner pocketback hood,1,blue morpho,dark night,none,none,none
+28,edier,eiv4439,trims,1,0,0,1,rubber stopperref: eis15u-xmstp01supplier: unitex,none,none,none,none,none,back hood,1,blue morpho,dark night,none,none,none
+29,edier,eiv4439,trims,1,0,0,1,colored webbingref: eis15u-xmtre01supplier: yf zipper,none,none,none,none,none,front hoodback hood,1,blue morpho,dark night,none,none,none
+30,edier,eiv4439,trims,1,0,0,1,to hold stopperseyelet 12mmlocal sourcing,none,none,none,none,none,back hood,1,blue morpho,dark night,none,none,none
+31,edier,eiv4439,trims,1,0,0,1,small plastic snapref : eiw16-16,none,none,none,none,none,removable,4,blue morpho,dark night,none,none,none
+32,edier,eiv4439,trims,1,0,0,1,small plastic snapref : eiw16-16,none,none,none,none,none,hoodcuff,2 + 4,blue morpho,dark night,none,none,none
+33,edier,eiv4439,trims,1,0,0,1,small plastic snapref : eiw16-16,none,none,none,none,none,flaps,3,blue morpho,dark night,none,none,none
+34,edier,eiv4439,trims,1,0,0,1,supplier : unitex12mmeider hangloop,none,none,none,none,none,3 in 1 connection / 3 points,1,blue morpho,dark night,none,none,none
+35,edier,eiv4439,trims,1,0,0,1,ref : eiw18-01supplier : 'yf zipper4mm diameter,none,none,none,none,none,hangloop at collar,1,blue morpho/ dark night/ white,blue morpho/ dark night/ white,none,none,none
+36,edier,eiv4439,labels,1,0,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",sewn on left shoulder of outside jacket,none,none,none,none,none,1,blue morpho aquamarine,dark night,none,none,none
+37,edier,eiv4439,labels,1,0,0,1,woven big labelref: eiw18-11supplier: sml120x120mm,sewn inside back,none,none,none,none,none,1,black,black,none,none,none
+38,edier,eiv4439,labels,1,0,0,1,woven hangloop eiderref: eiw15-07supplier: sml,inside collar,none,none,none,none,none,1,black,black,none,none,none
+39,edier,eiv4439,labels,1,0,0,1,size woven label mmgalpha women topsupplier: smlref: lws18-04,inside collar under hangloop,none,none,none,none,none,1,black,black,none,none,none
+40,edier,eiv4439,labels,1,0,0,1,canadian labelfor paddinglocal sourcing,inside left,none,none,none,none,none,1,white,white,none,none,none
+41,edier,eiv4439,labels,1,0,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3,"under snow skirt, left side at 16cm from the bottommust be out of the store pocket for sms",none,none,none,none,none,1,white,white,none,none,none
+42,edier,eiv4439,hangtas,1,0,0,1,"plastic pinlocal sourcingto be confirmed10cm, white",none,none,none,none,none,to attach the hangtag,1,none,none,none,none,none
+43,edier,eiv4439,hangtas,1,0,0,1,biggencode stickerlocal sourcing5cm x 5cm,none,none,none,none,none,sticked at back of corporate hangtag,1,none,none,none,none,none
+44,edier,eiv4439,hangtas,1,0,0,1,brand hangtageid_1_corporate  (eidht01 / orli : 396031 )supplier: ,none,none,none,none,none,position 1,1,none,none,none,none,none
+45,edier,eiv4439,hangtas,1,0,0,1,engagement hangtageid_2_pfcfree  (eidht025 / 396045 :)supplier: triple star,none,none,none,none,none,position 2,1,none,none,none,none,none
+46,edier,eiv4439,hangtas,1,0,0,1,engagement hangtageid_2_lowimpact  (eidht024 / 396070 :)supplier: triple star,none,none,none,none,none,position 3,1,none,none,none,none,none
+47,edier,eiv4439,hangtas,1,0,0,1,fabric hangtageid_3_defender10/10_fst  (eidht0303 / 396050 : )supplier: triple star,none,none,none,none,none,position 4,1,none,none,none,none,none
+48,edier,eiv4439,hangtas,1,0,0,1,eid_4_eloft ball  (eidht043 / 396065 : ),none,none,none,none,none,position 5,1,none,none,none,none,none
+49,edier,eiv4439,zippers,0,1,0,1,ykkreversed zip5mmref slider dalh,none,none,none,none,none,front opening for ias system,1,dark night,blue morpho,none,none,none
+50,edier,eiv4439,zippers,0,1,0,1,ykkreversible injected zip5mmref slider #du,none,none,none,none,none,front opening for ias system,1,dark night,blue morpho,none,none,none
+51,edier,eiv4439,trims,0,1,0,1,drawcordref: eis15u-xmco01supplier: yf zipper,none,none,none,none,none,center front opening,1,dark night,blue morpho,none,none,none
+52,edier,eiv4439,trims,0,1,0,1,elastic with y constructionref wb107supplier: wilson,none,none,none,none,none,at waist,1,insigna blue(ss18 lafuma color),insigna blue(ss18 lafuma color),none,none,none
+53,edier,eiv4439,trims,0,1,0,1,lycra bias unicolorref: a00a-l11133/20supplier: wilson,none,none,none,none,none,hand pockets finishings,2,dark night,blue morpho,none,none,none
+54,edier,eiv4439,labels,0,1,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",none,none,none,none,none,sewn on left shoulder of outside jacket,1,blue morpho,dark night,none,none,none
+55,edier,eiv4439,labels,0,1,0,1,woven hangloop eiderref: eiw15-07supplier: sml,none,none,none,none,none,inside collar,1,blackl1eimwh04k#001 ,blackl1eimwh04k#001 ,none,none,none
+56,edier,eiv4439,labels,0,1,0,1,made in women topmade in / women/ bl1eitph00esupplier: sml,none,none,none,none,none,inside collar,1,black,black,none,none,none
+57,edier,eiv4439,labels,0,1,0,1,canadian labelfor paddinglocal sourcing,none,none,none,none,none,inside left,1,white,white,none,none,none
+58,edier,eiv4439,labels,0,1,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3,none,none,none,none,none,inside left,1,white,white,none,none,none
+59,edier,eiv4413,shell,1,0,1,0,defenderlibolon,libolon,6302,88% pes 12% pu// 100% tpu // 0,142 cm,227g/m2,hood + collar + body + bottom part of sleeves + airvent flap + facings (hood + collar + body and sleeve hem + chest pocket) + storm flap under cf zip + snowskirt garage,none,dark night,noir,dark wine,none,none
+60,edier,eiv4413,shell,1,0,1,0,defenderh+ oxford,flying tex,nfo020nv34,100% pa // 100% pu // 0,"56""",215 g/m2,front collar + middle chest + top shoulders and sleeves + cuff flaps + cf zipper garage+ double piping at cf zipper,none,dark night,noir,dark wine,none,none
+61,edier,eiv4413,shell,1,0,1,0,defendermotley dull,flying tex,pfw017n35,100% pes// 100% tpu // 0,0,0,2mm piping at hood peak,none,white,white,white,none,none
+62,edier,eiv4413,shell,1,0,1,0,defendermotley dull,flying tex,pfw017n35,100% pes// 100% tpu // 0,0,0,2mm piping at sleeves + at chest pocket,none,corn,dark orange,noir,none,none
+63,edier,eiv4413,lining,1,0,1,0,shell fabric,supplier libolon  ref. 06302,none,none,none,none,facing,none,dark night,dark wine,none,none,none
+64,edier,eiv4413,lining,1,0,1,0,black nylon ,local sourcing,none,none,none,none,"sleeves + care label pocket
+",none,black,black,none,none,none
+65,edier,eiv4413,lining,1,0,1,0,thermo honeycomb biface,wide plus ref. kmq007-pj,none,none,none,none,inner cuffs,none,dark night/ misty grey,ghost/ steel grey,none,none,none
+66,edier,eiv4413,lining,1,0,1,0,downproof planet,caroltex ref. 8093ldf3,none,none,none,none,collar + body,none,corn,noir,none,none,none
+67,edier,eiv4413,lining,1,0,1,0,mesh stretch,local sourcing,none,none,none,none,goggle pocket,none,black,black,none,none,none
+68,edier,eiv4413,lining,1,0,1,0,goggle cleaner,local sourcing,none,none,none,none,inside goggle pocket,none,grey,grey,none,none,none
+69,edier,eiv4413,lining,1,0,1,0,cire taffetas,local sourcing,none,none,none,none,snowskirt + under snowskirt,none,black,black,none,none,none
+70,edier,eiv4413,lining,1,0,1,0,foam reinforcement,local sourcing,none,none,none,none,hood peak,none,none,none,none,none,none
+71,edier,eiv4413,pockets,1,0,1,0,micromax,local sourcing,none,none,none,none,hand pockets,none,0,0,none,none,none
+72,edier,eiv4413,pockets,1,0,1,0,nylon,local sourcing,none,none,none,none,chest pockets + skipass pocket + inner pocket,none,black,black,none,none,none
+73,edier,eiv4413,"insulation
+
+
+
+
+
+
+
+
+
+",1,0,1,0,padded eloft / pm quality ,local sourcing,120 g  150g,none,none,none,body,none,0,0,none,none,none
+74,edier,eiv4413,"insulation
+
+
+
+
+
+
+
+
+
+",1,0,1,0,eloft / pm quality,local sourcing,80g    100g,none,none,none,sleeves,none,0,0,none,none,none
+75,edier,eiv4413,"insulation
+
+
+
+
+
+
+
+
+
+",1,0,1,0,eloft / pm quality,local sourcing,140g 120g,none,none,none,collar,none,0,0,none,none,none
+76,edier,eiv4413,"insulation
+
+
+
+
+
+
+
+
+
+",1,0,1,0,eloft / pm quality,local sourcing,40g    100g  60g,none,none,none,hood,none,0,0,none,none,none
+77,edier,eiv4413,"waterproofness
+",1,0,0,1,sealed seams,all seams,none,none,none,none,none,none,all seams,none,none,none,none
+78,edier,eiv4413,tape,1,0,0,1,sealon tape,sleeves + chest pocket,none,none,none,none,none,none,sleeves + chest pocket,none,none,none,none
+79,edier,eiv4413,threads,1,0,0,1,topstitching,none,none,none,none,none,none,none,none,none,all,none,none
+80,edier,eiv4413,threads,1,0,0,1,bartacks,none,none,none,none,none,none,none,none,none,all,none,none
+81,edier,eiv4413,zippers,1,0,0,1,"waterproofvislon zip5mmautolock, open end1 way, dalh slider",supplier : ykk,none,none,none,none,front opening,1,dark nightykk 919,blackykk 580,dark wineykk 864,none,none
+82,edier,eiv4413,zippers,1,0,0,1,"waterproofvislon zip3mmautolock, close end1 way, dalh slider",supplier : ykk,none,none,none,none,chest pocket,1,dark nightykk 919,blackykk 580,blackykk 580,none,none
+83,edier,eiv4413,zippers,1,0,0,1,"coil zip3mmautolock, close end1 way, dalh slider",supplier : ykk,none,none,none,none,hand pockets,2,dark nightykk 169,blackykk 580,dark wineykk 864,none,none
+84,edier,eiv4413,zippers,1,0,0,1,"coil zip3mmnon lock, close end1 way, dfbw slider",supplier : ykk,none,none,none,none,airventsslider at bottom when closed,2,dark nightykk 169,blackykk 580,dark wineykk 864,none,none
+85,edier,eiv4413,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slider",supplier : ykk,none,none,none,none,inner pocket,1,blackykk 580,blackykk 580,blackykk 580,none,none
+86,edier,eiv4413,zippers,1,0,0,1,"coil zip3mmautolock, open end1 way, da slider",supplier : ykk,none,none,none,none,removable hood12 cm,1,dark nightykk 169,blackykk 580,dark wineykk 864,none,none
+87,edier,eiv4413,zippers,1,0,0,1,"coil zip3mmautolock, close end1 way, dalh slider",supplier : ykk,none,none,none,none,ski pass pocket,1,dark nightykk 169,blackykk 580,dark wineykk 864,none,none
+88,edier,eiv4413,zippers,1,0,0,1,"coil zip3mmautolock, close end1 way, dalh slider",supplier : ykk,none,none,none,none,chest pocket,1,dark nightykk 169,blackykk 580,dark wineykk 864,none,none
+89,edier,eiv4413,trims,1,0,0,1,rubber pullerref: eiw18-03,none,none,none,none,none,center front opening,1,dark night,black,black,none,none
+90,edier,eiv4413,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,hand pockets,2,dark night,black,black,none,none
+91,edier,eiv4413,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,chest pocket,1,dark night,black,black,none,none
+92,edier,eiv4413,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,skipass pocket,1,dark night,black,black,none,none
+93,edier,eiv4413,trims,1,0,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,airvent,2,dark night,black,black,none,none
+94,edier,eiv4413,trims,1,0,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,sinner pocket,1,dark night,black,black,none,none
+95,edier,eiv4413,trims,1,0,0,1,drawstring outdoorref: ew026supplier: yf zipperelastic,none,none,none,none,none,hood,1,dark night,black,black,none,none
+96,edier,eiv4413,trims,1,0,0,1,drawstring outdoorref: ew026supplier: yf zipperelastic,none,none,none,none,none,body hem,1,dark night,black,black,none,none
+97,edier,eiv4413,trims,1,0,0,1,cord lockref: eiw17-02supplier: dragon timesuse with 2mm drawstring,none,none,none,none,none,hood,2,dark night,black,black,none,none
+98,edier,eiv4413,trims,1,0,0,1,rubber stopperref: eis15u-xmstp01supplier: unitex2cm x 1cm,none,none,none,none,none,back hood,1,dark night,black,black,none,none
+99,edier,eiv4413,trims,1,0,0,1,rubber stopperref: eis15u-xmstp01supplier: unitex2cm x 1cm,none,none,none,none,none,body hem,2,dark night,black,black,none,none
+100,edier,eiv4413,trims,1,0,0,1,colored eyeletref: eis15u-xmoei01supplier: unitex9mm,none,none,none,none,none,body hem,4,dark night,black,black,none,none
+101,edier,eiv4413,trims,1,0,0,1,big eyelet12mmlocal sourcing,none,none,none,none,none,back hood,1,dark night,black,black,none,none
+102,edier,eiv4413,trims,1,0,0,1,colored pearlsupplier: unitex,none,none,none,none,none,back hood,1,dark night,black,black,none,none
+103,edier,eiv4413,trims,1,0,0,1,colored pearlsupplier: unitex,none,none,none,none,none,body hem,2,dark night,black,black,none,none
+104,edier,eiv4413,trims,1,0,0,1,"colored webbingref: eis15u-xmtre01supplier: yf zipper0,5cm wideto hold stoppers",none,none,none,none,none,back hood,1,dark night,black,black,none,none
+105,edier,eiv4413,trims,1,0,0,1,"colored webbingref: eis15u-xmtre01supplier: yf zipper0,5cm wideto hold stoppers",none,none,none,none,none,body hem,2,dark night,black,black,none,none
+106,edier,eiv4413,trims,1,0,0,1,eider hangloopref : eiw18-01supplier : 'yf zipper4mm diameter,none,none,none,none,none,hangloop at collar,1,dark night/ black/ dark night,black/ raven/ misty grey,black/ raven/ misty grey,none,none
+107,edier,eiv4413,trims,1,0,0,1,soft webbing for liningref:eiw17-15  supplier:  dragon times1cm,none,none,none,none,none,above chest pocket,1,dark night,black,black,none,none
+108,edier,eiv4413,trims,1,0,0,1,soft webbing for liningref:eiw17-15  supplier:  dragon times1cm,none,none,none,none,none,above snowskirt,1,dark night,black,black,none,none
+109,edier,eiv4413,trims,1,0,0,1,velcro hook + velvetlocal sourcing,none,none,none,none,none,cuffs,2,tone/tone,tone/tone,tone/tone,none,none
+110,edier,eiv4413,trims,1,0,0,1,no slip elastic 25mmsiliconeref: eis17-08supplier: benefit,none,none,none,none,none,snowskirt,1,black,black,black,none,none
+111,edier,eiv4413,trims,1,0,0,1,small plastic snapref : eiw16-16supplier : unitex12mm,none,none,none,none,none,removable hoodsnowskirt openingsnowskirt garage (check my comments for details),4f+4m2f+4m2f+2m,dark night,black,black,none,none
+112,edier,eiv4413,trims,1,0,0,1,large elasticref: ew17-14supplier: wilson,none,none,none,none,none,for phone pocket,3,dark night,black,black,none,none
+113,edier,eiv4413,trims,1,0,0,1,lycra bias unicolorref: a00a-l11133/20supplier: wilson,none,none,none,none,none,goggle pocket,1,dark night,black,black,none,none
+114,edier,eiv4413,trims,1,0,0,1,elastic webbing 10mm18cm fininshed lenghtlocal sourcing,none,none,none,none,none,goggle cleaner,1,black,black,black,none,none
+115,edier,eiv4413,trims,1,0,0,1,rubber earphone holeref: pa-a2  mp3 rubbert bsupplier: yf zipper,none,none,none,none,none,inner pocket,1,black,black,black,none,none
+116,edier,eiv4413,labels,1,0,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",none,none,none,none,none,sewn on left shoulder,1,dark night,black,black,none,none
+117,edier,eiv4413,labels,1,0,0,1,woven big labelref: eiw18-11supplier: sml120x120mm,none,none,none,none,none,sewn inside back,1,black,black,black,none,none
+118,edier,eiv4413,labels,1,0,0,1,newsize woven label mmgalpha men topsupplier: smlref: lws18-01with rn + ca numbers,none,none,none,none,none,at the hangloop at collar,1,black,black,black,none,none
+119,edier,eiv4413,labels,1,0,0,1,canadian labelfor paddinglocal sourcing,none,none,none,none,none,inside left,1,white,white,white,none,none
+120,edier,eiv4413,labels,1,0,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3supplier: sml,none,none,none,none,none,inside left,1,white,white,white,none,none
+121,edier,eiv4413,hangtas,1,0,0,1,"plastic pinlocal sourcingto be confirmed10cm, white",none,none,none,none,none,to attach the hangtag,1,none,none,none,none,none
+122,edier,eiv4413,hangtas,1,0,0,1,biggencode stickerlocal sourcing5cm x 5cm,none,none,none,none,none,sticked at back of corporate hangtag,1,none,none,none,none,none
+123,edier,eiv4413,hangtas,1,0,0,1,brand hangtageid_1_corporate  (eidht01 / orli : 396031 )supplier: ,none,none,none,none,none,position 1,1,none,none,none,none,none
+124,edier,eiv4413,hangtas,1,0,0,1,engagement hangtageid_2_lowimpact  (eidht024 / 396070 :)supplier: triple star,none,none,none,none,none,position 2,1,none,none,none,none,none
+125,edier,eiv4413,hangtas,1,0,0,1,fabric hangtageid_3_defender10/10_fst  (eidht0303 / 396050 : )supplier: triple star,none,none,none,none,none,position 3,1,none,none,none,none,none
+126,edier,eiv4462,fabric 1,1,0,1,0,new defender discovery,libolon,06302 10k/10k,88% pes 12% pu// 100% tpu // 0,"56""",0,"main shell 
+",none,nightfall,noir,deep jungle,none,none
+127,edier,eiv4462,fabric 2,1,0,1,0,defenderh+ motley dull,flying tex,pfw017n35,100% pes// 100% tpu // 0,"56""",162g/m2,"yokes at chest, top back, main parts of sleeves",none,nightfall,raven,noir,none,none
+128,edier,eiv4462,lining,1,0,1,0,downproof planet,caroltex ref. 8093ldf3,none,none,none,none,body  + hood sides + collar + sleeves,none,raven,dark orange,noir,none,none
+129,edier,eiv4462,lining,1,0,1,0,210t nylon ,local sourcing,none,none,none,none,inner pocket bag + care label pocket ,none,black,black,black,none,none
+130,edier,eiv4462,lining,1,0,1,0,polytricot,local sourcing,none,none,none,none,collar,none,black,black,black,none,none
+131,edier,eiv4462,pockets,1,0,1,0,micromax / polytricot,local sourcing,none,none,none,none,hand pockets,none,black,black,black,none,none
+132,edier,eiv4462,pockets,1,0,1,0,nylon,local sourcing,none,none,none,none,inner pocket,none,black,black,black,none,none
+133,edier,eiv4462,waterproofness,1,0,1,0,sealed seams,none,none,none,none,none,all seams,none,none,none,none,none,none
+134,edier,eiv4462,threads,1,0,1,0,topstitching,none,none,none,none,none,all,none,none,none,none,none,none
+135,edier,eiv4462,threads,1,0,1,0,bartacks,none,none,none,none,none,all,none,none,none,none,none,none
+136,edier,eiv4462,fabric 1,0,1,1,0,downproof planet,caroltex,8093ldf3,none,none,none,main shell,none,raven,noir,deep jungle,none,none
+137,edier,eiv4462,lining,0,1,1,0,downproof planet,caroltex 8093ldf3,none,none,none,none, - body,none,raven,noir,deep jungle,none,none
+138,edier,eiv4462,lining,0,1,1,0,210t nylon,local sourcing,none,none,none,none," - sleeves
+",none,raven,noir,deep jungle,none,none
+139,edier,eiv4462,lining,0,1,1,0,micromax - (polytricot approved 03/08/2016),local sourcing,none,none,none,none,#NAME?,none,black,black,black,none,none
+140,edier,eiv4462,insulation,0,1,1,0,fake down primaloft black,primaloft,none,none,none,133g," - body
+ - sleeves
+- collar",none,none,none,none,none,none
+141,edier,eiv4462,insulation,0,1,1,0,e loft,local sourcing,none,none,none,60gr, - collar,none,none,none,none,none,none
+142,edier,eiv4462,threads,0,1,1,0,topstitching,none,none,none,none,none,all,none,matching,matching,none,none,none
+143,edier,eiv4462,threads,0,1,1,0,bartacks,none,none,none,none,none,all,none,matching,matching,none,none,none
+144,edier,eiv4462,zippers,1,0,0,1,"vislon zip5mmautolock, open end1 way, dalh slider",none,none,none,none,none,front opening,1,blackmetal effectykk 580,blackmetal effectykk 580,blackmetal effectykk 580,none,none
+145,edier,eiv4462,zippers,1,0,0,1,"5mm reversible vislonopen end, 1 waydu slider",none,none,none,none,none,for ias system,1,blackykk 580,blackykk 580,blackykk 580,none,none
+146,edier,eiv4462,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slider",none,none,none,none,none,inner pocket,1,blackykk 580,blackykk 580,blackykk 580,none,none
+147,edier,eiv4462,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slider",none,none,none,none,none,hand pockets,2,blackykk 580,blackykk 580,blackykk 580,none,none
+148,edier,eiv4462,zippers,1,0,0,1,"vislon zip5mmautolock, close end1 way, dalh slider",none,none,none,none,none,right chest pocket,1,blackykk 580,blackykk 580,blackykk 580,none,none
+149,edier,eiv4462,zippers,1,0,0,1,"coil zip3mmautolock, open end1 way, da slider",none,none,none,none,none,removable hood12 cm,1,nightfall18-4026 tpx,blackykk 580,deep jungle19-0508 tcx,none,none
+150,edier,eiv4462,trims,1,0,0,1,puller rubberref: eiw18-03,none,none,none,none,none,center front opening ,1,black,black,black,none,none
+151,edier,eiv4462,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,hand pockets,2,black,black,black,none,none
+152,edier,eiv4462,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,chest pocket,1,black,black,black,none,none
+153,edier,eiv4462,trims,1,0,0,1,"drawstring outdoorref: ew026supplier: yf zipper0,2cmelastic",none,none,none,none,none,hood,1,black,black,black,none,none
+154,edier,eiv4462,trims,1,0,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,inner pocket,1,black,black,black,none,none
+155,edier,eiv4462,trims,1,0,0,1,colored pearleis15u-xmper01supplier: unitex,none,none,none,none,none,back hood,1,black,black,black,none,none
+156,edier,eiv4462,trims,1,0,0,1,rubber stopperref: eis15u-xmstp01supplier: unitex,none,none,none,none,none,back hood,1,black,black,black,none,none
+157,edier,eiv4462,trims,1,0,0,1,colored webbingref: eis15u-xmtre01supplier: yf zipperto hold stoppers,none,none,none,none,none,body hemback hood,1,black,black,black,none,none
+158,edier,eiv4462,trims,1,0,0,1,eyelet 12mmlocal sourcing,none,none,none,none,none,back hood,1,black,black,black,none,none
+159,edier,eiv4462,trims,1,0,0,1,small plastic snapref : eiw16-16supplier : unitex12mm,none,none,none,none,none,removable hoodcuff flaps3 in 1 connection / 3 points,42 + 43,black,black,black,none,none
+160,edier,eiv4462,trims,1,0,0,1,eider hangloopref : eiw18-01supplier : 'yf zipper4mm diameter,none,none,none,none,none,hangloop at collar,1,black/ raven/ misty grey,black/ raven/ misty grey,black/ raven/ misty grey,none,none
+161,edier,eiv4462,labels,1,0,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",none,none,none,none,none,sewn on left shoulder of outside jacket,1,black,black,black,none,none
+162,edier,eiv4462,labels,1,0,0,1,woven hangloop eiderref: eiw15-07supplier: sml,none,none,none,none,none,inside collar,1,black,black,black,none,none
+163,edier,eiv4462,labels,1,0,0,1,size woven label mmgalpha women topsupplier: smlref: lws18-04with rn + ca numbers,none,none,none,none,none,inside collar under hangloop,1,black,black,black,none,none
+164,edier,eiv4462,labels,1,0,0,1,canadian labelfor paddinglocal sourcing,none,none,none,none,none,inside left,1,white,white,white,none,none
+165,edier,eiv4462,labels,1,0,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3supplier: sml,none,none,none,none,none,"under snow skirt, left side at 16cm from the bottommust be out of the store pocket for sms",1,white,white,white,none,none
+166,edier,eiv4462,hangtas,1,0,0,1,"plastic pinlocal sourcingto be confirmed10cm, white",none,none,none,none,none,to attach the hangtag,1,none,none,none,none,none
+167,edier,eiv4462,hangtas,1,0,0,1,biggencode stickerlocal sourcing5cm x 5cm,none,none,none,none,none,sticked at back of corporate hangtag,1,none,none,none,none,none
+168,edier,eiv4462,hangtas,1,0,0,1,brand hangtageid_1_corporate  (eidht01 / orli : 396031 )supplier: triple star,none,none,none,none,none,position 1,1,none,none,none,none,none
+169,edier,eiv4462,hangtas,1,0,0,1,engagement hangtageid_2_pfcfree  (eidht025 / 396045 :)supplier: triple star,none,none,none,none,none,position 2,1,none,none,none,none,none
+170,edier,eiv4462,hangtas,1,0,0,1,engagement hangtageid_2_lowimpact  (eidht024 / 396070 :)supplier: triple star,none,none,none,none,none,position 3,1,none,none,none,none,none
+171,edier,eiv4462,hangtas,1,0,0,1,fabric hangtageid_3_defender10/10_fst  (eidht0303 / 396050 : )supplier: triple star,none,none,none,none,none,position 4,1,none,none,none,none,none
+172,edier,eiv4462,zippers,0,1,0,1,ykkreversed zip5mmref slider dalh,none,none,none,none,none,front opening for ias system,1,raven,black,deep jungle,none,none
+173,edier,eiv4462,zippers,0,1,0,1,ykkreversible injected zip5mmref slider #du,none,none,none,none,none,front opening for ias system,1,raven,black,deep jungle,none,none
+174,edier,eiv4462,trims,0,1,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,center front opening,1,black,black,black,none,none
+175,edier,eiv4462,trims,0,1,0,1,"new under dev.drawstring outdoorref: ew026supplier: yf zipper0,2cmelastic",none,none,none,none,none,loop at back collar,1,black,black,black,none,none
+176,edier,eiv4462,trims,0,1,0,1,"new under dev.drawstring outdoorref: ew026supplier: yf zipper0,2cmelastic",none,none,none,none,none,line for connexionloops at bottom of sleeves for connexion,2,black,black,black,none,none
+177,edier,eiv4462,trims,0,1,0,1,lycra bias unicolorref: a00a-l11133/20supplier: wilson,none,none,none,none,none,hand pockets finishings,2,black,black,black,none,none
+178,edier,eiv4462,labels,0,1,0,1,woven hangloop eiderref: eiw15-07supplier: sml,none,none,none,none,none,inside collar,1,black,black,black,none,none
+179,edier,eiv4462,labels,0,1,0,1,made in women topmade in / women/ bl1eitph00esupplier: sml,none,none,none,none,none,inside collar,1,black,black,black,none,none
+180,edier,eiv4462,labels,0,1,0,1,canadian labelfor paddinglocal sourcing,none,none,none,none,none,inside left,1,white,white,white,none,none
+181,edier,eiv4462,labels,0,1,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3supplier: sml,none,none,none,none,none,inside left,1,white,white,white,none,none
+182,edier,eiv4462,labels,0,1,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",none,none,none,none,none,sewn on left shoulder of inside jacket,1,black,black,black,none,none
+183,edier,eiv4414,fabric 1,1,0,1,0,defender discovery 2,libolon,06302 10k/10k,88% pes 12% pu // 100% tpu // 0,"56""",0,full jacket,none,noir,nightfall,dark night,dark orange,misty grey
+184,edier,eiv4414,lining,1,0,1,0,shell fabric,libolon  ref. 06302,none,none,none,none,facing,none,noir,nightfall,dark night,dark orange,misty grey
+185,edier,eiv4414,lining,1,0,1,0,black nylon ,local sourcing,none,none,none,none,"sleeves + inner pocket bag + care label pocket
+",none,black,black,black,black,black
+186,edier,eiv4414,lining,1,0,1,0,lycra,local sourcing,none,none,none,none,inner cuffs,none,black,black,black,black,black
+187,edier,eiv4414,lining,1,0,1,0,thermo honeycomb biface,wide plus ref. kmq007-pj,none,none,none,none,inner cuffs,none,ghost/ steel grey,dark nightfall // nightfall,dark night/ misty gret, orange/dark orange,dark night/misty grey
+188,edier,eiv4414,lining,1,0,1,0,downproof planet,caroltex ref. 8093ldf3,none,none,none,none,collar + body,none,noir,noir,rouge,noir,dark orange
+189,edier,eiv4414,lining,1,0,1,0,mesh stretch,local sourcing,none,none,none,none,goggle pocket,none,black,black,black,black,black
+190,edier,eiv4414,lining,1,0,1,0,goggle cleaner,local sourcing,none,none,none,none,inside goggle pocket,none,grey,grey,grey,grey,grey
+191,edier,eiv4414,lining,1,0,1,0,cire taffetas,local sourcing,none,none,none,none,snowskirt + under snowskirt,none,black,black,black,black,black
+192,edier,eiv4414,lining,1,0,1,0,foam reinforcement,local sourcing,none,none,none,none,hood peak,none,none,none,none,none,none
+193,edier,eiv4414,pockets,1,0,1,0,micromax,local sourcing,none,none,none,none,hand pockets,none,black,black,black,black,black
+194,edier,eiv4414,pockets,1,0,1,0,nylon,local sourcing,none,none,none,none,chest pocket + skipass pocket + inner pocket,none,black,black,black,black,black
+195,edier,eiv4414,insulation,1,0,1,0,eloft / pm quality,local sourcing,none,none,none,100 g,body,none,none,none,none,none,none
+196,edier,eiv4414,insulation,1,0,1,0,eloft / pm quality,local sourcing,none,none,none,80g,sleeves,none,none,none,none,none,none
+197,edier,eiv4414,insulation,1,0,1,0,eloft / pm quality,local sourcing,none,none,none,40g,hood + collar,none,none,none,none,none,none
+198,edier,eiv4414,waterproofness,1,0,0,1,sealed seams,none,none,none,none,none,critical seam taped,none,none,none,none,none,none
+199,edier,eiv4414,threads,1,0,0,1,topstitching,none,none,none,none,none,no visible topstitching,none,matching,matching,matching,matching,matching
+200,edier,eiv4414,threads,1,0,0,1,bartacks,none,none,none,none,none,all/ vertical,none,matching,matching,matching,matching,matching
+201,edier,eiv4414,zippers,1,0,0,1,"vislon zip5mmautolock, open end1 way, dalh slidersupplier : ykk",none,none,none,none,none,front opening,1,ravenwith  black teethykk 301 ,blackwith  black teethykk 580,dark nightwith true blood teethykk 169,dark orangewith  black teethykk 045,misty greywith  black teethykk 329
+202,edier,eiv4414,zippers,1,0,0,1,"waterproofvislon zip5mmautolock, close end1 way, dalh slider",none,none,none,none,none,chest pocket,1,ravenwith  black teethykk 301 ,blackwith  black teethykk 580,dark nightwith true blood teethykk 169,dark orangewith  black teethykk 045,misty greywith  black teethykk 329
+203,edier,eiv4414,zippers,1,0,0,1,"coil zip3mmautolock, close end1 way, dalh slider",none,none,none,none,none,hand pockets,2,ravenykk 301 ,nightfallykk 074,dark nightykk 169,dark orangeykk 045,misty greyykk 329
+204,edier,eiv4414,zippers,1,0,0,1,"coil zip3mmautolock, close end1 way, dalh slider",none,none,none,none,none,ski pass pocket,1,ravenykk 301 ,nightfallykk 074,dark nightykk 169,dark orangeykk 045,misty greyykk 329
+205,edier,eiv4414,zippers,1,0,0,1,"coil zip3mmnon lock, close end1 way, dfbw slider",none,none,none,none,none,airventsslider at bottom when closed,2,ravenykk 301 ,nightfallykk 074,dark nightykk 169,dark orangeykk 045,misty greyykk 329
+206,edier,eiv4414,zippers,1,0,0,1,"reversed coil zip3mmnon lock, close end1 way, dfbw slider",none,none,none,none,none,inner pocket,1,blackykk 580,blackykk 580,blackykk 580,blackykk 580,blackykk 580
+207,edier,eiv4414,zippers,1,0,0,1,"coil zip3mmautolock, open end1 way, da slider",none,none,none,none,none,removable hood12 cm,1,ravenykk 301 ,nightfallykk 074,dark nightykk 169,dark orangeykk 045,misty greyykk 329
+208,edier,eiv4414,trims,1,0,0,1,puller rubberref: eiw18-03supplier : dragon times,none,none,none,none,none,center front opening,1,black,black,dark night,black,black
+209,edier,eiv4414,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,skipass pocket,1,black,black,dark night,black,black
+210,edier,eiv4414,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,hand pockets,2,black,black,dark night,black,black
+211,edier,eiv4414,trims,1,0,0,1,puller rubberref: eis19-05supplier : dragon times,none,none,none,none,none,chest pocket,1,black,black,dark night,black,black
+212,edier,eiv4414,trims,1,0,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,inner pocket,1,black,black,dark night,black,black
+213,edier,eiv4414,trims,1,0,0,1,drawstring outdoorref: ew026supplier: yf zipperelastic,none,none,none,none,none,hoodbody hem,11,black,black,dark night,black,black
+214,edier,eiv4414,trims,1,0,0,1,cord lockref: eiw17-02supplier: dragon timesuse with 2mm drawstring,none,none,none,none,none,hood,2,black,black,dark night,black,black
+215,edier,eiv4414,trims,1,0,0,1,rubber stopperref: eis15u-xmstp01supplier: unitex2cm x 1cm,none,none,none,none,none,back hoodbody hem,12,black,black,dark night,black,black
+216,edier,eiv4414,trims,1,0,0,1,colored eyeletref: eis15u-xmoei01supplier: unitex9mm,none,none,none,none,none,body hem,4,black,black,dark night,black,black
+217,edier,eiv4414,trims,1,0,0,1,eyeleteis15u-xmoei01,none,none,none,none,none,back hood,1,black,black,dark night,black,black
+218,edier,eiv4414,trims,1,0,0,1,colored pearleis15u-xmper01supplier: unitex,none,none,none,none,none,back hood,1,black,black,dark night,black,black
+219,edier,eiv4414,trims,1,0,0,1,colored pearleis15u-xmper01supplier: unitex,none,none,none,none,none,body hem,2,black,black,dark night,black,black
+220,edier,eiv4414,trims,1,0,0,1,"colored webbingref: eis15u-xmtre01supplier: yf zipper0,5cm wideto hold stoppers",none,none,none,none,none,back hood,1,black,black,dark night,black,black
+221,edier,eiv4414,trims,1,0,0,1,"colored webbingref: eis15u-xmtre01supplier: yf zipper0,5cm wideto hold stoppers",none,none,none,none,none,body hem,2,black,black,dark night,black,black
+222,edier,eiv4414,trims,1,0,0,1,eider hangloopref : eiw18-01supplier : 'yf zipper4mm diameter,none,none,none,none,none,hangloop at collar,1,black/ raven/ misty grey,black/ raven/ misty grey,dark night/ black/ dark night,black/ raven/ misty grey,black/ raven/ misty grey
+223,edier,eiv4414,trims,1,0,0,1,soft webbing for liningref:eiw17-15  supplier:  dragon times1cm,none,none,none,none,none,above inner pocketabove snowskirt,11,black,black,dark night,black,black
+224,edier,eiv4414,trims,1,0,0,1,eider snapref : eiw18-04supplier : unitex17mm,none,none,none,none,none,front flapcuff flaps,2f+2m2f+4m,black,black,dark night,black,black
+225,edier,eiv4414,trims,1,0,0,1,no slip elastic 25mmsiliconeref: eis17-08supplier: benefit,none,none,none,none,none,snowskirt,1,black,black,black,black,black
+226,edier,eiv4414,trims,1,0,0,1,small plastic snapref : eiw16-16supplier : unitex12mm,none,none,none,none,none,removable hoodsnowskirt openingsnowskirt elasticsnowskirt garage (check my comments for details),4f+4m2f+4m1f+1m2f+2m,black,black,dark night,black,black
+227,edier,eiv4414,trims,1,0,0,1,large elasticref: ew17-14supplier: wilson,none,none,none,none,none,for phone pocket,3,black,black,dark night,black,black
+228,edier,eiv4414,trims,1,0,0,1,lycra bias unicolorref: a00a-l11133/20supplier: wilson,none,none,none,none,none,goggle pocket,1,black,black,dark night,black,black
+229,edier,eiv4414,trims,1,0,0,1,elastic webbing 10mm18cm fininshed lenghtlocal sourcing,none,none,none,none,none,goggle cleaner,1,black,black,dark night,black,black
+230,edier,eiv4414,trims,1,0,0,1,herringbone webbingsupplier : wilson,none,none,none,none,none,cf stormflap,1,noir,noir,true blood,noir,dark orange
+231,edier,eiv4414,trims,1,0,0,1,"velcrounder front flap1,2cm widthlocal sourcing",none,none,none,none,none,none,1,tone/tone,tone/tone,tone/tone,tone/tone,tone/tone
+232,edier,eiv4414,trims,1,0,0,1,rubber earphone holeref: pa-a2  mp3 rubbert bsupplier: yf zipper,none,none,none,none,none,inner pocket,1,black,black,black,black,black
+233,edier,eiv4414,labels,1,0,0,1,"new rubber plate
+ref: eiw18-14
+supplier : clotex 
+35 mm x 35 mm",none,none,none,none,none,sewn on left shoulder,1,black,black,dark night,black,black
+234,edier,eiv4414,labels,1,0,0,1,woven big labelref: eiw18-11supplier: sml120x120mm,none,none,none,none,none,sewn inside back,1,black,black,dark night,black,black
+235,edier,eiv4414,labels,1,0,0,1,newsize woven label mmgalpha men topsupplier: smlref: lws18-01with rn + ca numbers,none,none,none,none,none,below the hangloop at collar,1,black,black,dark night,black,black
+236,edier,eiv4414,labels,1,0,0,1,canadian labelfor paddinglocal sourcing,none,none,none,none,none,inside left,1,white,white,white,white,white
+237,edier,eiv4414,labels,1,0,0,1,satin care labelref label 1:  smlcl1ref label 2: smlcl2ref label 3: smlcl3supplier: sml,none,none,none,none,none,inside left,1,white,white,white,white,white
+238,edier,eiv4414,hangtas,1,0,0,1,"plastic pinlocal sourcingto be confirmed10cm, white",none,none,none,none,none,to attach the hangtag,1,none,none,none,none,none
+239,edier,eiv4414,hangtas,1,0,0,1,biggencode stickerlocal sourcing5cm x 5cm,none,none,none,none,none,sticked at back of corporate hangtag,1,none,none,none,none,none
+240,edier,eiv4414,hangtas,1,0,0,1,brand hangtageid_1_corporate  (eidht01 / orli : 396031 )supplier: ,none,none,none,none,none,position 1,1,none,none,none,none,none
+241,edier,eiv4414,hangtas,1,0,0,1,engagement hangtageid_2_pfcfree  (eidht025 / 396045 :)supplier: triple star,none,none,none,none,none,position 2,1,none,none,none,none,none
+242,edier,eiv4414,hangtas,1,0,0,1,engagement hangtageid_2_lowimpact  (eidht024 / 396070 :)supplier: triple star,none,none,none,none,none,position 3,1,none,none,none,none,none
+243,edier,eiv4414,hangtas,1,0,0,1,fabric hangtageid_3_defender10/10_fst  (eidht0303 / 396050 : )supplier: triple star,none,none,none,none,none,position 4,1,none,none,none,none,none
+244,edier,eiv4521,fabric 1,1,0,1,0,defenderdiscovery 2,libolon,06302 5k/5k,88% pes 12% pu,0,0,main fabric,none,blue morpho,dark night,dark wine,none,none
+245,edier,eiv4521,fur,1,0,1,0,"fake fur
+ref: f1g0405klxe049n
+supplier: nanjing hg-nice gain fabric co
+compo: mac 100% weight: 1400g/m width: 152cm+/-2",none,none,none,none,none,hood,none,x,x,x,none,none
+246,edier,eiv4521,lining,1,0,1,0,210t nylon,none,none,none,none,none,"front panel + inside sleeves + hood + hand pocket bag+ back pannel + hand pockets inner side only
+",none,green fizz,candy pink,black,none,none
+247,edier,eiv4521,lining,1,0,1,0,cormax,none,none,none,none,none,inside hand pockets+ triangles + back part of inside front flap,none,black,black,black,none,none
+248,edier,eiv4521,lining,1,0,1,0,shell,none,none,none,none,none," - cuffs facing
+ - front zip facing
+ - under triangle facing
+ - bottom hem facing
+ - hood facing
+",none,blue morpho,dark night,dark wine,none,none
+249,edier,eiv4521,lining,1,0,1,0,cormax non brushed side,none,none,none,none,none,collar + back of chinflap,none,black,black,black,none,none
+250,edier,eiv4521,pockets,1,0,1,0,cormax,none,none,none,none,none,outer side of hand pocket bags,none,black,black,black,none,none
+251,edier,eiv4521,pockets,1,0,1,0,210t nylon,none,none,none,none,none,inner pocket bags + side zipped pocket + inner side of hand pocket bags,none,black,black,black,none,none
+252,edier,eiv4521,waterproofness,1,0,1,0,"seamtape 2ls
+22mms",none,none,none,none,none,critical seams ,none,transparent,transparent,transparent,none,none
+253,edier,eiv4521,threads,1,0,1,0,bartacks,none,none,none,none,none,all,none,matching,matching,matching,none,none
+254,edier,eiv4521,threads,1,0,1,0,topstitchings,none,none,none,none,none,all,none,matching,matching,matching,none,none
+255,edier,eiv4521,fabric 1,0,1,1,0,smu fleece,asia pacific,e3400,100% pes,0,0,main shell inside & outside garment ,none,green fizz,candy pink,saphir,none,none
+256,edier,eiv4521,lining,0,1,1,0,cormax,none,none,none,none,none," - hand pockets
+ - collar",none,black,black,black,none,none
+257,edier,eiv4521,threads,0,1,1,0,topstitchings,none,none,none,none,none,"all
+",none,matching ,matching ,matching ,none,none
+258,edier,eiv4521,threads,0,1,1,0,bartacks,none,none,none,none,none,"all
+",none,matching ,matching ,matching ,none,none
+259,edier,eiv4521,zippers,1,0,0,1,vislon zip 5mmzipper dalhopen end - 1 way right insert - autolock,none,none,none,none,none,front opening,1,blue morphoykk 020,dark nightykk 169,candy pinkykk 383,none,none
+260,edier,eiv4521,zippers,1,0,0,1,vislon zip ias system5mm ref ykk ,none,none,none,none,none,for ias system,1,blackykk 580,blackykk 580,blackykk 580,none,none
+261,edier,eiv4521,zippers,1,0,0,1,coil zip 3mmclose end - 1wayzipper dalh,none,none,none,none,none,side hand pockets ,2,blue morphoykk 020,dark nightykk 169,candy pinkykk 383,none,none
+262,edier,eiv4521,zippers,1,0,0,1,coil zip 3mmslider daopen end,none,none,none,none,none,removable hood,1,blue morphoykk 020,dark nightykk 169,candy pinkykk 383,none,none
+263,edier,eiv4521,zippers,1,0,0,1,reversed zip 3mmzipper dalhnew trim,none,none,none,none,none,inside left pocket,1,blue morphoykk 020blue morpho,dark nightykk 169candy pink,candy pinkykk 383candy pink,none,none
+264,edier,eiv4521,trims,1,0,0,1,new trimbig puller ref: eiw18-03supplier: dragon timesnew trim,none,none,none,none,none,full front opening,1,blue morphoblue morpho,candy pinkcandy pink,candy pinkcandy pink,none,none
+265,edier,eiv4521,trims,1,0,0,1,new trimlittle  puller ref: eis19-05supplier: dragon timesnew trim,none,none,none,none,none,hand pockets ,2,"blue morphoblue morpho
+dark night
+white","candy pinkcandy pink
+dark night
+white","candy pinkcandy pink
+dark night
+white",none,none
+266,edier,eiv4521,trims,1,0,0,1,new trimtricolordrawstring outdoorref: en-wb001elastic,none,none,none,none,none,back adjustable hood,1,"blue morpho
+dark night
+whiteblue morpho","candy pink
+dark night
+whitedark night","candy pink
+dark night
+whitecandy pink",none,none
+267,edier,eiv4521,trims,1,0,0,1,drawcordref: eis15u-xmco01supplier: yf zippernot elastic,none,none,none,none,none,left pocket inside garment,1,blue morpho,dark night,candy pinkcandy pink,none,none
+268,edier,eiv4521,trims,1,0,0,1,"colored stopper supplier unitex
+ref eis15u-xmstp01colored webbing 
+supplier yf
+ref eis15u-xmtre01",none,none,none,none,none,back adjustable hood,1,blue morpho,dark night,candy pinkcandy pink,none,none
+269,edier,eiv4521,trims,1,0,0,1,"colored webbing 
+supplier yf
+ref eis15u-xmtre01",none,none,none,none,none,back adjustable hood,1,blue morpho,dark night,candy pinkcandy pink,none,none
+270,edier,eiv4521,trims,1,0,0,1,"colored pearlref: eis15u-xmper01supplier: unitexeyelet 9mm 
+supplier unitex 
+ref eis15u-xmoei01",none,none,none,none,none,back hood,1,blue morpho,dark night,candy pinkcandy pink,none,none
+271,edier,eiv4521,trims,1,0,0,1,"eyelet 12mm 
+",none,none,none,none,none,back adjustable hood ,1,silver,silver,silver,none,none
+272,edier,eiv4521,trims,1,0,0,1,velcro + hook local sourcing,none,none,none,none,none,tab cuff ,2m+2f,matching,matching,matching,none,none
+273,edier,eiv4521,labels,1,0,0,1,woven hangloop eiderref: eiw15-07supplier: smlnew labelsize woven label mmg,none,none,none,none,none,inside middle back at top,1,black,black,black,none,none
+274,edier,eiv4521,labels,1,0,0,1,new labelsize woven label mmgalpha women topsupplier: smlwith rn + ca numbers,none,none,none,none,none,under shell fabric yoke at back,1,black,black,black,none,none
+275,edier,eiv4521,labels,1,0,0,1,satin ribbon,none,none,none,none,none,inner back of jacket with skirt,1,white,white,white,none,none
+276,edier,eiv4521,zippers,0,1,0,1,vislon zip ias system5mm ref ykk slider ducoil zip 3mm,none,none,none,none,none,for ias system,1,blue morphoykk 020blue morpho,dark nightykk 169dark night,candy pinkykk 383candy pink,none,none
+277,edier,eiv4521,zippers,0,1,0,1,vislon zip ias system5mm ref ykk slider ducoil zip 3mm,none,none,none,none,none,hand pockets ,2,blue morphoykk 020blue morpho,dark nightykk 169dark night,candy pinkykk 383candy pink,none,none
+278,edier,eiv4521,zippers,0,1,0,1,coil zip 3mmclose end - 1wayslidder dablh,none,none,none,none,none,hand pockets ,2,blue morphoykk 020,dark nightykk 169,candy pinkykk 383 ,none,none
+279,edier,eiv4521,trims,0,1,0,1,drawcordref: eis 15u-xmco01supplier: yz zippernew trim,none,none,none,none,none,front opening,1,"darkblue morphoblue morpho
+dark night
+white","dark nightcandy pink
+dark night
+white","candy pinkcandy pink
+dark night
+white",none,none
+280,edier,eiv4521,trims,0,1,0,1,drawcordref: eis 15u-xmco01supplier: yz zippernew trim,none,none,none,none,none,hand pockets ,2,"darkblue morphoblue morpho
+dark night
+white","dark nightcandy pink
+dark night
+white","candy pinkcandy pink
+dark night
+white",none,none
+281,edier,eiv4521,trims,0,1,0,1,new trimtricolordrawstring outdoorref: en-wb001elastic,none,none,none,none,none,for loop on bottom sleeves,2,"blue morpho
+dark night
+white","candy pink
+dark night
+white","candy pink
+dark night
+white ",none,none
+282,edier,eiv4521,trims,0,1,0,1,new trimtricolordrawstring outdoorref: en-wb001elastic,none,none,none,none,none,collar  ias system,1,"blue morpho
+dark night
+white","candy pink
+dark night
+white","candy pink
+dark night
+white ",none,none
+283,edier,eiv4521,labels,0,1,0,1,new labelsize woven label mmgalpha women topsupplier: smlwith rn + ca numbers,none,none,none,none,none,inside collar,1,black,black,black,none,none
+284,edier,eiv4521,labels,0,1,0,1,"wash care label 
+supplier sml quality satinwoven hangloop eider
+supplier sml
+ref eiw15-07",none,none,none,none,none,inside left side seam15cm of bottom,1,white,white,white,none,none
+285,edier,eiv4521,labels,0,1,0,1,"woven hangloop eider
+supplier sml
+ref eiw15-07",none,none,none,none,none,inside collar,1,black,black,black,none,none
+286,edier,eiv4521,hangtas,0,1,0,1,new hangtagcorporate eider largeref triple star /  eidht01,none,none,none,none,none,check the charter quality for to know the position,1,x,x,x,none,none
+287,edier,eiv4521,hangtas,0,1,0,1,new hangtagfur free hang tagref triple star /  eidht023,none,none,none,none,none,inside hangtag corporate eider large position 1,1,x,x,x,none,none
+288,edier,eiv4521,hangtas,0,1,0,1,new hangtagdefender  5k / 5k(critical seams sealed)ref triple star / eidht0300,none,none,none,none,none,inside hangtag corporate eider large position 2,1,x,x,x,none,none
+289,edier,eiv4521,hangtas,0,1,0,1,fake fur informationlocal sourcingeiv3668,none,none,none,none,none,inside leftsew with care label,1,white,white,white,none,none

@@ -1,0 +1,24 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 pant,none,none,none,none,none,none,none,none
+1,none,season:,none,winter 2017/2018,none,contractor:,none,soluna,none,none
+2,none,style number:,none,l1-201-17,none,date created:,none,2016-02-22 00:00:00,none,none
+3,none,style name:,none,gemini 2l pant,none,date revised:,none,none,none,none
+4,none,waterproof/breathability:,none,marked as: 20k/ 20k,none,block:,none,l1-201-16 field reference sample,none,none
+5,none,seam sealining:,none,fully taped,none,fit:,none,regular fit,none,none
+6,none,insulation:,none,shell with reverse tricot seat,none,target fob:,none,48,none,none
+10,none,none,none,none,colorways,none,none,none,none,none
+11,shell fabric,item,supplier/ ref number,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+12,all shell is same fabric,"n6 nylon ottoman 2l, 20k/20k  $5.15",wideplus wnp121-bj4sr4 3l,100% nylon ottoman,black,none,none,none,none,none
+14,insulation,item,supplier/ ref number,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+15,shell,none,none,none,shell,none,none,none,none,none
+17,seam tape,item,supplier/ ref number,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+18,fully taped,width...seam tape,sealon,none,fully taped,none,none,none,none,none
+20,bonding film,item,supplier/ ref number,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+21,"fly, hand pocket openings, wp zipper windown and zipper garages, beltloops, back pocket flap, hem welts",glue film,sealon / ,none,yes,none,none,none,none,none
+23,lining,item,supplier/ ref number,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+24,main body,solid 210t,please sorce,100% nylon,black,none,none,none,none,none
+25,seat,reversed 120g brushed tricot,please sorce,100% poly,black,none,none,none,none,none
+26,lower leg & gaiter,coated 210t,please sorce,100% nylon,black,none,none,none,none,none
+27,waistband & fly,120g brushed tricot,please sorce,100% poly,black,none,none,none,none,none
+28,hand pocket lining,120g brushed tricot,please sorce,100% poly,black,none,none,none,none,none
+29,"""balls out"" venting",mesh,please sorce,100% poly,black,none,none,none,none,none

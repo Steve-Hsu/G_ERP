@@ -1,0 +1,960 @@
+,Style,position,ref num,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-204 TRAVERSE_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-204 TRAVERSE_SHELL.csv,polyfill,"pinneco
+mantle-b-040-152",upper body,100% polyester,40g,,,,,
+2,N18-204 TRAVERSE_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-204 TRAVERSE_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,N18-204 TRAVERSE_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,N18-204 TRAVERSE_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+6,N18-204 TRAVERSE_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower leg & gaiter,100% nylon,color,,,,,
+7,N18-204 TRAVERSE_SHELL.csv,brushed tricot,supplier / ref code,"waistband, fly, hand pocket bags",100% polyester,color,,,,,
+8,N18-204 TRAVERSE_SHELL.csv,regular mesh,supplier / ref code,leg vents,100% polyester,color,,,,,
+0,N18-105 REDUCE ANORAK_TRIMS.csv,#5 vislon zipper,ykk / dalh 1-way semi auto locking,center front,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+1,N18-105 REDUCE ANORAK_TRIMS.csv, #5 coil zipper,non ykk / dfw short 1-way non locking,chest pocket vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+2,N18-105 REDUCE ANORAK_TRIMS.csv, #5 coil zipper,non ykk / dfw short 2-way bottom locking,side entry (right),,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+3,N18-105 REDUCE ANORAK_TRIMS.csv, #5 coil zipper,non ykk / dfw short 1-way non locking,hand pockets vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1 per side = 2
+4,N18-105 REDUCE ANORAK_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+5,N18-105 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+6,N18-105 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket vertical,,color,,,,,1
+7,N18-105 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,side entry (right),,color,,,,,2
+8,N18-105 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+9,N18-105 REDUCE ANORAK_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+10,N18-105 REDUCE ANORAK_TRIMS.csv,nitro faux suede patch/ n19-trim002,chun wo ho/ m1494817,front left hem,,color,,,,,1
+11,N18-105 REDUCE ANORAK_TRIMS.csv,"nitro embossed 
+petersham logo binding tape","chun wo ho
+e1342816 20mm",hood and sleeve hems,,color,,,,,3
+12,N18-105 REDUCE ANORAK_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,N18-105 REDUCE ANORAK_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust (left side),,color,,,,,2
+14,N18-105 REDUCE ANORAK_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+15,N18-105 REDUCE ANORAK_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-105 REDUCE ANORAK_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,N18-105 REDUCE ANORAK_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+18,N18-105 REDUCE ANORAK_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+19,N18-105 REDUCE ANORAK_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-203 INCLINE_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-203 INCLINE_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-203 INCLINE_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-203 INCLINE_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+4,N18-203 INCLINE_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+5,N18-203 INCLINE_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower leg & gaiter,100% nylon,color,,,,,
+6,N18-203 INCLINE_SHELL.csv,brushed tricot,supplier / ref code,"waistband, fly, hand pocket bags",100% polyester,color,,,,,
+7,N18-203 INCLINE_SHELL.csv,power stretch mesh,supplier / ref code,leg vents,100% polyester,color,,,,,
+0,W18-103 SPIRE_032917_TRIMS.csv, #5 vislon zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-103 SPIRE_032917_TRIMS.csv,#3 aquaguard coil zipper with matte transparent film (5cnt10),ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,W18-103 SPIRE_032917_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,W18-103 SPIRE_032917_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,hand pockets horizontal,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-103 SPIRE_032917_TRIMS.csv, #3 coil zipper,ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+5,W18-103 SPIRE_032917_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,W18-103 SPIRE_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+7,W18-103 SPIRE_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,arm pocket,,color,,,,,1
+8,W18-103 SPIRE_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+9,W18-103 SPIRE_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+10,W18-103 SPIRE_032917_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,W18-103 SPIRE_032917_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,2
+12,W18-103 SPIRE_032917_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,W18-103 SPIRE_032917_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+14,W18-103 SPIRE_032917_TRIMS.csv,back hood adjust,duraflex 1-7976 10mm evileye tension lock nylon,back hood adjust,,color,,,,,1
+15,W18-103 SPIRE_032917_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust ,,metal color,,,,,2 per side = 4
+16,W18-103 SPIRE_032917_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+17,W18-103 SPIRE_032917_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+18,W18-103 SPIRE_032917_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+19,W18-103 SPIRE_032917_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+20,W18-103 SPIRE_032917_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+21,W18-103 SPIRE_032917_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+22,W18-103 SPIRE_032917_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+23,W18-103 SPIRE_032917_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+24,W18-103 SPIRE_032917_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+25,W18-103 SPIRE_032917_TRIMS.csv,"elastine tape (used in 1"" x1 1/2"" welt)",xxx,lining media pocket cord exit,,color,,,,,1
+26,W18-103 SPIRE_032917_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+27,W18-103 SPIRE_032917_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+28,W18-103 SPIRE_032917_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+29,W18-103 SPIRE_032917_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",xxx,chin,,match to shell,,,,,1
+30,W18-103 SPIRE_032917_TRIMS.csv," 1/2"" x 2 velcro with rounded corners",xxx,center front placket,,match to shell,,,,,4
+31,W18-103 SPIRE_032917_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+32,W18-103 SPIRE_032917_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+33,W18-103 SPIRE_032917_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+34,W18-103 SPIRE_032917_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+35,W18-103 SPIRE_032917_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+36,W18-103 SPIRE_032917_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-105 AARAN 1ST PROTO REVISION_SHELL.csv,insulation,supplier/ reference number,location ,content,black,chive/chino,merlot,cascade/chino,smkd pink ,
+1,W18-105 AARAN 1ST PROTO REVISION_SHELL.csv,seam tape,supplier/ reference number,location ,content,black,chive/chino,merlot,cascade/chino,smkd pink ,
+2,W18-105 AARAN 1ST PROTO REVISION_SHELL.csv,lining,supplier/ reference number,location ,content,black,chive/chino,merlot,cascade/chino,smkd pink ,
+0,N18-102 DENALI ANORAK_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-102 DENALI ANORAK_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-102 DENALI ANORAK_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-102 DENALI ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+4,N18-102 DENALI ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,N18-102 DENALI ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+6,N18-102 DENALI ANORAK_SHELL.csv,solid 210t ,supplier / ref code,chest pocket bag,100% nylon,color,,,,,
+7,N18-102 DENALI ANORAK_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+8,N18-102 DENALI ANORAK_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+9,N18-102 DENALI ANORAK_SHELL.csv,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,,,,,
+10,N18-102 DENALI ANORAK_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,N18-108 ACCESS softshell_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-108 ACCESS softshell_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-108 ACCESS softshell_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-108 ACCESS softshell_SHELL.csv,brushed tech mesh,supplier / ref code,chin facing,100% polyester,color,,,,,
+4,N18-108 ACCESS softshell_SHELL.csv,solid 210t,solis / sonp006-1,media pocket,100% nylon,color,,,,,
+0,N18-201-KITAMI BIB 3L_032917_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-201-KITAMI BIB 3L_032917_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-201-KITAMI BIB 3L_032917_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+0,N18-104 POWELL_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-104 POWELL_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-104 POWELL_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-104 POWELL_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+4,N18-104 POWELL_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,N18-104 POWELL_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+6,N18-104 POWELL_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+7,N18-104 POWELL_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower body & powder skirt,100% nylon,color,,,,,
+8,N18-104 POWELL_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+9,N18-104 POWELL_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+10,N18-104 POWELL_SHELL.csv,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,,,,,
+11,N18-104 POWELL_SHELL.csv,regular mesh,supplier / ref code,underarm vents,100% polyester,color,,,,,
+12,N18-104 POWELL_SHELL.csv,regular mesh ,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+13,N18-104 POWELL_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,N18-112_ATACAMA_PONCHO_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-112_ATACAMA_PONCHO_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-112_ATACAMA_PONCHO_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-112_ATACAMA_PONCHO_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+4,N18-112_ATACAMA_PONCHO_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+0,N18-109 REGULATOR Fleece_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-109 REGULATOR Fleece_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-109 REGULATOR Fleece_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-109 REGULATOR Fleece_SHELL.csv,solid 210t,solis / sonp006-1,pocket bags?,100% nylon,color,,,,,
+0,W18-104 CIRQUE_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-104 CIRQUE_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-104 CIRQUE_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-104 CIRQUE_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+4,W18-104 CIRQUE_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,W18-104 CIRQUE_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+6,W18-104 CIRQUE_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+7,W18-104 CIRQUE_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower body & powder skirt,100% polyester,color,,,,,
+8,W18-104 CIRQUE_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+9,W18-104 CIRQUE_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+10,W18-104 CIRQUE_SHELL.csv,power stretch mesh ,supplier / ref code,underarm vents,100% polyester,color,,,,,
+11,W18-104 CIRQUE_SHELL.csv,power stretch mesh ,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+12,W18-104 CIRQUE_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,W18-203 WHISTLER_SHELL.csv,cavalry stretch twill,hyperbola / sc579-1 / 2l (printable),s,100% polyester,color,,,,,
+1,W18-203 WHISTLER_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-203 WHISTLER_SHELL.csv,polyfill,"pinneco
+mantle-b-040-152",upper body,100% polyester,40g,,,,,
+3,W18-203 WHISTLER_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,W18-203 WHISTLER_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+5,W18-203 WHISTLER_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+6,W18-203 WHISTLER_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+7,W18-203 WHISTLER_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower leg facing & gaiter,100% nylon,color,,,,,
+8,W18-203 WHISTLER_SHELL.csv,brushed tricot,supplier / ref code,"waistband, fly, hand pocket bags",100% polyester,color,,,,,
+9,W18-203 WHISTLER_SHELL.csv,regular mesh,supplier / ref code,leg vents,100% polyester,color,,,,,
+0,W18-102-FJALLKONA_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-102-FJALLKONA_SHELL.csv,polyfill,pinneco mantle,all over,100% polyester,40g,,,,,
+2,W18-102-FJALLKONA_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-102-FJALLKONA_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,W18-102-FJALLKONA_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+5,W18-102-FJALLKONA_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+6,W18-102-FJALLKONA_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+7,W18-102-FJALLKONA_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+8,W18-102-FJALLKONA_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower body & powder skirt,100% polyester,color,,,,,
+9,W18-102-FJALLKONA_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+10,W18-102-FJALLKONA_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+11,W18-102-FJALLKONA_SHELL.csv,power stretch mesh ,supplier / ref code,underarm vents,100% polyester,color,,,,,
+12,W18-102-FJALLKONA_SHELL.csv,power stretch mesh ,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+13,W18-102-FJALLKONA_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,W18-101 PALISADES_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-101 PALISADES_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-101 PALISADES_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-101 PALISADES_SHELL.csv,solid coated 210t,solis / sonp006-pu03,powder skirt,100% nylon,color,,,,,
+4,W18-101 PALISADES_SHELL.csv,shell,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+5,W18-101 PALISADES_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+6,W18-101 PALISADES_SHELL.csv,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,,,,,
+7,W18-101 PALISADES_SHELL.csv,power stretch mesh,supplier / ref code,underarm vents,100% polyester,color,,,,,
+8,W18-101 PALISADES_SHELL.csv,power stretch mesh,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+9,W18-101 PALISADES_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+10,W18-101 PALISADES_SHELL.csv,solid 210t ,solis / sonp006-1,upper of sleeve gaiter,content,color,,,,,
+0,N18-103 JARVIS_TRIMS.csv, #5 coil zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: tbd zipper tape color: black,,,,,1
+1,N18-103 JARVIS_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,chest pocket horizontal,,silder/pull color: tbd zipper tape color: black,,,,,1
+2,N18-103 JARVIS_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: tbd zipper tape color: black,,,,,1
+3,N18-103 JARVIS_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+4,N18-103 JARVIS_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets vertical,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+5,N18-103 JARVIS_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: tbd zipper tape color: black,,,,,1
+6,N18-103 JARVIS_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+8,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket horizontal,,color,,,,,1
+9,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+10,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+11,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+12,N18-103 JARVIS_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+13,N18-103 JARVIS_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,N18-103 JARVIS_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,1
+15,N18-103 JARVIS_TRIMS.csv,powder skirt gripper elastic ,"nitro embossed 
+petersham tape 
+(e1342816 20mm)
+chun wo ho",powder skirt gripper elastic ,,color,,,,,1
+16,N18-103 JARVIS_TRIMS.csv,goggle pocket binding,chun wo ho,goggle pocket opening,,color,,,,,1
+17,N18-103 JARVIS_TRIMS.csv,joey cord keep 3mm,woojin/ w863,lining center front chest,,black,,,,,1
+18,N18-103 JARVIS_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+19,N18-103 JARVIS_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+20,N18-103 JARVIS_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+21,N18-103 JARVIS_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+22,N18-103 JARVIS_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+23,N18-103 JARVIS_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust ,,metal color,,,,,2 per side = 4
+24,N18-103 JARVIS_TRIMS.csv,adjust,duraflex 1-17976 evil eye tension lock 10mm nylon,back hood adjust,,color,,,,,1
+25,N18-103 JARVIS_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+26,N18-103 JARVIS_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+27,N18-103 JARVIS_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+28,N18-103 JARVIS_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+29,N18-103 JARVIS_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+30,N18-103 JARVIS_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+31,N18-103 JARVIS_TRIMS.csv,"elastic  1""",xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+32,N18-103 JARVIS_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+33,N18-103 JARVIS_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+34,N18-103 JARVIS_TRIMS.csv,"elastine tape (used in 1"" x1 1/2"" welt)",xxx,lining media pocket cord exit,,color,,,,,1
+35,N18-103 JARVIS_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+36,N18-103 JARVIS_TRIMS.csv," 1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,chin,,match to shell,,,,,1
+37,N18-103 JARVIS_TRIMS.csv," 1/2"" x 2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,center front placket,,match to shell,,,,,4
+38,N18-103 JARVIS_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+39,N18-103 JARVIS_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+40,N18-103 JARVIS_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+41,N18-103 JARVIS_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+42,N18-103 JARVIS_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+43,N18-103 JARVIS_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-202 ELBRUS 2L_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-202 ELBRUS 2L_SHELL.csv,polyfill,"pinneco
+mantle-b-040-152",upper body,100% polyester,40g,,,,,
+2,W18-202 ELBRUS 2L_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-202 ELBRUS 2L_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,W18-202 ELBRUS 2L_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,W18-202 ELBRUS 2L_SHELL.csv,solid 210t ,solis / sonp006-1,back pocket bag,100% nylon,color,,,,,
+6,W18-202 ELBRUS 2L_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower leg facing & gaiter,100% nylon,color,,,,,
+7,W18-202 ELBRUS 2L_SHELL.csv,brushed tricot,supplier / ref code,"waistband, fly, hand pocket bags",100% polyester,color,,,,,
+8,W18-202 ELBRUS 2L_SHELL.csv,power stretch mesh,supplier / ref code,leg vents,100% polyester,color,,,,,
+0,N18-101-GLADES_TRIMS.csv, #5 coil zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: tbd zipper tape color: black,,,,,1
+1,N18-101-GLADES_TRIMS.csv,#5 vislon aquaguard matte film (5vt9),ykk /  1-way dfw short non locking,chest pocket vertical,,silder/pull color: tbd zipper tape color: black,,,,,1
+2,N18-101-GLADES_TRIMS.csv,#5 vislon aquaguard matte film (5vt9),ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: tbd zipper tape color: black,,,,,1
+3,N18-101-GLADES_TRIMS.csv,#3 aquaguard coil zipper with matte transparent film (5cnt10),ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+4,N18-101-GLADES_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,hand pockets horizontal,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+5,N18-101-GLADES_TRIMS.csv, #3 coil zipper,ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: tbd zipper tape color: black,,,,,1
+6,N18-101-GLADES_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,N18-101-GLADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+8,N18-101-GLADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+9,N18-101-GLADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+10,N18-101-GLADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets horizontal,,color,,,,,1 per side = 2
+11,N18-101-GLADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+12,N18-101-GLADES_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,N18-101-GLADES_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,1
+14,N18-101-GLADES_TRIMS.csv,powder skirt gripper elastic ,"nitro embossed 
+petersham tape 
+(e1342816 20mm)
+chun wo ho",powder skirt gripper elastic ,,color,,,,,1
+15,N18-101-GLADES_TRIMS.csv,goggle pocket binding,chun wo ho,goggle pocket opening,,color,,,,,1
+16,N18-101-GLADES_TRIMS.csv,joey cord keep 3mm,woojin/ w863,lining center front chest,,black,,,,,1
+17,N18-101-GLADES_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+18,N18-101-GLADES_TRIMS.csv,15mm metal snap,luk's / 404,hidden at hem,,metal color,,,,,1 set
+19,N18-101-GLADES_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+20,N18-101-GLADES_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+21,N18-101-GLADES_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+22,N18-101-GLADES_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+23,N18-101-GLADES_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust ,,metal color,,,,,2 per side = 4
+24,N18-101-GLADES_TRIMS.csv,metal eyelets 11mm ,luk's / et89,back hood adjust,,metal color,,,,,1
+25,N18-101-GLADES_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+26,N18-101-GLADES_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+27,N18-101-GLADES_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+28,N18-101-GLADES_TRIMS.csv,"grosgrain 3/8""",xxx,attach back hood cord lock,,color,,,,,1
+29,N18-101-GLADES_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+30,N18-101-GLADES_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+31,N18-101-GLADES_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+32,N18-101-GLADES_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+33,N18-101-GLADES_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+34,N18-101-GLADES_TRIMS.csv,"elastine tape (used in 1"" x1 1/2"" welt)",xxx,lining media pocket cord exit,,color,,,,,1
+35,N18-101-GLADES_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,1
+36,N18-101-GLADES_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+37,N18-101-GLADES_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,inset cuff on body,,match to shell,,,,,1 per side = 2
+38,N18-101-GLADES_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+39,N18-101-GLADES_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+40,N18-101-GLADES_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+41,N18-101-GLADES_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+42,N18-101-GLADES_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,season:,,winter 2018/2019,,,,,,,
+1,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,style number:,,w18-201,,,,,,,
+2,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,style name:,,yamanouchi bib,,,,,,,
+3,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,waterproof/breathability:,,20k/25k,,,,,,,
+4,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,seam sealing:,,fully seam sealed,,,,,,,
+5,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,insulation:,,not insulated,,,,,,,
+6,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,zippers,supplier/ reference number,location,,,,,,,amount
+7,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv, #5 coil zipper,ykk/  dfw short non lock,chest pocket,,,,,,,1 per side = 2
+8,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,hand pockets,,,,,,,1 per side = 2
+9,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),ykk/  dfw short non lock,horseshoe shaped back entry,,,,,,,1
+10,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,back pockets horizontal,,,,,,,1 per side = 2
+11,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,,,,,,,1 per side = 2
+12,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,,,,,,amount
+13,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket,,,,,,,1 per side = 2
+14,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets,,,,,,,1 per side = 2
+15,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,horseshoe shaped back entry,,,,,,,1 per side = 2
+16,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,back pockets horizontal,,,,,,,1 per side = 2
+17,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,branded trims,supplier/ reference number,location,,,,,,,amount
+18,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro trim number (?)/ nitro embossed suspender elastic,chun wo ho / e1343016 38mm,shoulder straps,,,,,,,1 per side= 2
+19,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,heat transfer,sealon/,back left leg,,,,,,,1
+20,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,nitro trim number n18-trim-020 / nitro gripper elastic,chun wo ho/ e1337216 25mm,gaiter hems,,,,,,,2
+21,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,trims,supplier/ reference number,location,,,,,,,amount
+22,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,15mm metal snap,xxx,"""village hem"" leg snaps",,,,,,,1 per side = 2
+23,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,boot hook,xxx,front gaiter,,,,,,,1 per side = 2
+24,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,keyclip,xxx,right hand pocket,,,,,,,1
+25,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,clip,"duraflex/
+simplex buckle (38mm) 11-90298-000000
+11-90299-000000",buckle on suspender elastic straps,,,,,,,1 per side = 2
+26,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,tpr sliplok,"duraflex/
+(38mm) tpr sliplok #2-04428",adjust on suspender elastic straps,,,,,,,1 per side = 2
+27,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,notions,supplier/ reference number,location,,,,,,,amount
+28,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,grosgrain,xxx,"under ""village hem"" leg snaps",,,,,,,1 per side = 2
+29,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,grosgrain,xxx,under boot hook,,,,,,,1 per side = 2
+30,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,,,,,,1
+31,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,elastic,,waist band adjust,,,,,,,1 per side = 2
+32,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bonding film,supplier/ reference number,location,,,,,,,amount
+33,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bonding film,xxx,waist adjust tabs,,,,,,,1 per side = 2
+34,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bonding film,xxx,hand pocket zipper garages / welts,,,,,,,1 per side = 2
+35,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bonding film,xxx,hem gusset welts,,,,,,,1 per side = 2
+36,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bonding film,xxx,back pocket flaps,,,,,,,1 per side = 2
+37,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,velcro,supplier/ reference number,location,,,,,,,amount
+38,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,"1"" x 4"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,,,,,,,1 per side = 2
+39,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,"1"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,,,,,,,1 per side = 2
+40,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,back pocket flaps (hidden),,,,,,,"1 set per side = 
+2 sets"
+41,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,thread,spi,supplier/ ref number,,,,,,,amount
+42,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,seams,10-12 spi,Feb-30,,,,,,,
+43,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,topstitch,8-10 spi,Feb-30,,,,,,,
+44,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,bartacks,,100 / 2,,,,,,,
+45,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,labels ,supplier/ reference number,location,,,,,,,amount
+46,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,main label,,center back waist band lining,,,,,,,1
+47,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,hang tags,supplier/ reference number,location,,,,,,,amount
+48,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,main hang tag,,left hand pocket zipper,,,,,,,1
+49,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,care and content labels,supplier/ reference number,location,,,,,,,amount
+50,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,address label,factory sourced,lining left side seam,,,,,,,1
+51,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,content label,factory sourced,lining left side seam,,,,,,,1
+52,W18-201_YAMANOUCHI_BIB 3L_TRIMS.csv,washing label,factory sourced,lining left side seam,,,,,,,1
+0,N18-202 ALTAI_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-202 ALTAI_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-202 ALTAI_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-202 ALTAI_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+4,N18-202 ALTAI_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+5,N18-202 ALTAI_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower leg & gaiter,100% nylon,color,,,,,
+6,N18-202 ALTAI_SHELL.csv,brushed tricot,supplier / ref code,"waistband, fly, hand pocket bags",100% polyester,color,,,,,
+7,N18-202 ALTAI_SHELL.csv,power stretch mesh,supplier / ref code,leg vents,100% polyester,color,,,,,
+0,W18-107 CRUSH PACKABLE_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-107 CRUSH PACKABLE_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-107 CRUSH PACKABLE_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-107 CRUSH PACKABLE_SHELL.csv,brushed tech mesh,supplier / ref code,chin facing,100% polyester,color,,,,,
+4,W18-107 CRUSH PACKABLE_SHELL.csv,solid 210t ,solis / sonp006-1,pocket bags (top hand),100% nylon,color,,,,,
+5,W18-107 CRUSH PACKABLE_SHELL.csv,mesh,supplier / ref code,pocket bags (palm side),100% polyester,color,,,,,
+0,W18-108 REDUCE ANORAK_TRIMS.csv,#5 vislon,ykk / dalh 1-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-108 REDUCE ANORAK_TRIMS.csv,#5 vislon,ykk / dfw short 1-way non locking,hand pockets vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+2,W18-108 REDUCE ANORAK_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+3,W18-108 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+4,W18-108 REDUCE ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+5,W18-108 REDUCE ANORAK_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,W18-108 REDUCE ANORAK_TRIMS.csv,nitro faux suede patch/ n19-trim002,chun wo ho/ m1494817,front left hem,,color,,,,,1
+7,W18-108 REDUCE ANORAK_TRIMS.csv,"nitro embossed 
+petersham logo binding tape","chun wo ho
+e1342816 20mm",hood and sleeve hems,,color,,,,,3
+8,W18-108 REDUCE ANORAK_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+9,W18-108 REDUCE ANORAK_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+10,W18-108 REDUCE ANORAK_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,W18-108 REDUCE ANORAK_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,W18-108 REDUCE ANORAK_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,W18-108 REDUCE ANORAK_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,W18-108 REDUCE ANORAK_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-106 SUMMIT PACKABLE_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+1,N18-106 SUMMIT PACKABLE_TRIMS.csv,#5 coil zipper,non ykk / dfw short 1-way non locking,chest pocket horizontal,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+2,N18-106 SUMMIT PACKABLE_TRIMS.csv,#5 coil zipper,non ykk / dfw short 1-way non locking,hand pockets vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1 per side = 2
+3,N18-106 SUMMIT PACKABLE_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+4,N18-106 SUMMIT PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+5,N18-106 SUMMIT PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket,,color,,,,,1
+6,N18-106 SUMMIT PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+7,N18-106 SUMMIT PACKABLE_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+8,N18-106 SUMMIT PACKABLE_TRIMS.csv,"nitro trim number: n18-trim-009
+nitro speech bubble 
+heat transfer 3cm x 3cm",sealon,"left sleeve hem, 3"" up from cuff, centered over sleeve fold",,color,,,,,1
+9,N18-106 SUMMIT PACKABLE_TRIMS.csv,"nitro trim number: n18-trim-010
+nitro text
+reflective heat transfer",sealon,"back right: 4 1/2 to the right 
+of cb, inline with 
+underarm.",,color,,,,,1
+10,N18-106 SUMMIT PACKABLE_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,N18-106 SUMMIT PACKABLE_TRIMS.csv,8mm metal eyelet,luk's / et04,hood adjust,,color,,,,,2 per side = 4
+12,N18-106 SUMMIT PACKABLE_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust (right side),,color,,,,,2
+13,N18-106 SUMMIT PACKABLE_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,N18-106 SUMMIT PACKABLE_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+15,N18-106 SUMMIT PACKABLE_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-106 SUMMIT PACKABLE_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+17,N18-106 SUMMIT PACKABLE_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+18,N18-106 SUMMIT PACKABLE_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+19,N18-106 SUMMIT PACKABLE_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+20,N18-106 SUMMIT PACKABLE_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+21,N18-106 SUMMIT PACKABLE_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-108 ACCESS softshell_TRIMS.csv, #5 vislon aquaguard matte film (5vt9),ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+1,N18-108 ACCESS softshell_TRIMS.csv, #5 vislon aquaguard matte film (5vt9),ykk /  dfw short 1-way non locking,hand pockets vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1 per side = 2
+2,N18-108 ACCESS softshell_TRIMS.csv, #5 coil zipper,non ykk / dfw short 1-way non locking,lining pocket vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+3,N18-108 ACCESS softshell_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+4,N18-108 ACCESS softshell_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+5,N18-108 ACCESS softshell_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+6,N18-108 ACCESS softshell_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,N18-108 ACCESS softshell_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+8,N18-108 ACCESS softshell_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust,,color,,,,,2 per side = 4
+9,N18-108 ACCESS softshell_TRIMS.csv,bead,luk's / et04,hem adjust,,color,,,,,1 per side = 2
+10,N18-108 ACCESS softshell_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,N18-108 ACCESS softshell_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-108 ACCESS softshell_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,N18-108 ACCESS softshell_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+14,N18-108 ACCESS softshell_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+15,N18-108 ACCESS softshell_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-108 ACCESS softshell_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,N18-108 ACCESS softshell_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+18,N18-108 ACCESS softshell_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-201-KITAMI BIB 3L_032917_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),ykk /  1-way dfw short non locking,hand pockets,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+2,N18-201-KITAMI BIB 3L_032917_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,back pockets horizontal ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,N18-201-KITAMI BIB 3L_032917_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,chest pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+4,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),"ykk dfw/dfw non lock // 2-way  closed end separating,  sliders close up and down, top is open end, bottom is closed",side entry,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,N18-201-KITAMI BIB 3L_032917_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+6,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,,color,,,,,1 per side = 2
+8,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,back pockets horizontal ,,color,,,,,1 per side = 2
+9,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket,,color,,,,,1
+10,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,side entry zippers,,color,,,,,2 per side = 4
+11,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+13,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro trim number (?)/ nitro embossed suspender elastic,chun wo ho / e1343016 38mm,shoulder straps,,color,,,,,1 per side= 2
+14,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,heat transfer,sealon/,back left leg,,color,,,,,1
+15,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,nitro trim number n18-trim-020 / nitro gripper elastic,chun wo ho/ e1337216 25mm,gaiter hems,,color,,,,,2
+16,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,15mm metal snap,xxx,"""village hem"" leg snaps",,cap and base color,,,,,1 per side = 2
+18,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+19,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,keyclip,xxx,right hand pocket,,black,,,,,1
+20,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,clip,"duraflex/
+simplex buckle (38mm) 11-90298-000000
+11-90299-000000",buckle on suspender elastic straps,,black,,,,,1 per side = 2
+21,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,tpr sliplok,"duraflex/
+(38mm) tpr sliplok #2-04428",adjust on suspender elastic straps,,black,,,,,1 per side = 2
+22,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+23,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,grosgrain,xxx,"under ""village hem"" leg snaps",,color,,,,,1 per side = 2
+24,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+25,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+26,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+27,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,xxx,waist adjust tabs,,color,,,,,1 per side = 2
+28,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,xxx,fly opening,,color,,,,,1
+29,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,xxx,hand pocket zipper garages / welts,,color,,,,,1 per side = 2
+30,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,xxx,back pocket flaps,,color,,,,,1 per side = 2
+31,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,bonding film,xxx,hem gusset welts,,color,,,,,1 per side = 2
+32,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+33,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,,match to shell,,,,,2 tabs
+34,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,back pocket flaps (hidden),,match to shell,,,,,2 per side
+35,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,"1 1/4"" x 4 1/2"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,,match to shell,,,,,1 per side = 2
+36,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,"1 1/4"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,,match to shell,,,,,1 per side = 2
+37,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+38,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+39,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+40,N18-201-KITAMI BIB 3L_032917_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-112_ATACAMA_PONCHO_TRIMS.csv, #5 coil zipper,ykk / 5 dalh 1-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-112_ATACAMA_PONCHO_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+2,N18-112_ATACAMA_PONCHO_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+3,N18-112_ATACAMA_PONCHO_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+4,N18-112_ATACAMA_PONCHO_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+5,N18-112_ATACAMA_PONCHO_TRIMS.csv,8mm metal eyelet,luk's / et04,hood adjust,,color,,,,,2
+6,N18-112_ATACAMA_PONCHO_TRIMS.csv,15mm snap ,luk's / 404,side entry,,color,,,,,8
+7,N18-112_ATACAMA_PONCHO_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+8,N18-112_ATACAMA_PONCHO_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+9,N18-112_ATACAMA_PONCHO_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+10,N18-112_ATACAMA_PONCHO_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,N18-112_ATACAMA_PONCHO_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-112_ATACAMA_PONCHO_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,N18-112_ATACAMA_PONCHO_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-104 POWELL_TRIMS.csv, #5 coil zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: tbd zipper tape color: black,,,,,1
+1,N18-104 POWELL_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,chest pocket horizontal,,silder/pull color: tbd zipper tape color: black,,,,,1
+2,N18-104 POWELL_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: tbd zipper tape color: black,,,,,1
+3,N18-104 POWELL_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+4,N18-104 POWELL_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets vertical,,silder/pull color: tbd zipper tape color: black,,,,,1 per side = 2
+5,N18-104 POWELL_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,N18-104 POWELL_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+7,N18-104 POWELL_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket horizontal,,color,,,,,1
+8,N18-104 POWELL_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+9,N18-104 POWELL_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+10,N18-104 POWELL_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+11,N18-104 POWELL_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-104 POWELL_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,1
+13,N18-104 POWELL_TRIMS.csv,powder skirt gripper elastic ,"nitro embossed 
+petersham tape 
+(e1342816 20mm)
+chun wo ho",powder skirt gripper elastic ,,color,,,,,1
+14,N18-104 POWELL_TRIMS.csv,goggle pocket binding,chun wo ho,goggle pocket opening,,color,,,,,1
+15,N18-104 POWELL_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-104 POWELL_TRIMS.csv,15mm metal snap,luk's / 404,hidden at hem ,,metal color,,,,,1
+17,N18-104 POWELL_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+18,N18-104 POWELL_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+19,N18-104 POWELL_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+20,N18-104 POWELL_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+21,N18-104 POWELL_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust ,,metal color,,,,,2 per side = 4
+22,N18-104 POWELL_TRIMS.csv,metal eyelets 11mm ,luk's / et89,back hood adjust,,metal color,,,,,1
+23,N18-104 POWELL_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+24,N18-104 POWELL_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+25,N18-104 POWELL_TRIMS.csv,"grosgrain 3/8""",xxx,attach back hood cord lock,,color,,,,,1
+26,N18-104 POWELL_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+27,N18-104 POWELL_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+28,N18-104 POWELL_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+29,N18-104 POWELL_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+30,N18-104 POWELL_TRIMS.csv,"elastic  1""",xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+31,N18-104 POWELL_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+32,N18-104 POWELL_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+33,N18-104 POWELL_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+34,N18-104 POWELL_TRIMS.csv," 1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,chin,,match to shell,,,,,1
+35,N18-104 POWELL_TRIMS.csv," 1/2"" x 2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,center front placket,,match to shell,,,,,4
+36,N18-104 POWELL_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+37,N18-104 POWELL_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+38,N18-104 POWELL_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+39,N18-104 POWELL_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+40,N18-104 POWELL_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+41,N18-104 POWELL_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-103 SPIRE_032917_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-103 SPIRE_032917_SHELL.csv,polyfill,pinneco core,all over,100% polyester,150g,,,,,
+2,W18-103 SPIRE_032917_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-103 SPIRE_032917_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,W18-103 SPIRE_032917_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+5,W18-103 SPIRE_032917_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+6,W18-103 SPIRE_032917_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+7,W18-103 SPIRE_032917_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+8,W18-103 SPIRE_032917_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower body & powder skirt,100% polyester,color,,,,,
+9,W18-103 SPIRE_032917_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+10,W18-103 SPIRE_032917_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+11,W18-103 SPIRE_032917_SHELL.csv,power stretch mesh ,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+12,W18-103 SPIRE_032917_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+1,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,branded trims,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+2,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,nitro trim # nordic tape,chun wo ho,storm flap ,,color,,,,,1
+3,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,trims,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+4,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,notions,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+5,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+6,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+7,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+8,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+9,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,wide elastic  ,xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+10,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+11,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,velcro,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+12,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,chin,,match to shell,,,,,1
+13,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv," 1/2"" x 2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,center front placket,,match to shell,,,,,4
+14,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 paiho / hooketn7 ,hand pocket flaps,,match to shell,,,,,2 per flap
+15,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,thread,spi,supplier/ ref number,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+16,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,labels ,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+17,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,hang tags,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+18,W18-105 AARAN 1ST PROTO REVISION_TRIMS.csv,care and content labels,supplier/ reference number,location,,black,chive/chino,merlot,cascade/chino,smkd pink ,amount
+0,N18-203 INCLINE_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-203 INCLINE_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,front hand pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,N18-203 INCLINE_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,back pocket horizontal ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+3,N18-203 INCLINE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,thigh vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,N18-203 INCLINE_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gussets ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,N18-203 INCLINE_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,N18-203 INCLINE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,front hand pocket zipper,,color,,,,,1
+7,N18-203 INCLINE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,back pocket horizontal zipper ,,color,,,,,1
+8,N18-203 INCLINE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,thigh vent zippers,,color,,,,,1 per side = 2
+9,N18-203 INCLINE_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+10,N18-203 INCLINE_TRIMS.csv,nitro trim number //  metal shank,xxx,waist band closure,,color,,,,,1
+11,N18-203 INCLINE_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+12,N18-203 INCLINE_TRIMS.csv,gripper elastic/ n18-trim-001,chun wo ho/ (jt1343116-bb 25mm),gaiter hems,,color,,,,,2
+13,N18-203 INCLINE_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,N18-203 INCLINE_TRIMS.csv,15mm metal snap,xxx,village hem snaps,,cap and base color,,,,,1 per side = 2
+15,N18-203 INCLINE_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+16,N18-203 INCLINE_TRIMS.csv,keyclip,xxx,front hand pocket,,black,,,,,1
+17,N18-203 INCLINE_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+18,N18-203 INCLINE_TRIMS.csv,grosgrain,xxx,under leg snaps,,color,,,,,1 per side = 2
+19,N18-203 INCLINE_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+20,N18-203 INCLINE_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+21,N18-203 INCLINE_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+22,N18-203 INCLINE_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,,match to shell,,,,,2 tabs
+23,N18-203 INCLINE_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,cargo pocket flaps (hidden),,match to shell,,,,,2 per side
+24,N18-203 INCLINE_TRIMS.csv,"1 1/4"" x 4 1/2"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,,match to shell,,,,,1 per side = 2
+25,N18-203 INCLINE_TRIMS.csv,"1 1/4"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,,match to shell,,,,,1 per side = 2
+26,N18-203 INCLINE_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+27,N18-203 INCLINE_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+28,N18-203 INCLINE_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+29,N18-203 INCLINE_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-105 REDUCE ANORAK_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-105 REDUCE ANORAK_SHELL.csv,synthetic down,pinneco core 100g,all over,100% polyester,100g,,,,,
+2,N18-105 REDUCE ANORAK_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-105 REDUCE ANORAK_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+4,N18-105 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+5,N18-105 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+6,N18-105 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+7,N18-105 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,pocket bags,100% nylon,color,,,,,
+0,N18-204 TRAVERSE_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-204 TRAVERSE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+2,N18-204 TRAVERSE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,back pockets horizontal ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,N18-204 TRAVERSE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,thigh vents ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,N18-204 TRAVERSE_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,N18-204 TRAVERSE_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,N18-204 TRAVERSE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,,color,,,,,1 per side = 2
+7,N18-204 TRAVERSE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,back pockets horizontal ,,color,,,,,1 per side = 2
+8,N18-204 TRAVERSE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,thigh vent zippers,,color,,,,,1 per side = 2
+9,N18-204 TRAVERSE_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+10,N18-204 TRAVERSE_TRIMS.csv,nitro trim number //  metal shank (nitro logo),xxx,"waist band closure 
+(upper snap)",,color,,,,,1
+11,N18-204 TRAVERSE_TRIMS.csv,nitro trim number // ?? (non logo),xxx,waist band closure (lower snap),,color,,,,,1
+12,N18-204 TRAVERSE_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+13,N18-204 TRAVERSE_TRIMS.csv,gripper elastic/ n18-trim-001,chun wo ho/ (jt1343116-bb 25mm),gaiter hems,,color,,,,,2
+14,N18-204 TRAVERSE_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+15,N18-204 TRAVERSE_TRIMS.csv,15mm metal snap,xxx,village hem snaps,,cap and base color,,,,,1 per side = 2
+16,N18-204 TRAVERSE_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+17,N18-204 TRAVERSE_TRIMS.csv,keyclip,xxx,right hand pocket,,black,,,,,1
+18,N18-204 TRAVERSE_TRIMS.csv,metal eyelets 11mm,luks/ et89,waist band cord exit,,black,,,,,1 per side = 2
+19,N18-204 TRAVERSE_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+20,N18-204 TRAVERSE_TRIMS.csv,grosgrain,xxx,under leg snaps,,color,,,,,1 per side = 2
+21,N18-204 TRAVERSE_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+22,N18-204 TRAVERSE_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+23,N18-204 TRAVERSE_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+24,N18-204 TRAVERSE_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,,match to shell,,,,,1
+25,N18-204 TRAVERSE_TRIMS.csv," 1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,back pocket flaps (hidden),,match to shell,,,,,2 per side
+26,N18-204 TRAVERSE_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+27,N18-204 TRAVERSE_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+28,N18-204 TRAVERSE_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+29,N18-204 TRAVERSE_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-102 DENALI ANORAK_TRIMS.csv,"#5 ykk, 5vt9, 
+vislon® aquaguard® matte film",ykk / dalh 1-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-102 DENALI ANORAK_TRIMS.csv,"#3 ykk, 3vt9, 
+vislon® aquaguard® matte film",non ykk /  1-way dfw short non locking,chest pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,N18-102 DENALI ANORAK_TRIMS.csv,"#3 ykk, 3vt9, 
+vislon® aquaguard® matte film",non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+3,N18-102 DENALI ANORAK_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,side entry zippers,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,N18-102 DENALI ANORAK_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,N18-102 DENALI ANORAK_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,N18-102 DENALI ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+7,N18-102 DENALI ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket vertical,,color,,,,,1
+8,N18-102 DENALI ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+9,N18-102 DENALI ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,side entry zippers,,color,,,,,1 per side = 2
+10,N18-102 DENALI ANORAK_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+11,N18-102 DENALI ANORAK_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-102 DENALI ANORAK_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,1
+13,N18-102 DENALI ANORAK_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,N18-102 DENALI ANORAK_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+15,N18-102 DENALI ANORAK_TRIMS.csv,metal eyelets 11mm ,luk's / et89,back hood adjust,,metal color,,,,,1
+16,N18-102 DENALI ANORAK_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,N18-102 DENALI ANORAK_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+18,N18-102 DENALI ANORAK_TRIMS.csv,"grosgrain 3/8""",xxx,attach back hood cord lock,,color,,,,,1
+19,N18-102 DENALI ANORAK_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+20,N18-102 DENALI ANORAK_TRIMS.csv,"elastic  1""",xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+21,N18-102 DENALI ANORAK_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+22,N18-102 DENALI ANORAK_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+23,N18-102 DENALI ANORAK_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,hand pocket flaps,,match to shell,,,,,2 per side = 4
+24,N18-102 DENALI ANORAK_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+25,N18-102 DENALI ANORAK_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+26,N18-102 DENALI ANORAK_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+27,N18-102 DENALI ANORAK_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+28,N18-102 DENALI ANORAK_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+29,N18-102 DENALI ANORAK_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-201_YAMANOUCHI_BIB 3L_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-201_YAMANOUCHI_BIB 3L_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-201_YAMANOUCHI_BIB 3L_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-201_YAMANOUCHI_BIB 3L_SHELL.csv,solid coated 210t,supplier / ref code,gaiter,100% polyester,color,,,,,
+0,W18-108 REDUCE ANORAK_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,W18-108 REDUCE ANORAK_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,W18-108 REDUCE ANORAK_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,W18-108 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,color,color,color,color,
+4,W18-108 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,color,color,color,color,
+5,W18-108 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,color,color,color,color,
+6,W18-108 REDUCE ANORAK_SHELL.csv,solid 210t ,solis / sonp006-1,pocket bags,100% nylon,color,color,color,color,color,
+0,N18-106 SUMMIT PACKABLE_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-106 SUMMIT PACKABLE_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-106 SUMMIT PACKABLE_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-106 SUMMIT PACKABLE_SHELL.csv,brushed tech mesh,supplier / ref code,chin facing,100% polyester,color,,,,,
+4,N18-106 SUMMIT PACKABLE_SHELL.csv,solid 210t ,solis / sonp006-1,pocket bags (top hand),100% nylon,color,,,,,
+5,N18-106 SUMMIT PACKABLE_SHELL.csv,mesh,supplier / ref code,pocket bags (palm side),100% polyester,color,,,,,
+0,W18-107 CRUSH PACKABLE_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+1,W18-107 CRUSH PACKABLE_TRIMS.csv,#5 coil zipper,non ykk / dfw short 1-way non locking,arm pocket,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+2,W18-107 CRUSH PACKABLE_TRIMS.csv,#5 coil zipper,non ykk / dfw short 1-way non locking,left hand pocket vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+3,W18-107 CRUSH PACKABLE_TRIMS.csv,#5 coil zipper,non ykk / dfw short 1-way non locking with double sided zipper pull,right  hand pocket vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+4,W18-107 CRUSH PACKABLE_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+5,W18-107 CRUSH PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+6,W18-107 CRUSH PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,arm pocket,,color,,,,,1
+7,W18-107 CRUSH PACKABLE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+8,W18-107 CRUSH PACKABLE_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+9,W18-107 CRUSH PACKABLE_TRIMS.csv,"nitro trim number: n18-trim-009
+nitro speech bubble 
+heat transfer 3cm x 3cm",sealon,"left sleeve hem, 3"" up from cuff, centered over sleeve fold",,color,,,,,1
+10,W18-107 CRUSH PACKABLE_TRIMS.csv,"nitro trim number: n18-trim-010
+nitro text
+reflective heat transfer",sealon,back right,,color,,,,,1
+11,W18-107 CRUSH PACKABLE_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,W18-107 CRUSH PACKABLE_TRIMS.csv,8mm metal eyelet,luk's / et04,hood adjust,,color,,,,,2 per side = 4
+13,W18-107 CRUSH PACKABLE_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust (right side),,color,,,,,2
+14,W18-107 CRUSH PACKABLE_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+15,W18-107 CRUSH PACKABLE_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,W18-107 CRUSH PACKABLE_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,W18-107 CRUSH PACKABLE_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+18,W18-107 CRUSH PACKABLE_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+19,W18-107 CRUSH PACKABLE_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+20,W18-107 CRUSH PACKABLE_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+21,W18-107 CRUSH PACKABLE_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+22,W18-107 CRUSH PACKABLE_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-202 ALTAI_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,N18-202 ALTAI_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,hand pockets,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+2,N18-202 ALTAI_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,back pockets horizontal ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,N18-202 ALTAI_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,cargo pocket horizontal ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+4,N18-202 ALTAI_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,thigh vent ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,N18-202 ALTAI_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+6,N18-202 ALTAI_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,N18-202 ALTAI_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,,color,,,,,1 per side = 2
+8,N18-202 ALTAI_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,back pockets horizontal ,,color,,,,,1 per side = 2
+9,N18-202 ALTAI_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,cargo pocket horizontal ,,color,,,,,1
+10,N18-202 ALTAI_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,thigh vent zippers,,color,,,,,1 per side = 2
+11,N18-202 ALTAI_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,N18-202 ALTAI_TRIMS.csv,nitro trim number //  metal shank,xxx,waist band closure,,color,,,,,1
+13,N18-202 ALTAI_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+14,N18-202 ALTAI_TRIMS.csv,gripper elastic/ n18-trim-001,chun wo ho/ (jt1343116-bb 25mm),gaiter hems,,color,,,,,2
+15,N18-202 ALTAI_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-202 ALTAI_TRIMS.csv,15mm metal snap,xxx,village hem snaps,,cap and base color,,,,,1 per side = 2
+17,N18-202 ALTAI_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+18,N18-202 ALTAI_TRIMS.csv,keyclip,xxx,right hand pocket,,black,,,,,1
+19,N18-202 ALTAI_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+20,N18-202 ALTAI_TRIMS.csv,grosgrain,xxx,under leg snaps,,color,,,,,1 per side = 2
+21,N18-202 ALTAI_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+22,N18-202 ALTAI_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+23,N18-202 ALTAI_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+24,N18-202 ALTAI_TRIMS.csv,bonding film,xxx,waist adjust tabs,,color,,,,,1 per side = 2
+25,N18-202 ALTAI_TRIMS.csv,bonding film,xxx,fly opening,,color,,,,,1
+26,N18-202 ALTAI_TRIMS.csv,bonding film,xxx,hand pocket zipper garages,,color,,,,,1 per side = 2
+27,N18-202 ALTAI_TRIMS.csv,bonding film,xxx,cargo pocket flaps,,color,,,,,1
+28,N18-202 ALTAI_TRIMS.csv,bonding film,xxx,back pocket flaps,,color,,,,,1 per side = 2
+29,N18-202 ALTAI_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+30,N18-202 ALTAI_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,,match to shell,,,,,2 tabs
+31,N18-202 ALTAI_TRIMS.csv," 1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,back pocket flaps (hidden),,match to shell,,,,,2 per side
+32,N18-202 ALTAI_TRIMS.csv,"1 1/4"" x  4 1/2"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,,match to shell,,,,,1 per side = 2
+33,N18-202 ALTAI_TRIMS.csv,"1 1/4"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,,match to shell,,,,,1 per side = 2
+34,N18-202 ALTAI_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+35,N18-202 ALTAI_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+36,N18-202 ALTAI_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+37,N18-202 ALTAI_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-109 REGULATOR Fleece_TRIMS.csv,#5 vislon zipper,ykk / dalh 1-way semi auto locking,center front,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+1,N18-109 REGULATOR Fleece_TRIMS.csv,#5 vislon zipper,ykk / dfw short non lock,hand pockets vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1 per side = 2
+2,N18-109 REGULATOR Fleece_TRIMS.csv,#5 coil zipper,non ykk / dfw short non lock,chest pocket,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+3,N18-109 REGULATOR Fleece_TRIMS.csv, #5 coil zipper,non ykk / dfw short non lock,lining pocket vertical,,silder/pull color: matte black/ zipper tape &teeth color: matte black,,,,,1
+4,N18-109 REGULATOR Fleece_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+5,N18-109 REGULATOR Fleece_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front,,color,,,,,1
+6,N18-109 REGULATOR Fleece_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,,color,,,,,1 per side = 2
+7,N18-109 REGULATOR Fleece_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket,,color,,,,,1
+8,N18-109 REGULATOR Fleece_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+9,N18-109 REGULATOR Fleece_TRIMS.csv,nitro faux suede patch/ n19-trim002,chun wo ho/ m1494817,front left hem,,color,,,,,1
+10,N18-109 REGULATOR Fleece_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+11,N18-109 REGULATOR Fleece_TRIMS.csv,"nitro embossed 
+petersham logo binding tape","chun wo ho
+e1342816 20mm",sleeve and bottom hems,,color,,,,,3
+12,N18-109 REGULATOR Fleece_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+13,N18-109 REGULATOR Fleece_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,N18-109 REGULATOR Fleece_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+15,N18-109 REGULATOR Fleece_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,N18-109 REGULATOR Fleece_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,N18-109 REGULATOR Fleece_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,N18-103 JARVIS_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-103 JARVIS_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-103 JARVIS_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-103 JARVIS_SHELL.csv,solid 210t ,solis / sonp006-1,hood,100% nylon,color,,,,,
+4,N18-103 JARVIS_SHELL.csv,solid 210t ,solis / sonp006-1,main body,100% nylon,color,,,,,
+5,N18-103 JARVIS_SHELL.csv,solid 210t ,solis / sonp006-1,sleeves,100% nylon,color,,,,,
+6,N18-103 JARVIS_SHELL.csv,solid 210t ,solis / sonp006-1,secondary pocket bags,100% nylon,color,,,,,
+7,N18-103 JARVIS_SHELL.csv,solid coated 210t,solis / sonp006-pu03,lower body & powder skirt,100% nylon,color,,,,,
+8,N18-103 JARVIS_SHELL.csv,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+9,N18-103 JARVIS_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+10,N18-103 JARVIS_SHELL.csv,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,,,,,
+11,N18-103 JARVIS_SHELL.csv,power stretch mesh,supplier / ref code,underarm vents,100% polyester,color,,,,,
+12,N18-103 JARVIS_SHELL.csv,power stretch mesh,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+13,N18-103 JARVIS_SHELL.csv,power stretch mesh,supplier / ref code,back vent,100% polyester,color,,,,,
+14,N18-103 JARVIS_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+0,N18-101-GLADES_SHELL.csv,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+1,N18-101-GLADES_SHELL.csv,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+2,N18-101-GLADES_SHELL.csv,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,
+3,N18-101-GLADES_SHELL.csv,solid coated 210t,solis / sonp006-pu03,powder skirt,100% nylon,color,,,,,
+4,N18-101-GLADES_SHELL.csv,shell,supplier / ref code,hand pocket bags,100% polyester,color,,,,,
+5,N18-101-GLADES_SHELL.csv,brushed tricot,supplier / ref code,chin guard,100% polyester,color,,,,,
+6,N18-101-GLADES_SHELL.csv,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,,,,,
+7,N18-101-GLADES_SHELL.csv,power stretch mesh,supplier / ref code,underarm vents,100% polyester,color,,,,,
+8,N18-101-GLADES_SHELL.csv,power stretch mesh,supplier / ref code,goggle pocket,100% polyester,color,,,,,
+9,N18-101-GLADES_SHELL.csv,lycra,supplier / ref code,sleeve gaiters,content,color,,,,,
+10,N18-101-GLADES_SHELL.csv,solid 210t ,solis / sonp006-1,upper of sleeve gaiter,content,color,,,,,
+0,W18-202 ELBRUS 2L_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-202 ELBRUS 2L_TRIMS.csv, #5 vislon zipper (metallic teeth),ykk /  1-way dfw short non locking,hand pockets,,color,,,,,1 per side = 2
+2,W18-202 ELBRUS 2L_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,back pocket horizontal,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+3,W18-202 ELBRUS 2L_TRIMS.csv, #5 coil zipper,ykk /  1-way dfw short non locking,thigh vents ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-202 ELBRUS 2L_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gussets,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,W18-202 ELBRUS 2L_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,W18-202 ELBRUS 2L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,,color,,,,,1 per side = 2
+7,W18-202 ELBRUS 2L_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,thigh vent zippers,,color,,,,,1 per side = 2
+8,W18-202 ELBRUS 2L_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+9,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number n19-trim-001 //  15mm nitro logo snap,luks/ trim number ?,"waist band closure 
+(upper snap)",,matte black,,,,,1
+10,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number // ?? (non logo),luks/ trim number ?,waist band closure (lower snap),,matte black,,,,,1
+11,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+12,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number n19-trim-002// faux leather debossed nitro logo patch,"chun wo ho/
+#m1494817",back right waist band,,color,,,,,1
+13,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number n19-trim-002// faux leather debossed nitro logo patch,"chun wo ho/
+#m1494817",cargo pocket flap,,color,,,,,1
+14,W18-202 ELBRUS 2L_TRIMS.csv,nitro trim number n18-trim-009 / heat transfer,sealon / ,back left leg,,color,,,,,1
+15,W18-202 ELBRUS 2L_TRIMS.csv,gripper elastic/ n18-trim-001,chun wo ho/ (jt1343116-bb 25mm),gaiter hems,,color,,,,,2
+16,W18-202 ELBRUS 2L_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+17,W18-202 ELBRUS 2L_TRIMS.csv,15mm metal snap,xxx,village hem snaps,,cap and base color,,,,,1 per side = 2
+18,W18-202 ELBRUS 2L_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+19,W18-202 ELBRUS 2L_TRIMS.csv,keyclip,xxx,right hand pocket,,black,,,,,1
+20,W18-202 ELBRUS 2L_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+21,W18-202 ELBRUS 2L_TRIMS.csv,grosgrain,xxx,under leg snaps,,color,,,,,1 per side = 2
+22,W18-202 ELBRUS 2L_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+23,W18-202 ELBRUS 2L_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+24,W18-202 ELBRUS 2L_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+25,W18-202 ELBRUS 2L_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,cf waistband closure,,match to shell,,,,,1 set
+26,W18-202 ELBRUS 2L_TRIMS.csv,"1 1/4"" x 4 1/2"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,,match to shell,,,,,1 per side = 2
+27,W18-202 ELBRUS 2L_TRIMS.csv,"1 1/4"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,,match to shell,,,,,1 per side = 2
+28,W18-202 ELBRUS 2L_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,cargo pocket flap (hidden),,match to shell,,,,,2 sets
+29,W18-202 ELBRUS 2L_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+30,W18-202 ELBRUS 2L_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+31,W18-202 ELBRUS 2L_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+32,W18-202 ELBRUS 2L_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-203 WHISTLER_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-203 WHISTLER_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+2,W18-203 WHISTLER_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,thigh vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,W18-203 WHISTLER_TRIMS.csv, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-203 WHISTLER_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+5,W18-203 WHISTLER_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,,color,,,,,1 per side = 2
+6,W18-203 WHISTLER_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,thigh vent zippers,,color,,,,,1 per side = 2
+7,W18-203 WHISTLER_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+8,W18-203 WHISTLER_TRIMS.csv,nitro trim number n19-trim-001 //  15mm nitro logo snap,luks/ trim number ?,"waist band closure 
+(upper snap)",,matte black,,,,,1
+9,W18-203 WHISTLER_TRIMS.csv,nitro trim number // ?? (non logo),luks/ trim number ?,waist band closure (lower snap),,matte black,,,,,1
+10,W18-203 WHISTLER_TRIMS.csv,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,,color,,,,,1
+11,W18-203 WHISTLER_TRIMS.csv,nitro trim number n18-trim-009 heat transfer,sealon / ,back left leg,,color,,,,,1
+12,W18-203 WHISTLER_TRIMS.csv,gripper elastic/ n18-trim-001,chun wo ho/ (jt1343116-bb 25mm),gaiter hems,,color,,,,,2
+13,W18-203 WHISTLER_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,W18-203 WHISTLER_TRIMS.csv,15mm metal snap,xxx,village hem snaps,,cap and base color,,,,,1 per side = 2
+15,W18-203 WHISTLER_TRIMS.csv,boot hook,xxx,front gaiter,,metal color,,,,,1 per side = 2
+16,W18-203 WHISTLER_TRIMS.csv,keyclip,xxx,right hand pocket,,black,,,,,1
+17,W18-203 WHISTLER_TRIMS.csv,metal eyelets 8mm or 11mm,luks/ et04 or et89,waist band cord exit,,black,,,,,1 per side = 2
+18,W18-203 WHISTLER_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+19,W18-203 WHISTLER_TRIMS.csv,grosgrain,xxx,under leg snaps,,color,,,,,1 per side = 2
+20,W18-203 WHISTLER_TRIMS.csv,grosgrain,xxx,under boot hook,,color,,,,,1 per side = 2
+21,W18-203 WHISTLER_TRIMS.csv,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,,color,,,,,1
+22,W18-203 WHISTLER_TRIMS.csv,drawcord with clear plastic tips,chun wo ho/ #15034 (549708-cw15-034),waist adjust,,color,,,,,1
+23,W18-203 WHISTLER_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+24,W18-203 WHISTLER_TRIMS.csv,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,,match to shell,,,,,1
+25,W18-203 WHISTLER_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+26,W18-203 WHISTLER_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+27,W18-203 WHISTLER_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+28,W18-203 WHISTLER_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-104 CIRQUE_TRIMS.csv, #5 vislon zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-104 CIRQUE_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,W18-104 CIRQUE_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,W18-104 CIRQUE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets horizontal,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-104 CIRQUE_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+5,W18-104 CIRQUE_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,W18-104 CIRQUE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+7,W18-104 CIRQUE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+8,W18-104 CIRQUE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+9,W18-104 CIRQUE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets horizontal,,color,,,,,1 per side = 2
+10,W18-104 CIRQUE_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+11,W18-104 CIRQUE_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,W18-104 CIRQUE_TRIMS.csv,nitro trim number //  nitro logo snap,xxx,chin,,color,,,,,1
+13,W18-104 CIRQUE_TRIMS.csv,nitro trim number //  nitro snap,xxx,below neck seam,,color,,,,,1
+14,W18-104 CIRQUE_TRIMS.csv,nitro trim number //  nitro snap,xxx,pocket flaps,,color,,,,,4
+15,W18-104 CIRQUE_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,W18-104 CIRQUE_TRIMS.csv,15mm metal snap,luk's / 404,hidden at hem ,,metal color,,,,,1
+17,W18-104 CIRQUE_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+18,W18-104 CIRQUE_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+19,W18-104 CIRQUE_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+20,W18-104 CIRQUE_TRIMS.csv,metal eyelets 11mm ,luk's / et89,hood cord exit,,metal color,,,,,1 per side = 2
+21,W18-104 CIRQUE_TRIMS.csv,12mm plastic snaps,please source,hood insert and body,,black,,,,,6 sets
+22,W18-104 CIRQUE_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+23,W18-104 CIRQUE_TRIMS.csv,drawcord,chun wo ho / trim number to be determined,hood,,color,,,,,1
+24,W18-104 CIRQUE_TRIMS.csv,drawcord tips,chun wo ho / trim number to be determined,hood,,color,,,,,1 per side = 2
+25,W18-104 CIRQUE_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+26,W18-104 CIRQUE_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+27,W18-104 CIRQUE_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+28,W18-104 CIRQUE_TRIMS.csv,wide elastic  ,xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+29,W18-104 CIRQUE_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+30,W18-104 CIRQUE_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 paiho / hooketn7 ,hand pocket flaps,,match to shell,,,,,2 per flap
+31,W18-104 CIRQUE_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+32,W18-104 CIRQUE_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+33,W18-104 CIRQUE_TRIMS.csv,"1/2"" x 1"" velcro with rounded corners",paiho / loop#1057 paiho / hooketn7 ,center front hood insert and body,,match to shell,,,,,4
+34,W18-104 CIRQUE_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+35,W18-104 CIRQUE_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+36,W18-104 CIRQUE_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+37,W18-104 CIRQUE_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-101 PALISADES_TRIMS.csv, #5 coil zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: tbd zipper tape color: black,,,,,1
+1,W18-101 PALISADES_TRIMS.csv,#3 vislon aquaguard matte film (5vt9),non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,W18-101 PALISADES_TRIMS.csv,#3 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+3,W18-101 PALISADES_TRIMS.csv,#5 aquaguard coil zipper with matte transparent film (5cnt10),non ykk /  1-way dfw short non locking,hand pockets vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-101 PALISADES_TRIMS.csv, #3 coil zipper,non ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+5,W18-101 PALISADES_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+6,W18-101 PALISADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+7,W18-101 PALISADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+8,W18-101 PALISADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+9,W18-101 PALISADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets horizontal,,color,,,,,1 per side = 2
+10,W18-101 PALISADES_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+11,W18-101 PALISADES_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+12,W18-101 PALISADES_TRIMS.csv,nitro trim number //  metal snap,xxx,chin,,color,,,,,1
+13,W18-101 PALISADES_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,W18-101 PALISADES_TRIMS.csv,15mm metal snap,luk's / 404,hidden at hem,,metal color,,,,,1 set
+15,W18-101 PALISADES_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+16,W18-101 PALISADES_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+17,W18-101 PALISADES_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+18,W18-101 PALISADES_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+19,W18-101 PALISADES_TRIMS.csv,8mm metal eyelet,luk's / et04,hem adjust ,,metal color,,,,,2 per side = 4
+20,W18-101 PALISADES_TRIMS.csv,metal eyelets 11mm ,luk's / et89,back hood adjust,,metal color,,,,,1
+21,W18-101 PALISADES_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+22,W18-101 PALISADES_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+23,W18-101 PALISADES_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+24,W18-101 PALISADES_TRIMS.csv,"grosgrain 3/8""",xxx,attach back hood cord lock,,color,,,,,1
+25,W18-101 PALISADES_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+26,W18-101 PALISADES_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+27,W18-101 PALISADES_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+28,W18-101 PALISADES_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+29,W18-101 PALISADES_TRIMS.csv,shockcord,xxx,hem,,color,,,,,1
+30,W18-101 PALISADES_TRIMS.csv,"elastine tape (used in 1"" x1 1/2"" welt)",xxx,lining media pocket cord exit,,color,,,,,1
+31,W18-101 PALISADES_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+32,W18-101 PALISADES_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+33,W18-101 PALISADES_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,inset cuff on body,,match to shell,,,,,1 per side = 2
+34,W18-101 PALISADES_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+35,W18-101 PALISADES_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+36,W18-101 PALISADES_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+37,W18-101 PALISADES_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+38,W18-101 PALISADES_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+0,W18-102-FJALLKONA_TRIMS.csv, #5 vislon zipper,ykk / dalh/dag 2-way semi auto locking,center front,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+1,W18-102-FJALLKONA_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,chest pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+2,W18-102-FJALLKONA_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,sleeve pocket,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+3,W18-102-FJALLKONA_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+4,W18-102-FJALLKONA_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets horizontal,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1 per side = 2
+5,W18-102-FJALLKONA_TRIMS.csv, #5 coil zipper,non ykk /  1-way dfw short non locking,lining pocket vertical,,silder/pull color: pseudo anti silver/ zipper tape color: black,,,,,1
+6,W18-102-FJALLKONA_TRIMS.csv,additional zipper pulls,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+7,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,,color,,,,,1
+8,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,chest pocket vertical,,color,,,,,1
+9,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,,color,,,,,1
+10,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,,color,,,,,1 per side = 2
+11,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,hand pockets horizontal,,color,,,,,1 per side = 2
+12,W18-102-FJALLKONA_TRIMS.csv,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,,color,,,,,1
+13,W18-102-FJALLKONA_TRIMS.csv,branded trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+14,W18-102-FJALLKONA_TRIMS.csv,nitro trim number //  metal snap,xxx,chin and back hem,,color,,,,,1
+15,W18-102-FJALLKONA_TRIMS.csv,trims,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+16,W18-102-FJALLKONA_TRIMS.csv,15mm metal snap,luk's / 404,hidden at hem ,,metal color,,,,,1
+17,W18-102-FJALLKONA_TRIMS.csv,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,,metal color,,,,,1 male 1 female
+18,W18-102-FJALLKONA_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - front closure,,metal color,,,,,"1 female, 2 male"
+19,W18-102-FJALLKONA_TRIMS.csv,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,,metal color,,,,,3 sets
+20,W18-102-FJALLKONA_TRIMS.csv,8mm metal eyelet,luk's / et04,front hood adjust,,metal color,,,,,2 per side = 4
+21,W18-102-FJALLKONA_TRIMS.csv,metal eyelets 11mm ,luk's / et89,back hood adjust,,metal color,,,,,1
+22,W18-102-FJALLKONA_TRIMS.csv,notions,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+23,W18-102-FJALLKONA_TRIMS.csv,"grosgrain 1/4""",xxx,attach front hood cord lock,,color,,,,,1 per side = 2
+24,W18-102-FJALLKONA_TRIMS.csv,"grosgrain 3/8""",xxx,attach back hood cord lock,,color,,,,,1
+25,W18-102-FJALLKONA_TRIMS.csv,"grosgrain 3/8""",xxx,attach hem cord lock,,color,,,,,1 per side = 2
+26,W18-102-FJALLKONA_TRIMS.csv,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,,color,,,,,1
+27,W18-102-FJALLKONA_TRIMS.csv,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,,color,,,,,1
+28,W18-102-FJALLKONA_TRIMS.csv,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,,color,,,,,3 pieces 
+29,W18-102-FJALLKONA_TRIMS.csv,"elastic  1""",xxx,encased in back of sleeve cuffs,,color,,,,,1 per side = 2
+30,W18-102-FJALLKONA_TRIMS.csv,shockcord,xxx,hood,,color,,,,,1
+31,W18-102-FJALLKONA_TRIMS.csv,bonding film,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+32,W18-102-FJALLKONA_TRIMS.csv,velcro,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+33,W18-102-FJALLKONA_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",xxx,chin,,match to shell,,,,,1
+34,W18-102-FJALLKONA_TRIMS.csv," 1/2"" x 2 velcro with rounded corners",xxx,center front placket,,match to shell,,,,,4
+35,W18-102-FJALLKONA_TRIMS.csv,"1/2"" x 1 1/2"" velcro with rounded corners",xxx,hand pocket flaps,,match to shell,,,,,1 per side = 2
+36,W18-102-FJALLKONA_TRIMS.csv,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,,match to shell,,,,,1 per side = 2
+37,W18-102-FJALLKONA_TRIMS.csv,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,,match to shell,,,,,1 per side = 2
+38,W18-102-FJALLKONA_TRIMS.csv,thread,spi,supplier/ ref number,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+39,W18-102-FJALLKONA_TRIMS.csv,labels ,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+40,W18-102-FJALLKONA_TRIMS.csv,hang tags,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount
+41,W18-102-FJALLKONA_TRIMS.csv,care and content labels,supplier/ reference number,location,,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,amount

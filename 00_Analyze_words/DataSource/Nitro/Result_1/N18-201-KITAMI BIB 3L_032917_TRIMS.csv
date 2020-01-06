@@ -1,0 +1,62 @@
+,0,1,2,3,4,5,6,7,8,9
+0,nitro mens pant,none,none,none,none,sample size large / xs-xxl,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,n18-201,none,none,date created:,none,2017-03-24 00:00:00,none,none
+3,style name:,none,kitami bib 3l,none,none,date revised:,none,2017-03-29 00:00:00,none,none
+4,waterproof/breathability:,none,20k/25k,none,none,block:,none,none,none,none
+5,seam sealing:,none,fully seam sealed,none,none,fit:,none,none,none,none
+6,insulation:,none,not insulated,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+9, #5 coil zipper,ykk / dalh 1-way semi auto locking,fly,1,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+10,#5 aquaguard coil zipper with matte transparent film (5cnt10),ykk /  1-way dfw short non locking,hand pockets,1 per side = 2,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+11, #5 coil zipper,ykk /  1-way dfw short non locking,back pockets horizontal ,1 per side = 2,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+12, #5 coil zipper,ykk /  1-way dfw short non locking,chest pocket,1,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+13,#5 aquaguard coil zipper with matte transparent film (5cnt10),"ykk dfw/dfw non lock // 2-way  closed end separating,  sliders close up and down, top is open end, bottom is closed",side entry,1 per side = 2,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+14, #5 coil zipper,ykk / dalh 1-way semi auto locking,hem gusset ,1 per side = 2,silder/pull color: pseudo anti silver/ zipper tape color: black,none,none,none,none,none
+16,additional zipper pulls,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+17,nitro custom pull / n14-trim-139,knk / 3738,hand pocket zippers,1 per side = 2,color,none,none,none,none,none
+18,nitro custom pull / n14-trim-139,knk / 3738,back pockets horizontal ,1 per side = 2,color,none,none,none,none,none
+19,nitro custom pull / n14-trim-139,knk / 3738,chest pocket,1,color,none,none,none,none,none
+20,nitro custom pull / n14-trim-139,knk / 3738,side entry zippers,2 per side = 4,color,none,none,none,none,none
+22,branded trims,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+23,nitro trim number 11nt-033 / logo metal grommet,luks/ et07-n0711,front left belt loop,1,color,none,none,none,none,none
+24,nitro trim number (?)/ nitro embossed suspender elastic,chun wo ho / e1343016 38mm,shoulder straps,1 per side= 2,color,none,none,none,none,none
+25,heat transfer,sealon/,back left leg,1,color,none,none,none,none,none
+26,nitro trim number n18-trim-020 / nitro gripper elastic,chun wo ho/ e1337216 25mm,gaiter hems,2,color,none,none,none,none,none
+28,trims,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+29,15mm metal snap,xxx,"""village hem"" leg snaps",1 per side = 2,cap and base color,none,none,none,none,none
+30,boot hook,xxx,front gaiter,1 per side = 2,metal color,none,none,none,none,none
+31,keyclip,xxx,right hand pocket,1,black,none,none,none,none,none
+32,clip,"duraflex/
+simplex buckle (38mm) 11-90298-000000
+11-90299-000000",buckle on suspender elastic straps,1 per side = 2,black,none,none,none,none,none
+33,tpr sliplok,"duraflex/
+(38mm) tpr sliplok #2-04428",adjust on suspender elastic straps,1 per side = 2,black,none,none,none,none,none
+35,notions,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+36,grosgrain,xxx,"under ""village hem"" leg snaps",1 per side = 2,color,none,none,none,none,none
+37,grosgrain,xxx,under boot hook,1 per side = 2,color,none,none,none,none,none
+38,"grosgrain 1/4""",xxx,right hand pocket attach keyclip,1,color,none,none,none,none,none
+39,elastic,none,waist band adjust,1 per side = 2,elastic,none,none,none,none,none
+42,bonding film,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+43,bonding film,xxx,waist adjust tabs,1 per side = 2,color,none,none,none,none,none
+44,bonding film,xxx,fly opening,1,color,none,none,none,none,none
+45,bonding film,xxx,hand pocket zipper garages / welts,1 per side = 2,color,none,none,none,none,none
+46,bonding film,xxx,back pocket flaps,1 per side = 2,color,none,none,none,none,none
+47,bonding film,xxx,hem gusset welts,1 per side = 2,color,none,none,none,none,none
+49,velcro,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+50,"1"" x 1 1/4"" velcro with rounded corners",paiho loop #1057 on top / paiho hook etn7 on bottom,waist band,2 tabs,match to shell,none,none,none,none,none
+51,"1/2"" x 1 1/2"" velcro with rounded corners",paiho loop #1057 on bag / paiho hook etn7 on flap,back pocket flaps (hidden),2 per side,match to shell,none,none,none,none,none
+52,"1 1/4"" x 4 1/2"" velcro with rounded corners",paiho loop #1057 ,waist adjust - on body,1 per side = 2,match to shell,none,none,none,none,none
+53,"1 1/4"" x 2"" velcro with rounded corners",paiho hook etn7 on flap,waist adjust - on tabs,1 per side = 2,match to shell,none,none,none,none,none
+55,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+56,seams,10-12 spi,30 / 2,none,match to shell,none,none,none,none,none
+57,topstitch,8-10 spi,30 / 2,none,match to shell,none,none,none,none,none
+58,bartacks,none,100 / 2,none,match to shell,none,none,none,none,none
+60,labels ,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+61,main label,none,center back waist band lining,1,none,none,none,none,none,none
+64,hang tags,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+65,main hang tag,none,left hand pocket zipper,1,none,none,none,none,none,none
+69,care and content labels,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+70,address label,factory sourced,lining left side seam,1,none,none,none,none,none,none
+71,content label,factory sourced,lining left side seam,1,none,none,none,none,none,none
+72,washing label,factory sourced,lining left side seam,1,none,none,none,none,none,none

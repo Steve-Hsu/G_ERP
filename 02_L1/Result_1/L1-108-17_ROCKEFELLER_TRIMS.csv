@@ -1,0 +1,33 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 mens jacket,none,none,none,none,none,none,none,none
+1,none,season: ,none,winter 2017/2018,none,contractor: ,none,soluna,none,none
+2,none,style number:,none,l1-108-17,none,date created:,none,2016-03-14 00:00:00,none,none
+3,none,style name: ,none,rockefeller,none,date revised: ,none,none,none,none
+4,none,fabric rating: ,none,5k/5k,none,block: ,none,l1-108-16_og_rockefeller,none,none
+5,none,seam sealing: ,none,critically taped,none,fit: ,none,street,none,none
+6,none,sample size: ,none,mens large,none,target fob: ,none,33,none,none
+8,zippers,item,supplier/ ref number,amount,black,military,0,0,0,0
+9,center front,#5 metal, za snap-on type (ykk),1-way (locking),psudo anti silver slider and teeth / black tape,psudo anti silver slider and teeth / black tape,none,none,none,none
+10,left arm pocket,#5 metal,dadhr diecast wire (non ykk),1-way (locking),psudo anti silver slider and teeth / black tape,psudo anti silver slider and teeth / black tape,none,none,none,none
+12,zipper pulls,item,supplier/ ref number,amount,black,military,0,0,0,0
+13,cf,l1-2016-trim-009,top pull only,1,psudo anti silver,psudo anti silver,none,none,none,none
+15,l1 branded trims,item,supplier/ ref number,amount,black,military,0,0,0,0
+16,front left sleeve hem,l1 embroidery small,soluna / l1-2016-026,1,dtm,dtm,none,none,none,none
+17,back right ,l1 embroidery large,soluna / l1-2016-027,1,dtm,dtm,none,none,none,none
+18,hand pocket flaps,l1 metal snap,luks / l1-2016-trim-001,2,psudo anti silver,psudo anti silver,none,none,none,none
+20,hem,item,supplier/ ref number,amount,black,military,0,0,0,0
+21,hem drawcord,round drwacord with clear plastic tip,none,1,black,military,none,none,none,none
+22,hem grommets,metal grommet,none,1 per side = 2,enamel dull black,enamel dull black,none,none,none,none
+24,velcro,item,supplier/ ref number,amount,black,military,0,0,0,0
+25,inner pocket closure,"1/2"" x 6""",none,1,black,military,none,none,none,none
+27,thread,spi,ref number,amount,black,military,0,0,0,0
+28,seams,none,none,none,matching,matching,none,none,none,none
+29,topstitch,none,none,none,matching,matching,none,none,none,none
+30,bartacks,none,none,none,matching,matching,none,none,none,none
+32,marketing,description,ref number,amount,black,military,0,0,0,0
+33,lining cb locker loop,l1 hang tag,l1 hang tag,1,l1 hang tag,none,none,none,none,none
+34,lining cb facing,wp/ breathability // rn ca / made in china,5k/5k // critically taped ,1,5k/5k // critically taped ,none,none,none,none,none
+35,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+36,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+37,lining left side seam,washing label,sew as loop,1,washing label,none,none,none,none,none
+38,lining locket loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

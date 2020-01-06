@@ -1,0 +1,45 @@
+,0,1,2,3,4,5,6,7,8,9
+8,zippers,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+9,fly ,#5 coil ,ykk dalh // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+10,hand pockets,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+11,right cargo pocket,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+12,"""balls out"" venting",#5 coil ,"non ykk dadhr diecast wire // 2 sliders on closed ends tape, zip down each side to close (locking)",1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+13,hem,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+15,zipper pulls,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+16,hand pockets, self fabric pull,factory made // 11nt-045 ,1 per side = 2,shell fabric matching,none,none,none,none,none
+17,right cargo pocket, self fabric pull,factory made // 11nt-045 ,1,shell fabric matching,none,none,none,none,none
+18,"""balls out"" venting", self fabric pull,factory made // 11nt-045 ,1 per side = 2,shell fabric matching,none,none,none,none,none
+20,l1 branded trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+21,"waist closure, pocket flaps",snap with faux leather backing,supplier /l1-2016-trim-002,8,none,none,none,none,none,none
+22,right cargo pocket flap,faux leather wrap,l1-2016-trim-013,1,none,none,none,none,none,none
+23,back left knee,small faux suede  patch,l1-2017-trim-106,1,none,none,none,none,none,none
+24,front left hem,l1 embroidery large,l1-2016-trim-027,1,none,none,none,none,none,none
+26,snaps,#5 coil ,supplier/ ref number,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6,0
+27,"""snap away hem"" back leg hem",24l metal snap,none,1 per side = 2,psudo anti silver/ black cap,none,none,none,none,none
+28,"""jacket to pant connection"" back 3 belt loops",24l metal snap,none,3,none,none,none,none,none,none
+30,other trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+31,right hand pocket,key clip,j&k // hk-001,1,black,none,none,none,none,none
+32,front of leg gaiter,metal boot hook,supplier / ref number,1 per side = 2,psudo anti silver,none,none,none,none,none
+34,webbing & elastic,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+35,keyclip loop right hand pocket,"1/4"" flat x 1 3/4"" loop",none,1,black,none,none,none,none,none
+36,boot hook reinforcement,"1"" tab",none,1 per side = 2,black,none,none,none,none,none
+37,"""snap away hem"" reinforcement","1"" tab",none,1 per side = 2,black,none,none,none,none,none
+38, leg gaiter elastic,23mm non logo gripper elastic,none,1 per side = 2,black,none,none,none,none,none
+39,"""fast stash"" glove holder // right cargo pocket","1"" x 3 1/2"" black elastic loop",none,1 per side = 2,black,none,none,none,none,none
+41,velcro,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+42,waist band closure,"1"" x 1 3/8""",none,1,dtm,none,none,none,none,none
+43,cargo pocket flaps,"1/2"" x 1 1/2""",none,1 per side = 2,dtm,none,none,none,none,none
+45,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+46,seams,none,tseu,regular thread,matching,none,none,none,none,none
+47,topstitch,none,tseu,topstitch thread,matching,none,none,none,none,none
+48,heavy weight topstitch,none,tseu,heavy weight topstitch thread,matching,none,none,none,none,none
+49,bartacks,none,tseu,regular thread,matching,none,none,none,none,none
+51,l1 marketing,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+52,front left belt loop,l1 pant hang tag,supplier // ,1,l1 pant hang tag,none,none,none,none,none
+53,front left belt loop behind main hang tag,l1 pant fit hang tag ,supplier // regular fit,1,l1 pant fit hang tag  // regular fit,none,none,none,none,none
+54,center back waist band facing,l1 pant size label,l1 pant size label,1,l1 pant size label,none,none,none,none,none
+55,lining front right,l1 main label,regular fit // 10k/10k // fully taped ,1,regular fit // 10k/10k // fully taped ,none,none,none,none,none
+56,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+57,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+58,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+59,front left belt loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

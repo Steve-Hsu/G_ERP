@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 mens jacket,none,none,none,none,none,none,none,none
+1,none,season: ,none,winter 2017/2018,none,contractor: ,none,soluna,none,none
+2,none,style number:,none,l1-111-17,none,date created:,none,2016-03-14 00:00:00,none,none
+3,none,style name: ,none,flint jacket,none,date revised: ,none,none,none,none
+4,none,fabric rating: ,none,5k/5k,none,block: ,none,l1-111-16 flint reversible ,none,none
+5,none,seam sealing: ,none,not taped,none,fit: ,none,street,none,none
+6,none,sample size: ,none,mens large,none,target fob: ,none,36,none,none
+8,l1 branded trims,item,supplier/ ref number,amount,soil / black,black / oxblood,0,0,0,0
+9,"front placket, chest pocket, sleeve plackets",new l1 snap,luks / trim number,10,none,none,none,none,none,none
+10,chest pocket,hem wrap,luks / l1-2016-trim-013,1,black ,black ,none,none,none,none
+11,hem,new woven label,luks / trim number,1,none,none,none,none,none,none
+12,back shoulder,l1 embroidery large,soluna / l1-2016-027,1,dtm,dtm,none,none,none,none
+14,snaps,item,supplier/ ref number,amount,soil / black,black / oxblood,0,0,0,0
+15,hand pocket snaps,24 l metal,none,1 per side = 2,none,none,none,none,none,none
+18,thread,spi,ref number,amount,soil / black,black / oxblood,0,0,0,0
+19,seams,none,none,none,matching,matching,none,none,none,none
+20,topstitch,none,none,none,matching,matching,none,none,none,none
+21,bartacks,none,none,none,matching,matching,none,none,none,none
+23,marketing,description,ref number,amount,soil / black,black / oxblood,0,0,0,0
+24,lining cb locker loop,l1 hang tag,l1 hang tag,1,l1 hang tag,none,none,none,none,none
+25,lining cb facing,wp/ breathability // rn ca / made in china,5k/5k ,1,5k/5k ,none,none,none,none,none
+26,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+27,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+28,lining left side seam,washing label,sew as loop,1,washing label,none,none,none,none,none
+29,lining locket loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

@@ -1,0 +1,48 @@
+,0,1,2,3,4,5,6,7,8,9
+0,l1 mens jacket,none,none,none,none,sample size large / xs-xxl,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,l1-113-18,none,none,date created:,none,"feb. 28, 2017",none,none
+3,style name:,none,kensington,none,none,date revised:,none,2017-04-06 00:00:00,none,none
+4,waterproof/breathability:,none,dwr,none,none,block:,none,new,none,none
+5,seam sealing:,none,none,none,none,fit:,none,street,none,none
+6,insulation:,none,100g pinneco mantle all over,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+9, #5 vislon zipper,ykk / 1-way dadhr die cast wire semi auto lock,center front,1,bombay 18-1250 tcx ,oxblood 19-1725 tcx ,none,none,none,none
+10, #5 vislon zipper,non ykk / 1-way dadhr die cast wire non locking,chest pocket vertical,1,bombay 18-1250 tcx ,oxblood 19-1725 tcx ,none,none,none,none
+11, #5 vislon zipper,non ykk / 1-way dadhr die cast wire non locking,hand pockets vertical,1 per side = 2,bombay 18-1250 tcx ,oxblood 19-1725 tcx ,none,none,none,none
+13,additional zipper pulls,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+14,shock cord zipper pull with silicon dipped ends,chun wo ho / cw17-063 black shockcord with rubber dipper ends - please source,"center front zipper (1), chest pocket zipper (1) hand pocket zippers (2)",4,black cord with bombay 18-1250 tcx rubber dip,black cord with oxblood 19-1725 tcx rubber dip,none,none,none,none
+16,branded trims,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+17,"l1-2018-trim-001
+woven label",please source,front right hem,1,woven label,woven label,none,none,none,none
+18,"l1-2018-trim-024
+l1 embroidery small
+3cm x 2.77cm  ",please source,front left sleeve hem,1,match to shell,match to shell,none,none,none,none
+19,"l1-2018-trim-025
+l1 embroidery large
+3.7cm x 3.4cm  ",please source,back right,1,match to shell,match to shell,none,none,none,none
+22,trims,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+23,metal eyelets 8mm,luk's / et04,hem cord exit,2 per side = 4,al023 alloy (d),al023 alloy (d),none,none,none,none
+24,cord lock,sunsun/ sv160819-4a,hem adjust exposed at lining,1 per side = 2,black,black,none,none,none,none
+25,bead,sunsun/ sv160725-1a,hem adjust,1 per side = 2,black,black,none,none,none,none
+27,notions,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+28,binding,chun wo ho/ cw17-251 or please source,sleeve hems,1 per side = 2,black,black,none,none,none,none
+29,"grosgrain 3/8""",please source,attach hem cord locks,1 per side = 2,black,black,none,none,none,none
+30,l1-2018-trim-030 2-color shockcord 3.5mm (heathered 2 color mix) ,"example: cw17-062
+chun wo ho (please source)",hem,1,"colorway: 1 = 19-4006 tcx black/
+18-0403 tcx gunmetal","colorway: 1 = 19-4006 tcx black/
+18-0403 tcx gunmetal",none,none,none,none
+32,velcro,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+35,thread,spi,supplier/ ref number,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+36,seams,10-12 spi,30/2,none,match to shell,match to shell,none,none,none,none
+37,topstitch,8-10 spi,30/2,none,match to shell,match to shell,none,none,none,none
+38,bartacks,none,100/2,none,match to shell,match to shell,none,none,none,none
+40,labels ,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+41,dwr,soluna/ main label,center back below neck seam,1,dwr,dwr,none,none,none,none
+42,size label (sample size l),soluna/ size label,center back below main label,1,"xs, s, m, l, xl","xs, s, m, l, xl",none,none,none,none
+44,hang tags,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+45,mens jacket hang tag,soluna/ mens jacket hang tag,left side hand pocket zipper,1,mens jacket hang tag,mens jacket hang tag,none,none,none,none
+48,care and content labels,supplier/ reference number,location,amount,gunmetal / bombay,black / oxblood,0,0,0,0
+49,address label,factory sourced,lining left side seam,1,address label,address label,none,none,none,none
+50,content label,factory sourced,lining left side seam,1,content label,content label,none,none,none,none
+51,washing label,factory sourced,lining left side seam,1,washing label,washing label,none,none,none,none

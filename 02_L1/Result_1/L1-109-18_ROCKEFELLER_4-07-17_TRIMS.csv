@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6,7,8,9
+0,l1 mens jacket,none,none,none,none,sample size large / xs-xxl,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,l1-109-18,none,none,date created:,none,2017-02-23 00:00:00,none,none
+3,style name:,none,rockefeller,none,none,date revised:,none,2017-04-07 00:00:00,none,none
+4,waterproof/breathability:,none,5k/5k,none,none,block:,none,l1-109-17 & l1-111-17 bulk,none,none
+5,seam sealing:,none,critically taped,none,none,fit:,none,street,none,none
+6,insulation:,none,pinneco mantle 60g insulation all over,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+9, #5 metal zipper,ykk / 2-way semi auto locking with 2 l1 custom pulls,center front,1,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,none,none,none
+10, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,chest pocket vertical,1,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,none,none,none
+11, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,hand pockets horizontal,2,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,silder/pull color: x antique copper/ zipper tape color: black,none,none,none
+13,additional zipper pulls,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+14,"l1-2018-trim-017
+l1 zipper pull",ykk,center front,top and bottom pull = 2,ykk x antique copper,ykk x antique copper,ykk x antique copper,none,none,none
+15, 11nt-045 / self fabric pull ,factory made,chest pocket vertical,1,match to shell,match to shell,match to shell,none,none,none
+16, 11nt-045 / self fabric pull ,factory made,hand pockets horizontal,1 per side = 2,match to shell,match to shell,match to shell,none,none,none
+18,branded trims,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+19,"l1-2018-trim-006
+large brown faux leather hem wrap",please source,front left hand pocket,1,brown faux leather,brown faux leather,brown faux leather,none,none,none
+20,"l1-2018-trim-001
+woven label:",please source,front right hand pocket bag,1,woven label,woven label,woven label,none,none,none
+21,"l1-2018-trim-024
+l1 embroidery small
+3cm x 2.77cm  ",please source,left sleeve hem,1,match to shell,match to shell,match to shell,none,none,none
+22,"l1-2018-trim-025
+l1 embroidery large
+3.7cm x 3.4cm  ",please source,back right,1,match to shell,match to shell,match to shell,none,none,none
+25,trims,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+28,notions,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+29,"grosgrain: 3/4"" wide  (fold in 1/2, 5/8"" finished tab length)",soluna,pull tab on velcro lining pocket ,1,black,black,black,none,none,none
+32,velcro,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+33,"1/2"" x 5 1/2"" (1/2"" shorter that pocket length velcro with rounded corners",paiho / hooketn7 / loop#1057,lining pocket,1,black,black,black,none,none,none
+36,thread,spi,supplier/ ref number,amount,black,walnut,dark slate,0,0,0
+37,seams,10-12 spi,30/2,none,match to shell,match to shell,match to shell,none,none,none
+38,topstitch,8-10 spi,30/2,none,match to shell,match to shell,match to shell,none,none,none
+39,bartacks,none,100/2,none,match to shell,match to shell,match to shell,none,none,none
+41,labels ,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+42,5k/5k critically taped,soluna/ main label,center back below neck seam,1,5k/5k critically taped,5k/5k critically taped,5k/5k critically taped,none,none,none
+43,size label (sample size l),soluna/ size label,center back below main label,1,"xs, s, m, l, xl","xs, s, m, l, xl","xs, s, m, l, xl",none,none,none
+45,hang tags,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+46,mens jacket hang tag,soluna/ mens jacket hang tag,left side hand pocket zipper,1,mens jacket hang tag,mens jacket hang tag,mens jacket hang tag,none,none,none
+50,care and content labels,supplier/ reference number,location,amount,black,walnut,dark slate,0,0,0
+51,address label,factory sourced,lining left side seam,1,address label,address label,address label,none,none,none
+52,content label,factory sourced,lining left side seam,1,content label,content label,content label,none,none,none
+53,washing label,factory sourced,lining left side seam,1,washing label,washing label,washing label,none,none,none

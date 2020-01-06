@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 jacket,none,none,none,none,none,none,none,none
+1,none,season:,none,winter 2016/2017,none,contractor:,none,none,none,none
+2,none,style number:,none,l1-104-16,none,date created:,none,"jan 4, 2015",none,none
+3,none,style name:,none,legacy,none,date revised:,none,none,none,none
+4,none,waterproof/breathability:,none,10k/10k,none,block:,none,l1-104-16 sample,none,none
+5,none,seam sealining:,none,critically taped,none,fit:,none,riding fit,none,none
+6,none,insulation:,none,"60g body, 40g hood/sleeves ""cs"" polyfill",none,fabric: ,none,broken twill/ oxford,none,none
+7,none,none,none,none,none,target fob:,none,$51.00,none,none
+9,none,none,none,none,colorways,none,none,none,none,none
+10,shell fabric,description,ref number,content,colorways,none,none,none,none,none
+11,a,oxford no washout 5k/5k coating + c6 dwr 80/10 $4.00,solis l2-584,100% poly,none,none,none,none,none,none
+12,b,broken twill 5k/5k hydrophilic coating c6 dwr 80/10,solis wl248,100% poly,none,none,none,none,none,none
+14,insulation,description,ref number,content,colorways,0,0,0,0,0
+15,hood & sleeves,insulation,"""cs"" type polyfill",100% poly,40g,none,none,none,none,none
+16,body,insulation,"""cs"" type polyfill",100% poly,60g,none,none,none,none,none
+18,seam tape,description,ref number,none,colorways,0,0,0,0,0
+19,critically taped,bemis ,st-004,none,critically taped,none,none,none,none,none
+21,lining,description,ref number,content,colorways,0,0,0,0,0
+22,back,bone collector print,te er jia textile,100% poly,bone collector print,none,none,none,none,none
+23,chin,bt-120 120g brushed tricot,fuk luen,100% poly,black,none,none,none,none,none
+24,lower body & pow,coated 210t,te er jia textile,100% nylon,black,none,none,none,none,none
+25,sleeve gaiter,lycra e3953b,ching hing textile,82% polyester 18% elastane,black,none,none,none,none,none
+26,vents,regular mesh a-1014,fuk luen,100% poly,black,none,none,none,none,none
+27,goggle pocket,regular mesh a-1014,fuk luen,100% poly,black,none,none,none,none,none
+28,hood,solid 210t,te er jia textile,100% nylon,black,none,none,none,none,none
+29,fronts,solid 210t,te er jia textile,100% nylon,black,none,none,none,none,none
+30,sleeves,solid 210t,te er jia textile,100% nylon,black,none,none,none,none,none
+31,hand pocket lining,solid 210t,te er jia textile,100% nylon,black,none,none,none,none,none

@@ -1,0 +1,60 @@
+,0,1,2,3,4,5,6,7,8
+0,airblaster,none,none,none,none,style number: ab19ms1_111,none,none,none
+1,none,none,none,none,none,designer:   jg,none,none,none
+2,none,none,none,none,none,season: winter 2018/19,none,none,none
+3,none,none,insulation,none,none,collection: freedom series,none,none,none
+4,style name: ,none,seams,fully seam sealed,none,vendor: ,none,none,none
+5,basic bib,none,mm rating,none,none,none,none,none,none
+7,none,none,highlighted = changes,none,none,none,none,none,none
+8,none,updated: 4.14.17,none,none,none,color #1,color #2,color #3,color #4
+9,none,material/trim,description,location,qty,tbd,tbd,tbd,tbd
+10,none,none,none,none,fabrics & linings,none,none,none,none
+11,a,shell fabric,sotp069-c1-h 100% polyester 15k/10k dwr+breathable coating (supplied by solis),main body,none,tbd,tbd,tbd,tbd
+12,b,shell fabric,sotp069-c1-h 100% polyester 15k/10k dwr+breathable coating (supplied by solis),"knee patches, back pocket",none,tbd,tbd,tbd,tbd
+13,c,lining,210t-e emb07 terry emboss taffeta - (supplied by ecoya),inside lining,none,tbd,tbd,tbd,tbd
+14,d,other , velvety tricot - soto048-1 (supplied by solis), inner front pockets,none,tbd,tbd,tbd,tbd
+15,e,other,100% poly mesh - sotc025-1 (supplied by solis),vents,none,tbd,tbd,tbd,tbd
+16,f,other,nylon/elastic lycra - sono029-1 (supplied by solis),"leg gaiters, ",none,tbd,tbd,tbd,tbd
+17,g,interfacing,1025h,internal storm flap,none,white,white,white,white
+19,none,none,none,none,zippers,none,none,none,none
+20,aa,zipper,"ykk no.5 nylon coil zippers, auto-lock slider da8lh",fly,1,tbd,tbd,tbd,tbd
+21,bb,zipper,"ykk no.5 nylon coil zippers,hidden chain, auto-lock slider da8lh1 (close down)", vents,2,tbd,tbd,tbd,tbd
+22,cc,zipper,"ykk no.5 nylon coil ,  zipper,auto lock slider da8lh1  (zip closes down)",(2) hand warmer pockets at lower body ,2,tbd,tbd,tbd,tbd
+23,dd,zipper,"ykk no.5 nylon coil ,  zipper,auto lock slider da8lh1  ",back pockets zipper closes to side seam,1,tbd,tbd,tbd,tbd
+24,ee,zipper pull,abzp_01 utility cord zipper pullers with tied end,"(2) vents, (3) pockets, ",5,tbd,tbd,tbd,tbd
+26,none,none,none,none,trims,none,none,none,none
+27,ff,velcro,hook w: 1.6cm x h: 18 cm,at side seam (2),2,tbd,tbd,tbd,tbd
+28,gg,velcro,loop w: 1.6cm x h: 18 cm,at side seam (4),4,tbd,tbd,tbd,tbd
+29,hh,hardware,lace hooks,c.f. of lower leg gaiters at gripper elastic,2,black oxidized,black oxidized,black oxidized,black oxidized
+30,ii,hardware,"snap buttons absnp_01 (sets), 17 mm incl washers",(4) back side seam (2)chest pocket flap,6,tbd,tbd,tbd,tbd
+31,jj,buckle,tbd,strap attachment,2,black,black,black,black
+32,kk,key clip,plastic key clip attched with 8mm  width webbing loop,inside w. right lower body handwarmer pocket,1,black,black,black,black
+33,ll,plastic d-ring,"h301- 1.5"" plastic d-ring",top of front bib,2,black,black,black,black
+34,mm,buckle,goggle strap adjuster,shoulder straps,2 pcs,black,black,black,black
+35,nn,strap holder,plastic back strap holder,back shoulder straps,1,black,black,black,black
+36,oo,elastic,goggle strap elastic: 3.5cm width,shoulder straps,2 pcs,black,black,black,black
+37,pp,elastic,gripper elastic,at lower leg gaiters,2,black,black,black,black
+38,qq,webbing,8mm  width webbing,key clip attachment,1,black,black,black,black
+39,rr,main label,tbd,11cm below cb neck,1,tbd,tbd,tbd,tbd
+40,ss,size label,abwv_69 size label,sewn in and centered below abwv_107 or abpa_70,1,tbd,tbd,tbd,tbd
+41,tt,w/c label/content,w/c label satin with print (as used on 12/13  bulk),"sewn in at wearers inside left side seam, 10 cm up from waistband zipper seam.",1,black,black,black,black
+42,uu,branding,tbd,tbd,1,tbd,tbd,tbd,tbd
+43,vv,branding,tbd,tbd,1,n/a,n/a,n/a,n/a
+44,ww,abwvlp_01 woven loop,abwvlp_01 (supplied by sml),inside center back waist seam,1,tbd,tbd,tbd,tbd
+46,none,none,none,none,packaging/hang tags (bulk only),none,none,none,none
+47,xx,hangtag,tbd,tbd,1,tbd,tbd,tbd,tbd
+48,yy,hangtag,tbd,tbd,1,tbd,tbd,tbd,tbd
+49,zz,polybag w/ warning matter,airpill logo print:  16 cm,centered on poly bag,1,black,black,black,black
+50,aaa,country of origin sticker (supplied by your side),made in china sticker,centered above upc sticker,1,white,white,white,white
+51,bbb,upc sticker (supplied by your side),sticker width 3.5 cm,lookers right bottom corner,1,white,white,white,white
+53,special instructions:,none,none,none,none,none,none,none,none
+54,1,stitching:,"top stitch 1/16"", serge all linings, single needle",none,none,none,none,none,none
+55,2,stitches per inch:,8-10,none,none,none,none,none,none
+56,3,zipper direction:,"cf has 2-way sliders, pocket zippers close down, underarm vents zips close down, inseam vents close down",none,none,none,none,none,none
+57,4,bar tact:,at stress points,none,none,none,none,none,none
+58,5,heat cut:,"elastic, webbing, taffeta",none,none,none,none,none,none
+59,6,grommets/snaps:,should have pellon backing,none,none,none,none,none,none
+60,7,hang tag:,should have the above noted hang tags,none,none,none,none,none,none
+61,8,needle type:,ball point,none,none,none,none,none,none
+62,9,poly bag:,1 garment per bag in airblaster logo'd poly bag; poly bag sticker and upc sticker on outside,none,none,none,none,none,none
+63,10,thread color:,"matches fabric color, unless noted above",none,none,none,none,none,none

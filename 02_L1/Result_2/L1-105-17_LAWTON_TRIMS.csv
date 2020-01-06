@@ -1,0 +1,49 @@
+,position,item,ref num,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+8,center front,#5 vislon,ykk za snap on // 1-way seperating auto lock ,1,pseudo anti silver slider  and dtm teeth / dtm tape,none,none,none,none,none
+9,underarms,#5 coil,dadhr diecast wire (non ykk) auto lock (zip up to close) ,1 per side = 2,pseudo anti silver slider  and dtm teeth / dtm tape,none,none,none,none,none
+10, hand pockets,#5 coil,dadhr diecast wire (non ykk) auto lock ,1 per side = 2,pseudo anti silver slider  and dtm teeth / dtm tape,none,none,none,none,none
+11,zipper pulls,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+12,center front,l1 snap on metal zipper pull,luks / l1-2016-trim-009 ,1,pseudo anti silver ,none,none,none,none,none
+13,underarms, self fabric pull,factory made // 11nt-045 ,1 per side = 2,shell fabric matching,none,none,none,none,none
+14, hand pockets,special pull,factory made ??,1 per side = 2,brown,none,none,none,none,none
+15,l1 branded trims,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+16,front left sleeve,l1 small embroidery,soluna / l1-2016-026,1,dtm,none,none,none,none,none
+17,back right ,l1 large embroidery,soluna / l1-2016-027,1,dtm,none,none,none,none,none
+18,front placket and pocket flap,l1 snap,luks / l1-2016-trim-002,4,pseudo anti silver/ brown,none,none,none,none,none
+19,right hand pocket,l1 new patch,luks / new trim ,1,tbd,none,none,none,none,none
+20,snaps,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+21,cf powder skirt closure,14 mm plastic snap,duraflex / 1414,"4 male, 2 female",black,none,none,none,none,none
+22,pow skirt: jacket to pant connection on powderskirt hem,14 mm plastic snap,duraflex / 1414,3 sets,black,none,none,none,none,none
+23,"""snap away powder skirt"" snap powder skirt to front facing when not in use",14 mm plastic snap,duraflex / 1414,"1 male, 1 female",black,none,none,none,none,none
+24,cord locks,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+25,front hood cord locks,cord lock,knk / sp-204,1 per side = 2,tbd,none,none,none,none,none
+26,front hood shockcord tips,shockcord tip,please sorce,1 per side = 2,tbd,none,none,none,none,none
+27,hem cord locks,cord lock,knk / sp-177,1 per side = 2,tbd,none,none,none,none,none
+28,hem cord pull,cord tip,knk / cs-074,1 per side = 2,tbd,none,none,none,none,none
+29,grommets,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+30,front hood adjust cord exit,grommet  8mm diameter,please sorce,2 per side = 4,pseudo anti silver ,none,none,none,none,none
+31,hem adjust cord exit,grommet  8mm diameter,please sorce,2 per side = 4,pseudo anti silver ,none,none,none,none,none
+32,hem adjust cord exit in lining pocket,grommet  8mm diameter,please sorce,1 per side = 2,pseudo anti silver ,none,none,none,none,none
+33,shockcord,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+35,webbing ,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+36,keyclip loop right hand pocket,"1/4"" flat x 1 3/4"" loop",suppler / ref nuber,1,black,none,none,none,none,none
+37,hem & hood cord lock tie downs,"1/4"" flat webbing loop",suppler / ref nuber,5,black,none,none,none,none,none
+38,right hand pocket,plastic keyclip ,suppler / ref nuber,1,black,none,none,none,none,none
+39,inner pocket tab,"3/4""",suppler / ref nuber,1,black,none,none,none,none,none
+40,jacket to pant connection center back ,"3/4"" x 1"" finished ",suppler / ref nuber,tab behind each snap = 2,black,none,none,none,none,none
+41,jacket to pant connection at side tabs,"3/4"" x 3 1/4"" flat webbing",suppler / ref nuber,1,black,none,none,none,none,none
+42,elastic,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+43,powder skirt gripper elastic,25mm,suppler / ref nuber,1,stock,none,none,none,none,none
+44,goggle pocket,elastine binding,suppler / ref nuber,1,black,none,none,none,none,none
+45,lining media pocket cable guide,"1/4"" flat elastic",suppler / ref nuber,1,black,none,none,none,none,none
+47,jacket to pant connection center back tab,"flat elastic tape 3/4"" x 4 1/4""",suppler / ref nuber,1,black,none,none,none,none,none
+48,velcro,item,supplier/ ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+49,cuff ,2.5cm x 9cm,paiho / loop#1057,1 loop tab,matching,none,none,none,none,none
+50,cuff tab,2.5cm x 6.5cm,paiho / hooketn7,1 hook tab,matching,none,none,none,none,none
+51,cf placket,1.3 cm x 7.5cm,paiho / hooketn7 / loop#1057,4 sets,matching,none,none,none,none,none
+53,thread,spi,ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+58,marketing,description,ref number,amount,colorway 1 ,colorway 2,colorway 3,0,0,0
+61,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+62,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+63,lining left side seam,washing label,sew as loop,1,washing label,none,none,none,none,none
+64,front left belt loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

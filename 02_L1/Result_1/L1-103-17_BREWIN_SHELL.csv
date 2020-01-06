@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 mens jacket,none,none,none,none,none,none,none,none
+1,none,season: ,none,winter 2017/2018,none,contractor: ,none,soluna,none,none
+2,none,style number:,none,l1-103-17,none,date created:,none,2016-03-14 00:00:00,none,none
+3,none,style name: ,none,brewin,none,date revised: ,none,none,none,none
+4,none,fabric rating: ,none,15k/ 15k,none,block: ,none,l1-102_16_brewin,none,none
+5,none,seam sealing: ,none,fully taped,none,fit: ,none,regular,none,none
+6,none,insulation: ,none,"60g ""cs"" polyfill all over",none,target fob: ,none,50,none,none
+7,none,sample size: ,none,mens large,none,none,none,none,none,none
+9,none,none,none,none,colorways,none,none,none,none,none
+10,shell fabric,item,supplier/ ref number,content,colorway 1 ,colorway 2,colorway 3,none,none,none
+11,a,wax fabric pa07001-2lc 15k/15k 4.68,none,none,none,none,none,none,none,none
+14,insulation,item,supplier/ ref number,content,colorway 1 ,colorway 2,colorway 3,0,0,0
+15,"60g ""cs"" polyfill all over",none,polyfill,none,"60g ""cs"" polyfill all over",none,none,none,none,none
+17,seam tape,item,supplier/ ref number,content,colorway 1 ,colorway 2,colorway 3,0,0,0
+18,fully taped,width...seam tape,sealon,none,fully taped,none,none,none,none,none
+20,lining,item,supplier/ ref number,content,colorway 1 ,colorway 2,colorway 3,0,0,0
+21,"hood,  sleeves, waist and top entry pocket bag",solid 210d,solis / ref number,none,none,none,none,none,none,none
+22,front and back panels,printed 210t,solis / ref number,none,none,none,none,none,none,none
+23,lower body & powder skirt ,solid coated 210d,solis / ref number,none,none,none,none,none,none,none
+24,chin,brushed tricot,solis / ref number,none,none,none,none,none,none,none
+25,goggle pocket & underam vents,regular mesh,solis / ref number,none,none,none,none,none,none,none
+26,sleeve gaiter,stretch lycra,solis / ref number,none,none,none,none,none,none,none

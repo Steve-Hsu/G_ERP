@@ -1,0 +1,37 @@
+,description,item,ref,amount,colorway/4,colorway/5,colorway/6,colorway/7,colorway/8,colorway/9
+1,fly ,#5 coil ,ykk dalh // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+2,leg pocket,#3 coil,non ykk dadr4 l-type drop // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+3,right back pocket,#5 coil,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+4,hem,#5 coil,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+5,l1 branded trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+6,cf fly,19mm l1 shank ,supplier / l1-2016-trim-006,1,matte black,none,none,none,none,none
+7,front left hand pocket,10mm square rivet,l1-2016-trim-004,1,matte black,none,none,none,none,none
+8,back left pocket,l1 17mm metal snap,l1-2016-trim-003,1,matte black,none,none,none,none,none
+9,back left leg,l1 small faux leather patch,l1-2017-trim-106,1,black,none,none,none,none,none
+10,front left hem,l1 embroidery large,factory sorced // l1-2016-trim-027,1,dtm shell,none,none,none,none,none
+11,other trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+12,waist drawcord,"3/8"" flat waxed shoe lace with clear plastic tips",supplier / ref number,1 + 2 clear plastic tips,black waxed / clear tips,none,none,none,none,none
+13,leg pocket,key clip,j&k // hk-001,1,black,none,none,none,none,none
+14,front of leg gaiter,metal boot hook,supplier / ref number,1 per side = 2,matte black,none,none,none,none,none
+15,snaps,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+16,"""finger snap hem adjust"" back leg hem",24l metal snap,none,1 per side = 2,psudo anti silver/ black cap,none,none,none,none,none
+17,webbing & elastic,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+18,keyclip loop leg pocket,"1/4"" flat x 1 3/4"" loop",none,1,black,none,none,none,none,none
+19,boot hook reinforcement,"1"" tab",none,1 per side = 2,black,none,none,none,none,none
+20,"""finger snap hem adjust"" reinforcement","1"" tab",none,1 per side = 2,black,none,none,none,none,none
+21, leg gaiter elastic,23mm non logo gripper elastic,none,1 per side = 2,black,none,none,none,none,none
+22,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+23,"shell seams 1/4"" allowance ",12 spi (special allowance to avoid seam slip on shell  fabric),# 604 tseu,regular thread,matching,we have had ripping problems in the past,none,none,none,none
+24,topstitch,8-10 spi,# 604 tseu,topstitch thread,matching,none,none,none,none,none
+25,denim weight topstitch,8-10 spi,#606 tseu,heavy weight topstitch thread,matching,none,none,none,none,none
+26,bartacks,none,# 604 tseu,regular thread,matching,none,none,none,none,none
+27,none,none,# 604 tseu,regular thread,matching,none,none,none,none,none
+28,l1 marketing,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+29,front left belt loop,l1 pant hang tag,supplier // ,1,l1 pant hang tag,none,none,none,none,none
+30,front left belt loop behind pant hang tag,l1 pant fit hang tag ,supplier // skinny fit,1,l1 pant fit hang tag  // skinny fit,none,none,none,none,none
+31,center back waist band facing,l1 pant size label,l1 pant size label,1,l1 pant size label,none,none,none,none,none
+32,lining front right,l1 main label,skinny fit // 10k/10k // critically taped ,1,skinny fit // 10k/10k // critically taped ,none,none,none,none,none
+33,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+34,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+35,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+36,front left belt loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

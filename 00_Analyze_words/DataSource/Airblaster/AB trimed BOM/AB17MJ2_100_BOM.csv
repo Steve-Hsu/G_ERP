@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9
+0,airblaster,none,none,none,none,style number: ab17mj1_100,none,none,none,none
+1,none,none,none,none,none,designer:   jg,none,none,none,none
+2,none,none,none,none,none,season: winter 2016/17,none,none,none,none
+3,none,none,insulation:,100gm insulation,none,collection: s.layer,none,none,none,none
+4,style name:,none,seams:,none,none,vendor: soluna,none,none,none,none
+5,chore jacket,none,mm rating:,none,none,none,none,none,none,none
+7,none,none,highlighted = changes,none,none,none,none,none,none,none
+8,none,updated: 9.10.15,none,none,none,color #1,color #2,color #3,color #4,color #5
+9,none,material/trim,description,location,qty,black,vintage blue,red dawn,night jungle,wood duck critterflage
+10,none,none,none,none,fabrics & linings,none,none,none,none,none
+11,a,shell fabric,sotp069-2l32-ae 100% polyester 80/20 dwr tpu membrane (supplied by solis),"main body, sleeves, pockets, collar",none,black,vintage blue,red dawn,n/a,n/a
+12,a,shell fabric,sotp069-pr03-ae 100% polyester 80/20 dwr tpu membrane (supplied by solis),"main body, sleeves, pockets, collar",none,n/a,n/a,n/a,night jungle,wood duck critterflage
+13,b,lining,emb07 taffeta emboss (supplied by ecoya),"inside lining, pocket bag",none,old gold,old gold,black,black,black
+14,c,pellon,lightweight interfacing (item# tbd),"collar, placket, cuffs",none,white,white,white,white,white
+16,none,none,none,none,trims,none,none,none,none,none
+17,aa,hardware,shirt buttons  17mm ,(5) c.f,5,black,black,black,black,black
+18,bb,hardware,"snap buttons absnp_01 (sets), 17mm (incl. washers)",(2) cuffs,2,bi-08 dull dark pewter,bi-17 mid dark anti brass,bi-17 mid dark anti brass,bi-17 mid dark anti brass,bi-17 mid dark anti brass
+19,cc,hardware,male snap only (incl. washers),(2) cuffs,2,bi-08 dull dark pewter,bi-17 mid dark anti brass,bi-17 mid dark anti brass,bi-17 mid dark anti brass,bi-17 mid dark anti brass
+20,dd,main label,abwv_84 s.layer main label,"inside c.b. neck, see q/a for placement",1,cream/black,cream/black,cream/black,cream/black,cream/black
+21,ee,size label,abwv_69 inside joke label,sewn in and centered below main label,1,black/cream,black/cream,black/cream,black/cream,black/cream
+22,ff,w/c label,satin label with print,"wearer's left side seam, 10 cm up from bottom edge",1,black,black,black,black,black
+23,gg,abwvlp_01 woven loop,abwvlp_01 (supplied by sml),inside center back neck seam,1,black/cream,black/cream,black/cream,black/cream,black/cream
+24,hh,branding,abwv_75  glacier seam label,"left side seam, see placement page for detail",1,black/cream,black/cream,black/cream,black/cream,black/cream
+26,none,none,none,none,hangtags/packaging,none,none,none,none,none
+27,ii,hangtag,tbd,tbd,1,tbd,tbd,tbd,tbd,tbd
+28,jj,hangtag,tbd,tbd,1,tbd,tbd,tbd,tbd,tbd
+29,kk,polybag w/ warning matter,airpill logo print:  16 cm,centered on poly bag,1,clear,clear,clear,clear,clear
+30,ll,country of origin sticker (supplied by your side),made in china sticker,centered above upc sticker,1,tbd,tbd,tbd,tbd,tbd
+31,mm,upc sticker (supplied by your side),sticker width 3.5 cm,lookers right bottom corner,1,tbd,tbd,tbd,tbd,tbd
+33,special instructions:,none,none,none,none,none,none,none,none,none
+34,1,stitching:,"top stitch 1/16"", serge all linings, single needle",none,none,none,none,none,none,none
+35,2,stitches per inch:,8-10,none,none,none,none,none,none,none
+36,3,zipper direction:,"cf has right hand slider, pocket zippers close down, vents zips close down",none,none,none,none,none,none,none
+37,4,bartack:,at stress points,none,none,none,none,none,none,none
+38,5,heat cut:,"elastic, webbing, taffeta",none,none,none,none,none,none,none
+39,6,grommets/snaps:,should have pellon backing,none,none,none,none,none,none,none
+40,7,thread color:,"matches fabric color, unless noted above",none,none,none,none,none,none,none

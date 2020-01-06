@@ -1,0 +1,30 @@
+,0,1,2,3,4,5,6,7,8,9
+0,nitro womens jacket,none,none,none,none,none,none,sample size: small / range: xs-l,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,none,none,none
+2,style number:,none,w18-101,none,none,date created:,none,2017-03-23 00:00:00,none,none
+3,style name:,none,palisades,none,none,date revised:,none,none,none,none
+4,waterproof/breathability:,none,3- layer,none,none,block:,none,0,none,none
+5,seam sealing:,none,fully seam sealed,none,none,fit:,none,none,none,none
+6,insulation:,none,non insulated,none,none,target fob:,none,none,none,none
+8,none,none,none,none,colorways,none,none,none,none,none
+9,shell fabric ,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,none
+10,none,"hyperbola / sc670-6 3l micro-rip, w/printed tricot","""s""",none,color,none,none,none,none,none
+11,none,none,"""c1""",none,color,none,none,none,none,none
+13,insulation,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+14,non insulated,none,none,none,none,none,none,none,none,none
+18,seam tape,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+19,3 layer seam tape,tsgs ,fully taped,none,fully taped,none,none,none,none,none
+21,lining,supplier/ reference number,location ,content,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+22,not lined,none,hood,none,none,none,none,none,none,none
+23,not lined,none,main body,none,none,none,none,none,none,none
+24,not lined,none,sleeves,none,none,none,none,none,none,none
+25,shell,none,secondary pocket bags,none,none,none,none,none,none,none
+26,not lined,none,lower body,none,none,none,none,none,none,none
+27,solid coated 210t,solis / sonp006-pu03,powder skirt,100% nylon,color,none,none,none,none,none
+28,shell,supplier / ref code,hand pocket bags,100% polyester,color,none,none,none,none,none
+29,brushed tricot,supplier / ref code,chin guard,100% polyester,color,none,none,none,none,none
+30,brushed tech mesh,supplier / ref code,neck facing,100% polyester,color,none,none,none,none,none
+31,power stretch mesh,supplier / ref code,underarm vents,100% polyester,color,none,none,none,none,none
+32,power stretch mesh,supplier / ref code,goggle pocket,100% polyester,color,none,none,none,none,none
+33,lycra,supplier / ref code,sleeve gaiters,content,color,none,none,none,none,none
+34,solid 210t ,solis / sonp006-1,upper of sleeve gaiter,content,color,none,none,none,none,none

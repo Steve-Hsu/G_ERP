@@ -1,0 +1,70 @@
+,brand,style,item,fabric,trims,ref,description,supplier,position,qty,price,colorway-1,colorway-2,colorway-3,colorway-4,colorway-5
+0,sierradesigns,#228184,fabric,1,0,fn6039xdwr,"20d x 30d 90% nylon, 10% spandex, plain weave, 56g/m2, cire finish, dwr finish",apex,main body - shell a,none,3.95,pompeian 18-1658 tcx,military olive 19-0622 tcx,navy 19-3920 tcx,asphalt 19-0201 tcx,none
+1,sierradesigns,#228184,fabric,1,0,sbk11236e,"43% cd polyester; 57% polyester, 75d jersey knit, 152g/m2, peached back, wicking finish",seabreezs,main body - shell b - ship shell b side out,none,2.68,"asphalt 19-0201 tcx
+/gray 18-0000 tcx",military olive 19-0622 tcx/ dijon 17-1125 tcx,true blue 19-4057 tcx / gray 18-0000 tcx,"asphalt 19-0201 tcx
+/gray 18-0000 tcx",none
+2,sierradesigns,#228184,fabric,1,0,fn6039xdwr,"20d x 30d 90% nylon, 10% spandex, plain weave, 56g/m2, cire finish, dwr finish",apex,pocket on shell b,none,3.95,asphalt 19-0201 tcx,military olive 19-0622 tcx,asphalt 19-0201 tcx,asphalt 19-0201 tcx,none
+3,sierradesigns,#228184,fabric,1,0,lfc2683bqd,"75% polyester, 25% spandex, knit, one side brush, 225g/m2",seabreezs,"cuff, sweep, and shell b cf waist panel",none,4.95,asphalt 19-0201 tcx,asphalt 19-0201 tcx,asphalt 19-0201 tcx,asphalt 19-0201 tcx,none
+4,sierradesigns,#228184,fabric,1,0,none,"interfacing, 100% polyester, non-woven, fusible",local,"collar, plackets, kissing welt, shell a interior pocket facing, and shell b cf lyrcra waist panel",none,none,,,,,none
+5,sierradesigns,#228184,trims,0,1,none,"#5 coil zipper, separating, du slider, right slider, left insert, water r finish, metal pin box, pin",ykk,center front closure,1,none,ykk 306,ykk 242,ykk 317,ykk 306,none
+6,sierradesigns,#228184,trims,0,1,none,"#3 reverse coil zipper, closed end, dablh slider",ykk,hand pockets. shell a only,2,none,ykk 140,ykk 242,ykk 233,ykk 306,none
+7,sierradesigns,#228184,trims,0,1,none,"#3 reverse coil zipper, closed end, dablh slider",ykk,shell a - chest pockets,2,none,ykk 140,ykk 242,ykk 233,ykk 306,none
+8,sierradesigns,#228184,trims,0,1,m1200814,"suede logo zipper pull, 9mmx72mm",chun wo ho,cf zipper pull,1,0.23,"suede color 32, print color asphalt 19-0201 tcx","suede color 32, print color asphalt 19-0201 tcx","suede color 32, print color asphalt 19-0201 tcx","suede color 32, print color asphalt 19-0201 tcx",none
+9,sierradesigns,#228184,trims,0,1,sd-logo-wo-base-l,"large logo patch - woven background, woven logo",clotex,wearer's left bicep - both sides of garment.,2,0.13,asphalt / gray,asphalt / gray,asphalt / gray,asphalt / gray,none
+10,sierradesigns,#228184,trims,0,1,none,thread,local,shell b - bartacks,none,none,pompeian 18-1658 tcx,dijon 17-1125 tcx,navy 19-3920 tcx,military olive 19-0622 tcx,none
+11,sierradesigns,#228184,trims,0,1,none,thread,local,shell a,none,none,pompeian 18-1658 tcx,military olive 19-622 tcx,navy 19-3920 tcx,asphalt 19-0201 tcx,none
+12,sierradesigns,#228184,trims,0,1,none,thread,local,shell b,none,none,gray 18-0000 tcx,dijon 17-1125 tcx,true blue 19-4057 tcx,military olive 19-0622 tcx,none
+13,sierradesigns,#228184,trims,0,1,kt-ad-004/m02,"3.5mm, 2-color, cording; with metal cord ends","kwong tai (hk)
+industrial ltd.",hood adjustment,none,none,asphalt 19-0201 tcx / gray 18-0000 tcx,asphalt 19-0201 tcx / gray 18-0000 tcx,asphalt 19-0201 tcx / gray 18-0000 tcx,asphalt 19-0201 tcx / gray 18-0000 tcx,none
+14,sierradesigns,#228184,trims,0,1,rl-sd-u060501,"1mm thick hypalon, 2-hole cord adjuster, 3mm hole size",trims service,hood adjustment - shell b side only.,none,none,black 19-0303 tcx,black 19-0303 tcx,black 19-0303 tcx,black 19-0303 tcx,none
+15,sierradesigns,#228184,trims,0,1,ar-sd-ml02,"main, woven label",nexgen,interior hand pocket. wearer's right on shell b.,1,none,multi,multi,multi,multi,none
+16,sierradesigns,#228184,trims,0,1,none,"satin care/content label: all information must be translated into english, french, and spanish. must include international care symbols.",local,below main label. interior hand pocket. wearer's right on shell b.,1,none,grey satin,grey satin,grey satin,grey satin,none
+17,sierradesigns,#228184,trims,0,1,none,drawcord warning label.,local,behind care/content label. sizes xs and s only.,1,none,white with black lettering,white with black lettering,white with black lettering,white with black lettering,none
+18,sierradesigns,#228184,packaging,0,1,ar-f15-mohn,label/hangtag -- contains coo and size.,nexgen,shell a -interior cb neck,1,0.12,multi,multi,multi,multi,none
+19,sierradesigns,#228184,packaging,0,1,ar-sd206moh-ht,main hangtag,nexgen,shell b-cf zipper pull,1,0.24,multi,multi,multi,multi,none
+20,sierradesigns,#228184,packaging,0,1,ar-sd206moh-ct,callout hangtag,nexgen,shell b- tbd,1,0.12,multi,multi,multi,multi,none
+21,sierradesigns,#228184,packaging,0,1,none,polybag,local,packaging,1,none,clear,clear,clear,clear,none
+22,sierradesigns,#228184,packaging,0,1,none,upc sticker w/gcc info & msrp information,local,"back of hang tag, polybag",2,none,multi,multi,multi,multi,none
+23,sierradesigns,#334183,fabric,1,0,fn6039xdwr,"20d x 30d 90% nylon, 10%
+spandex, plain weave, 56g/m2, cire finish, dwr finish",apex,main body - shell a - color 1 (used on shell a side of garment.),none,3.95,"rococco red 18-
+1652 tcx",none,blue wing teal 19- 4121 tcx,"prairie sand 16-
+1326 tcx",black 19-0303 tcx
+24,sierradesigns,#334183,fabric,1,0,sbk11236e,"43% cd polyester; 57% polyester, 75d jersey knit, 152g/m2, wicking finish",seabreezs,main body - shell b,none,2.68,"asphalt 19-0201 tcx
+/gray 18-0000 tcx",none,cool blue 14-4317 tcx / white,"military olive 19-
+0622 tcx/ dijon 17-
+1125 tcx","potent purple 19-
+2520 tcx"
+25,sierradesigns,#334183,fabric,1,0,fn6039xdwr,"20d x 30d 90% nylon, 10%
+spandex, plain weave, 56g/m2, cire finish, dwr finish",apex,shell a - color 2. (used on shell b side for pocketing).,none,3.95,asphalt 19-0201 tcx,none,blue wing teal 19- 4121 tcx,"military olive 19-
+0622 tcx",asphalt 19-0201 tcx
+26,sierradesigns,#334183,fabric,1,0,lfc2683bqd,"75% polyester, 25% spandex, knit, one side brush, 225g/m2",seabreezs,"shell c - cuff, sweep, and shell b cf waist panel",none,4.95,asphalt 19-0201 tcx,none,asphalt 19-0201 tcx,asphalt 19-0201 tcx,asphalt 19-0201 tcx
+27,sierradesigns,#334183,fabric,1,0,none,"interfacing, 100% polyester, non- woven, fusible",local,"collar, plackets, kissing welt, shell a interior pocket facing, and shell b cf lyrcra waist panel",none,none,,none,,,
+28,sierradesigns,#334183,trims,0,1,none,"#5 coil zipper, separating, du slider, right insert (left slider), water-r finish, metal pinbox, pin",ykk,cf zipper. (shell b is the primary side of the garment.),1,none,ykk 306,none,ykk 143,ykk 242,ykk 254
+29,sierradesigns,#334183,trims,0,1,none,"#3 conceal zipper, closed end, dadr2a slider",ykk,chest pocket - shell a side only,1,none,ykk 519,none,ykk 074,ykk 893,ykk 580
+30,sierradesigns,#334183,trims,0,1,none,"#3 reverse coil zipper, closed end, dablh slider",ykk,hand pockets - shell a side only,2,none,ykk 519,none,ykk 074,ykk 893,ykk 580
+31,sierradesigns,#334183,trims,0,1,m1200814,"suede logo zipper pull, 9mmx72mm",chun wo ho,center front zipper,1,0.23,"suede color 41, print color asphalt 19-0201 tcx",none,"suede color 41, print color asphalt 19-0201 tcx","suede color 41, print color asphalt 19-0201 tcx","suede color 41, print color
+asphalt 19-
+0201 tcx"
+32,sierradesigns,#334183,trims,0,1,kt-ad-004/m02,"3.5mm, 2-color, cording; with metal cord ends","kwong tai (hk)
+industrial ltd.",hood adjustment,none,none,"asphalt 19-0201 tcx
+/ gray 18-0000 tcx cord ends:",none,"asphalt 19-0201 tcx
+/ gray 18-0000 tcx","asphalt 19-0201 tcx
+/ gray 18-0000 tcx",asphalt 19-0201 tcx / gray 18- 0000 tcx
+33,sierradesigns,#334183,trims,0,1,rl-sd-u060501,"1mm thick hypalon, 2-hole cord adjuster, 3mm hole size",trims service,hood adjustment - shell b side only.,none,none,black,none,black,black,black
+34,sierradesigns,#334183,trims,0,1,none,thread,local,shell a,none,none,"roccoco red 18-
+1652 tcx",none,blue wing teal 19- 4121 tcx,"prairie sand 16-
+1326 tcx",black 19-0303 tcx
+35,sierradesigns,#334183,trims,0,1,none,thread,local,shell b,none,none,gray 18-0000 tcx,none,cool blue 14-4317 tcx,"military olive 19-
+0622 tcx",purple 19-2520 tcx
+36,sierradesigns,#334183,trims,0,1,none,embroidered logo,local,shell a - wearer's left wrist,none,none,6268 - gray,none,6268 - gray,6268 - gray,6268 - gray
+37,sierradesigns,#334183,trims,0,1,sd-logo-wo- base-s,"small logo patch - woven background, woven logo",clotex,wearer's left wrist - both sides of garment,2,0.11,asphalt/gray,none,asphalt/gray,asphalt/gray,asphalt/gray
+38,sierradesigns,#334183,trims,0,1,none,thread,local,shell b - bartacks,none,none,asphalt 19-0201 tcx,none,blue wing teal 19- 4121 tcx,asphalt 19-0201 tcx,asphalt 19-0201 tcx
+39,sierradesigns,#334183,trims,0,1,ar-sd-ml02,"main, woven label, large",nexgen,interior hand pocket. wearer's right on shell b.,1,none,gray 18-0000 tcx,none,gray 18-0000 tcx,gray 18-0000 tcx,gray 18-0000 tcx
+40,sierradesigns,#334183,trims,0,1,none,"satin care/content label: all information must be translated into english, french, and spanish. must include international care symbols.",local,below main label. interior hand pocket. wearer's right on shell b.,1,none,grey satin,none,grey satin,grey satin,grey satin
+41,sierradesigns,#334183,trims,0,1,none,drawcord warning label.,local,behind care/content label. sizes xs and s only.,1,none,white with black lettering,none,white with black lettering,white with black lettering,white with black lettering
+42,sierradesigns,#334183,packaging,0,1,none,label/hangtag -- contains coo and size.,nexgen,"interior center back neck (shell a)
+- english faces outward.",1,0.12,multi,none,multi,multi,multi
+43,sierradesigns,#334183,packaging,0,1,none,main hangtag,nexgen,shell b side- cf zipper pull,1,0.24,multi,none,multi,multi,multi
+44,sierradesigns,#334183,packaging,0,1,none,callout hangtag,nexgen,shell b- tbd,1,0.12,multi,none,multi,multi,multi
+45,sierradesigns,#334183,packaging,0,1,none,polybag,local,packaging,1,none,clear,none,clear,clear,clear
+46,sierradesigns,#334183,packaging,0,1,none,upc sticker w/gcc info & msrp information,local,"back of hang tag, polybag",2,none,white with black font,none,white with black font,white with black font,white with black font

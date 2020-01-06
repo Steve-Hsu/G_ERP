@@ -1,0 +1,70 @@
+,0,1,2,3,4,5,6,7,8,9
+0,nitro mens jacket,none,none,none,none,sample size large / xs-xxl,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,n18-103,none,none,date created:,none,2017-03-21 00:00:00,none,none
+3,style name:,none,jarvis,none,none,date revised:,none,none,none,none
+4,waterproof/breathability:,none,10k/10k,none,none,block:,none,based on n17-105 shapers fit,none,none
+5,seam sealing:,none,critically seam sealed,none,none,fit:,none,regular,none,none
+6,insulation:,none,non insulated,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+9, #5 coil zipper,ykk / dalh/dag 2-way semi auto locking,center front,1,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+10, #5 coil zipper,non ykk /  1-way dfw short non locking,chest pocket horizontal,1,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+11, #3 coil zipper,non ykk /  1-way dfw short non locking,sleeve pocket,1,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+12, #3 coil zipper,non ykk /  1-way dfw short non locking,underarm vents,1 per side = 2,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+13, #5 coil zipper,non ykk /  1-way dfw short non locking,hand pockets vertical,1 per side = 2,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+14, #3 coil zipper,non ykk /  1-way dfw short non locking,lining pocket vertical,1,silder/pull color: tbd zipper tape color: black,none,none,none,none,none
+16,additional zipper pulls,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+17,nitro custom pull / n14-trim-139,knk / 3738,center front 1 top pull only,1,color,none,none,none,none,none
+18,nitro custom pull / n14-trim-139,knk / 3738,chest pocket horizontal,1,color,none,none,none,none,none
+19,nitro custom pull / n14-trim-139,knk / 3738,sleeve pocket,1,color,none,none,none,none,none
+20,nitro custom pull / n14-trim-139,knk / 3738,underarm vents,1 per side = 2,color,none,none,none,none,none
+21,nitro custom pull / n14-trim-139,knk / 3738,hand pockets vertical,1 per side = 2,color,none,none,none,none,none
+22,nitro custom pull / n14-trim-139,knk / 3738,lining pocket vertical,1,color,none,none,none,none,none
+24,branded trims,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+25,nitro trim number //  metal snap,xxx,chin,1,color,none,none,none,none,none
+26,nitro trim number //  metal snap,none,"hem, chest pocket flap, hand pocket flaps",3,none,none,none,none,none,none
+27,powder skirt gripper elastic ,"nitro embossed 
+petersham tape 
+(e1342816 20mm)
+chun wo ho",powder skirt gripper elastic ,1,color,none,none,none,none,none
+28,goggle pocket binding,chun wo ho,goggle pocket opening,1,color,none,none,none,none,none
+29,joey cord keep 3mm,woojin/ w863,lining center front chest,1,black,none,none,none,none,none
+31,trims,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+32,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,1 male 1 female,metal color,none,none,none,none,none
+33,15mm metal snap,luk's / 404,powder skirt - front closure,"1 female, 2 male",metal color,none,none,none,none,none
+34,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection on tabs,3 sets,metal color,none,none,none,none,none
+36,8mm metal eyelet,luk's / et04,front hood adjust,2 per side = 4,metal color,none,none,none,none,none
+37,cord lock,none,front hood adjust,1 per side = 2,color,none,none,none,none,none
+38,bead,none,front hood adjust,1 per side = 2,color,none,none,none,none,none
+39,8mm metal eyelet,luk's / et04,hem adjust ,2 per side = 4,metal color,none,none,none,none,none
+40,cord lock,none,hem adjust ,1 per side = 2,color,none,none,none,none,none
+41,bead,none,hem adjust ,1 per side = 2,color,none,none,none,none,none
+42,adjust,duraflex 1-17976 evil eye tension lock 10mm nylon,back hood adjust,1,color,none,none,none,none,none
+44,keyclip,none,right hand pocket,1,color,none,none,none,none,none
+46,notions,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+47,"grosgrain 1/4""",xxx,attach front hood cord lock,1 per side = 2,color,none,none,none,none,none
+48,"grosgrain 3/8""",xxx,attach hem cord lock,1 per side = 2,color,none,none,none,none,none
+49,"grosgrain 1/4""",xxx,attach keyclip right hand pocket ,1,color,none,none,none,none,none
+50,"grosgrain 3/4"" x 1"" ",xxx,powder skirt jacket to pant connection tabs behind snaps,1,color,none,none,none,none,none
+51,"elastic 3/4"" (cb 3/4 x 4"") (side tabs 3/4 x 3 1/4""",xxx,powder skirt jacket to pant connection tabs,3 pieces ,color,none,none,none,none,none
+52,"elastic  1""",xxx,encased in back of sleeve cuffs,1 per side = 2,color,none,none,none,none,none
+53,shockcord,xxx,hood,1,color,none,none,none,none,none
+54,shockcord,xxx,hem,1,color,none,none,none,none,none
+55,"elastine tape (used in 1"" x1 1/2"" welt)",xxx,lining media pocket cord exit,1,color,none,none,none,none,none
+57,velcro,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+58," 1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,chin,1,match to shell,none,none,none,none,none
+59," 1/2"" x 2"" velcro with rounded corners",paiho / loop#1057 on placket paiho / hooketn7 on body,center front placket,4,match to shell,none,none,none,none,none
+60,"1"" x 3 1/2"" velcro with rounded corners",paiho / loop#1057,cuff on body,1 per side = 2,match to shell,none,none,none,none,none
+61,"1"" x 1 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,1 per side = 2,match to shell,none,none,none,none,none
+63,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+64,seams,10-12 spi,30 / 2,none,match to shell,none,none,none,none,none
+65,topstitch,8-10 spi,30 / 2,none,match to shell,none,none,none,none,none
+66,bartacks,none,100 / 2,none,match to shell,none,none,none,none,none
+68,labels ,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+69,main label,none,center back below neck seam,1,none,none,none,none,none,none
+72,hang tags,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+73,main hang tag,none,left hand pocket zipper,1,none,none,none,none,none,none
+77,care and content labels,supplier/ reference number,location,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,0
+78,address label,factory sourced,lining left side seam,1,none,none,none,none,none,none
+79,content label,factory sourced,lining left side seam,1,none,none,none,none,none,none
+80,washing label,factory sourced,lining left side seam,1,none,none,none,none,none,none

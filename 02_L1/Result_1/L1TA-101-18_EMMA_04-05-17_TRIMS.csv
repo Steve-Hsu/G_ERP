@@ -1,0 +1,86 @@
+,0,1,2,3,4,5,6,7,8,9
+0,l1 womens jacket,none,none,none,none,sample size small / xs-l,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,l1ta-101-18,none,none,date created:,none,2017-03-01 00:00:00,none,none
+3,style name:,none,emma,none,none,date revised:,none,2017-04-04 00:00:00,none,none
+4,waterproof/breathability:,none,15k/15k,none,none,block:,none,l1ta-103-17 fairbanks,none,none
+5,seam sealing:,none,critically seam sealed,none,none,fit:,none,slightly oversized,none,none
+6,insulation:,none,pinneco mantle 40g all over,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+9, #5 metal zipper,ykk / 2-way semi auto locking with 2 l1 custom pulls,center front,1,silder/ pull/ teeth color: ykk rl bright copper/ zipper tape color: 19-0515 tcx military,silder/ pull/ teeth color: ykk rl bright copper/ zipper tape color: 18-0513 tcx walnut,silder/ pull/ teeth color: ykk rl bright copper/ zipper tape color: 19-1718 tcx port,silder/ pull/ teeth color: ykk rl bright copper/ zipper tape color: 19-4006 tcx black,none,none
+10, #5 metal zipper,non ykk / 1-way dadhr die cast wire non locking,chest pocket vertical,1,silder/ pull/ teeth color: match color to ykk rl bright copper/ zipper tape color: 19-0515 tcx military,silder/ pull/ teeth color: match color to ykk rl bright copper/ zipper tape color: 18-0513 tcx walnut,silder/ pull/ teeth color: match color to ykk rl bright copper/ zipper tape color: 19-1718 tcx port,silder/ pull/ teeth color: match color to ykk rl bright copper/ zipper tape color: 19-4006 tcx black,none,none
+11, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,underarm vents,1 per side = 2,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,none,none
+12, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,hand pockets vertical,1 per side = 2,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,none,none
+13, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,lining pocket vertical,1,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,none,none
+14, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking (bottom is open top is closed),back hem,1,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,silder/ pull color: match color to ykk rl bright copper/ zipper tape and teeth color: black,none,none
+16,additional zipper pulls,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+17,"""l1-2018-trim-017
+l1 zipper pull. graphic debossed 1mm 3.2 cm x 0.92 cm ",ykk,center front,top and bottom pull = 2,ykk  rl bright copper,ykk  rl bright copper,ykk  rl bright copper,ykk  rl bright copper,none,none
+18,l1-2018-trim-018 / non branded zipper pull faux leather quality to match trims faux leather piece = 4 cm x 0.6 cm ,please source: same supplier as other faux leather trims,chest pocket vertical,1,brown faux leather,brown faux leather,brown faux leather,brown faux leather,none,none
+19,11nt-045 / self fabric pull,factory made,underarm vents,1 per side = 2,military shell fabric,walnut shell fabric,port shell fabric,black shell fabric,none,none
+20,l1-2018-trim-018 / non branded zipper pull faux leather quality to match trims faux leather piece = 4 cm x 0.6 cm ,please source: same supplier as other faux leather trims,hand pockets vertical,1 per side = 2,brown faux leather,brown faux leather,brown faux leather,brown faux leather,none,none
+21,11nt-045 / self fabric pull,factory made,lining pocket vertical,1,military shell fabric,walnut shell fabric,port shell fabric,black shell fabric,none,none
+23,branded trims,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+24,"l1-2018-trim-006 / large brown  faux leather hem wrap
+artwork debossed 1mm 3.8 cm x 2 cm",please source,left chest pocket,1,brown faux leather,brown faux leather,brown faux leather,brown faux leather,none,none
+25,"l1-2018-trim-003 / faux leather patch / artwork debossed 1mm 6.25 cm x 4.6 cm
+brown leather",please source,left hand pocket,1,brown faux leather,brown faux leather,brown faux leather,brown faux leather,none,none
+26,"l1-2018-trim-024/  l1 embroidery small
+3cm x 2.77cm  ",soluna,left sleeve hem,1,matching,matching,matching,matching,none,none
+27,"l1-2018-trim-025 /
+l1 embroidery large
+3.7cm x 3.4cm  ",soluna,back right,1,matching,matching,matching,matching,none,none
+30,trims,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+31,15mm metal snap,luk's / 404,sleeve hems,2 male 1 female,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+32,15mm metal snap,luk's / 404,front placket hidden at chin and hem ,2 sets,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+33,15mm metal snap,luk's / 404,powder skirt - front closure,"2 female, 4 male",cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+34,15mm metal snap,luk's / 404,snap away powder skirt - lining facing ,1 male 1 female,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+35,15mm metal snap,luk's / 404,powder skirt - jacket to pant connection,3 sets,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+36,metal eyelets 8mm ,luk's / et04,hood cord exit front,2 per side = 4 ,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+37,metal eyelets 11mm ,luk's / et89, outer waist adjust,1 per side = 2,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+38,cord lock: small cord lock with tie down,sun sun/ sv160824-2a,front hood adjust,1 per side = 2,19-0515 tcx military,18-0513 tcx walnut,19-1718 tcx port,19-4006 tcx black,none,none
+39,cord lock,small cord lock with out tie down,lining waist adjust,1 per side = 2,black,none,none,none,none,none
+40,metal drawcord tip,see photo,hood shockcord tips,1 per side = 2,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+41,metal drawcord tip,see photo,waist drawcord tips,1 per side = 2,cp016 copper ,cp016 copper ,cp016 copper ,cp016 copper ,none,none
+42,bead,see photo,hood adjust,1 per side = 2,none,none,none,none,none,none
+43,keyclip,as last year production,right hand pocket,1,black,black,black,black,none,none
+44,cord lock,# 1340089aa-0 (bko1) (button),waist adjust drawcords,1 per side = 2,19-0515 tcx military,18-0513 tcx walnut,19-1718 tcx port,19-4006 tcx black,none,none
+46,notions,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+47,8mm round drawcord,also used on l1-111-18 stooge,outer waist adjust,1,19-0515 tcx military,18-0513 tcx walnut,19-1718 tcx port,19-4006 tcx black,none,none
+48,"grosgrain 1/4""",none,attach keyclip right hand pocket ,1,black,black,black,black,none,none
+49,"grosgrain 1/4""",none,attach hood cord locks,1,black,black,black,black,none,none
+50,"grosgrain 3/4"" x  3 1/2"" flat webbing (finished length)",none,powder skirt - side tabs jacket to pant connection ,2,black,black,black,black,none,none
+51,"shell fabric tab  1"" x 1"" wrap around ",none,jacket to pant connection center back on tab,1,military shell fabric,walnut shell fabric,port shell fabric,black shell fabric,none,none
+52,"shell fabric tab  1"" x 1"" wrap around ",none,jacket to pant connection center back under snap on gripper elastic,1,military shell fabric,walnut shell fabric,port shell fabric,black shell fabric,none,none
+53,"shell fabric tab 3/4"" x  1"" ",none,jacket to pant connection at side tabs under snaps,1 per side = 2,military shell fabric,walnut shell fabric,port shell fabric,black shell fabric,none,none
+54,"elastic 1"" x 4""",none,powder skirt middle tab - jacket to pant connection ,1,black,black,black,black,none,none
+55,elastine binding,none,goggle pocket binding,1,black,black,black,black,none,none
+56,elastine,none,lining cable guide,1,black,black,black,black,none,none
+57,l1-2018-trim-030 2-color shockcord 3.5mm (heathered 2 color mix) ,"example: cw17-062
+chun wo ho (please source)",hood,1,"colorway: 4 = 19-0515 tcx military/
+17-0620 tcx dusty green ","colorway: 5 = 18-0513 tcx walnut/
+19-4006 tcx black ","colorway: 7 =19-1718 tcx port/
+18-1703 tcx smoke","colorway: 1 = 19-4006 tcx black/
+18-0403 tcx gunmetal",none,none
+58,gripper elastic 25mm non logo,mtt0022,powder skirt hem,1,black,black,black,black,none,none
+60,velcro,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+61," 1/2"" x 1 1/2"" velcro with rounded corners",paiho / loop#1057 / hooketn7,chin,1,match to shell,match to shell,match to shell,match to shell,none,none
+62," 1/2"" x 2 velcro with rounded corners",paiho / loop#1057 / hooketn7,center front placket,4,match to shell,match to shell,match to shell,match to shell,none,none
+63,"1/2"" x 1 1/2 velcro with rounded corners",paiho / loop#1057 / hooketn7,chest pocket flaps,2 per pocket flap,match to shell,match to shell,match to shell,match to shell,none,none
+64,"1/2"" x 1 1/2 velcro with rounded corners",paiho / loop#1057 / hooketn7,hand pocket flaps,2 per pocket flap,match to shell,match to shell,match to shell,match to shell,none,none
+65,"3/4"" x 3 3/4"" velcro with rounded corners",paiho / loop#1057,cuff on body,1 per side = 2,match to shell,match to shell,match to shell,match to shell,none,none
+66,"3/4"" x 2 1/2"" velcro with rounded corners",paiho / hooketn7,cuff on tab,1 per side = 2,match to shell,match to shell,match to shell,match to shell,none,none
+68,thread,spi,supplier/ ref number,amount,military,walnut,port,black,0,0
+69,seams,10-12 spi,30/2,none,match to shell,match to shell,match to shell,match to shell,none,none
+70,topstitch,8-10 spi,heavy weight topstitch,none,match to shell,match to shell,match to shell,match to shell,none,none
+71,bartacks,none,100/2,none,match to shell,match to shell,match to shell,match to shell,none,none
+72,sleeve gaiter cover stitch,must be stretch thread,none,none,match to shell,match to shell,match to shell,match to shell,none,none
+74,labels ,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+75,15k/15k critically seam sealed,soluna/ main label,center back below neck seam,1,15k/15k critically seam sealed,none,none,none,none,none
+76,size label (sample size s),soluna/ size label,center back below main label,1,"xs, s, m, l",none,none,none,none,none
+78,hang tags,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+79,womens jacket hang tag,soluna/ womens jacket hang tag,left side hand pocket zipper,1,womens jacket hang tag,none,none,none,none,none
+82,care and content labels,supplier/ reference number,location,amount,military,walnut,port,black,0,0
+83,address label,factory sourced,lining left side seam,1,address label,none,none,none,none,none
+84,content label,factory sourced,lining left side seam,1,content label,none,none,none,none,none
+85,washing label,factory sourced,lining left side seam,1,washing label,none,none,none,none,none

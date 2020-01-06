@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6
+8,zippers,item,supplier/ ref number,amount,black,military,pink
+9,center front,#5 metal,ykk dalh // 1-way seperating semi auto lock ,1,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-4006 tpx black,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-0515 tpx military,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 15-1512 tpx pink
+10,hand pockets,#5 coil,non ykk dadhr diecast wire // 1-way non locking,1 per side = 2,silder/pull/ color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-4006 tpx black,silder/pull color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-0515 tpx military,silder/pull color: silver finish (sn039 pseudo nickel bright)/ tape color: 15-1512 tpx pink
+11,left arm pocket,#5 metal,non ykk dadhr diecast wire // 1-way non locking,1,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-4006 tpx black,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-0515 tpx military,silder/pull/teeth color: silver finish (sn039 pseudo nickel bright)/ tape color: 15-1512 tpx pink
+12,inside pocket,#5 coil,non ykk dadhr diecast wire // 1-way non locking,1,silder/pull/ color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-4006 tpx black,silder/pull color: silver finish (sn039 pseudo nickel bright)/ tape color: 19-0515 tpx military,silder/pull color: silver finish (sn039 pseudo nickel bright)/ tape color: 15-1512 tpx pink
+14,zipper pulls,item,supplier/ ref number,amount,black,military,pink
+15,cf,l1 metal pull,shenzhen guan hong metal zipper co.  / l1-2016-trim-009 ,1,silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright)
+16,hand pockets, self fabric pull,factory made // 11nt-045,1 per side = 2,shell fabric matching,shell fabric matching,shell fabric matching
+17,arm pocket, self fabric pull,factory made // 11nt-045,1,shell fabric matching,shell fabric matching,shell fabric matching
+18,inside pocket, self fabric pull,factory made // 11nt-045,1,shell fabric matching,shell fabric matching,shell fabric matching
+20,l1 branded trims,item,supplier/ ref number,amount,black,military,pink
+21,front left sleeve,l1 small embroidery,soluna / l1-2016-026,1,dtm,dtm,dtm
+22,back right ,l1 large embroidery,soluna / l1-2016-027,1,dtm,dtm,dtm
+23,center front,large l1 button,luks,4 (sew one extra to back of inner side seam label),19-4006 tpx black,military 19-0515 tpx ,pink 15-1512 tpx
+24,left chest,"debossed velcro
+patch (loop side) ",paiho / trim number,1,19-4006 tpx black,military 19-0515 tpx ,pink 15-1512 tpx
+26,snaps,item,supplier/ ref number,amount,black,military,pink
+27,hem (hidden),24l metal snap,suppler / ref nuber,1,silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright)
+29,cord locks,item,supplier/ ref number,amount,black,military,pink
+30,front hood cord locks ,cord lock,knk / sp-042 cord lock without tie down,1 per side = 2,black,military 19-0515 tcx ,pink 15-1512 tpx
+32,grommets,item,supplier/ ref number,amount,black,military,pink
+33,front hood cord exits,grommet  8mm diameter,please sorce,2 per side = 4,silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright),silver finish (sn039 pseudo nickel bright)
+35,shockcord,item,supplier/ ref number,amount,black,military,pink
+36,"hood, center front button loops",3mm stretch shockcord,suppler / ref nuber,none,dtm (black),military 19-0515 tcx ,pink 15-1512 tpx
+38,webbing ,item,supplier/ ref number,amount,black,military,pink
+39,hood cord lock tie down,"1/4"" webbing tie down",suppler / ref nuber,1 per side = 2,black,none,none
+40,cf button loops,round drawcord ,suppler / ref nuber,4,dtm (black),military 19-0515 tcx ,pink 15-1512 tpx
+42,thread,spi,ref number,amount,black,military,pink
+43,seams,10-12 spi,#604,none,dtm (black),dtm (military),dtm (pink)
+44,topstitch,8-10 spi,#606,none,dtm (black),dtm (military),dtm (pink)
+45,bartacks,none,none,none,dtm (black),dtm (military),dtm (pink)
+46,sleeve gaiter cover stitch,none,none,none,matching,none,none
+48,marketing,description,ref number,amount,black,military,pink
+49,left hand pocket zipper head,l1 hang tag,none,1,l1 hang tag,none,none
+50,lining cb facing,wp breath / size label / rn ca / made in ___,none,1,none,none,none
+51,lining left side seam,address label,sew as loop,1,address label,none,none
+52,lining left side seam,content label,sew as loop,1,content label,none,none
+53,lining left side seam,washing label,sew as loop,1,washing label,none,none
+54,front left belt loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none
