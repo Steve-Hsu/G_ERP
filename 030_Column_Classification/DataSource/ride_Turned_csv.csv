@@ -1,0 +1,118 @@
+,BILL OF MATERIALS,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13
+0,BUYER,,,,,,,,,,,,,
+1,SERIES,20K,,,,,,,,,,,,
+2,SEASON,Winter 1819,,,,,,,,,,,,
+3,DATE,2020-01-03 00:00:00,,,,,,,,,,,,
+4,RIDE STYLE #,18M20-07,,,,, ,,,,,,,
+5,STYLE NAME,Pinehurst Jacket,,,,, ,,,,,,,
+6,MM RATING,20K/20K,,,,, ,,,,,,,
+7,SEAM SEALING,Fully,,,,,,,,,,,,
+8,ACT LINING LEVEL,2,,,,,,,,,,,,
+9,FIT,Classic Long,,,,,,,,,,,,
+10,SIZES,XS-XL,,,,, ,,,,,,,
+11,,,,,,,,,,,,,,
+12,,,,RPW11001-R1C2 2.5L Twill,,,,,,,,,,
+13,COLORWAY,,PLACEMENT,,,,,,,,YIELD MAIN FABRIC,YIELD 2ND FABRIC,UNDER CF STORM FLAP & CUFF,UOM
+14,Proto,,Main Body,Available,,,,,,,,,,YDS
+15,,,Second Fabric,,,,,,,,,,,YDS
+16,,,Under cuffs and inner center front storm flap,Available,,,,,,,,,,YDS
+17,,,Main Body,,,,,,,,,,,YDS
+18,,,Second Fabric,,,,,,,,,,,YDS
+19,,,Under cuffs and inner center front storm flap,,,,,,,,,,,YDS
+20,,,Main Body,,,,,,,,,,,YDS
+21,,,Second Fabric,,,,,,,,,,,YDS
+22,,,Under cuffs and inner center front storm flap,,,,,,,,,,,YDS
+23,,,Lower Body / Sleeve / Hand Pocket,,,,,,,,,,,YDS
+24,,,Upper Body / Hood,,,,,,,,,,,YDS
+25,,,Under cuffs and inner center front storm flap,,,,,,,,,,,YDS
+26,,,Lower Body / Sleeve / Hand Pocket,,,,,,,,,,,YDS
+27,,,Upper Body / Hood,,,,,,,,,,,YDS
+28,,,Under cuffs and inner center front storm flap,,,,,,,,,,,YDS
+29,,,,,,,,,,,,,,
+30,LINING,,,,Proto,,,,,YIELD,UOM,,,
+31,Article Number/Description,,Placement,,,,,,,,,,,
+32,210T Nylon Coated Plain Taffeta,,"Powder skirt, Hand gaitor",,Burgundy,,,,,,YD,,,
+33,210T Nylon UN-Coated Plain Taffeta,,"Pocket bags, Sleeve, Inner body between #DH3502, Hood lining",,Burgundy,,,,,,YD,,,
+34,#DH3502,,Quilted panel,,Light Grey Melange,,,,,,YD,,,
+35,#C062 TRICOT,,"Inner collar, Chin guard, Hand pocket bags",,Black,,,,,,YD,,,
+36,#A-012 Mesh,,"Pit vents, Mesh pocket",,Black,,,,,,YD,,,
+37,#JIK-1186  Lycra,,"Inner hand gaiters,  zip-to-pant section",,Burgundy,,,,,,YD,,,
+38,UTF 60g,,Main body,,White,,,,,,YD,,,
+39,UTF 100g,,Inner lining quilted panel,,White,,,,,,YD,,,
+40,#ST104 Bemis 20mm seam tape,,Fully seam sealed,,Clear,,,,,,YD,,,
+41,,,,,,,,,,,,,,
+42,ZIPPERS,,,,Proto,,,,,QTY,UOM,,,
+43,Article Number/Description,,Placement,Length,,,,,,,,,,
+44,"YKK #5 Vislon zipper 2 way open-end, Swivel Slider#DA8LH1 + DAG8 2-way slider",,CF Zipper,"32""
+(for size Large)",,,,,,1,PC,,,
+45,YKK #5 METALUX zipper. Slider #DA8LH1 Swivel,,Chest Pocket,"6 1/2""",,,,,,1,PC,,,
+46,YKK #5 regular facing coil zipper. Slider #DA8LH1 Swivel,,Hand Pocket (upper entry),"6 1/2""",,,,,,2,PC,,,
+47,YKK #5 regular facing coil zipper. Slider #DA8LH1 Swivel,,Hand Pocket (side entry),"7 1/2""",,,,,,2,PC,,,
+48,YKK #5 regular facing coil zipper. Slider #DA8LH1 Swivel,,Vents,"14""",,,,,,2,PC,,,
+49,YKK #3 regular facing coil zipper.  Slider #DALH,,Sleeve Pass Pocket,"5""",,,,,,1,PC,,,
+50,YKK #3 regular facing coil zipper.  Slider #DALH,,Media Pocket,"7""",,,,,,1,PC,,,
+51,YKK #5 regular facing coil zipper. Slider #DA8LH1 Swivel (ONE SIDE ONLY) ,,"zip-to-pant (slider stay on jkt side, 1/2 zipper on jacket)","27""",,,,,,1,PC,,,
+52,,,,,,,,,,,,,,
+53,TRIMS,,,,Proto,,,,,YIELD,UOM,,,
+54,Article Number/Description,,Placement,,,,,,,,,,,
+55,"""RIDE 20K"" WOVEN LABEL ",,INSIDE NECK LABELING,,BLACK,,,,,1,PC,,,
+56,"#RL-007-BLK
+SIZE LABEL ",,ADULT WOVEN SIZE LABEL. SEE LABELING SPEC,,BLACK,,,,,1,PC,,,
+57,"#RL-021-BLK
+INNER MAIN WOVEN LABEL ",,INSIDE LABELING. SEE LABELING SPEC,,BLACK,,,,,1,PC,,,
+58,"#RT-005
+INNER WOVEN LOOP ",,CB HANGER LOOP SEWN INTO NECK SEAM,,BLACK,,,,,1,PC,,,
+59,"#RT-006-NEW
+STRIP EDGE TAPING",,ABOVE POWDER SKIRT,,BLACK,,,,,,YD,,,
+60,"#COC-CC37.5-LOGO-WVN-GR-H
+37.5 WOVEN LABEL-",,"RIGHT SIDE SEAM, UNDER LIFT TICKET GROMMET",,GRAY,,,,,1,PC,,,
+61,"#RM-08
+GROMMET FOR LIFT TICKET",,"RIGHT SIDE SEAM, ABOVE 37.5 WOVEN LABEL",,X6 BLACK OXIDES,,,,,1,PC,,,
+62,#A108-1 KEY CLIP,,INSIDE RIGHT HAND POCKET,,BLACK,,,,,1,PC,,,
+63,"#RL-LTHR-001
+""RIDE"" DEBOSS LEATHER PATCH",,WR RIGHT HAND POCKET FLAP,,TAN,,,,,1,PC,,,
+64,"#RL-PIN
+LEATHER PATCH W/ METAL LOGO",,WR LEFT SLEEVE,,TAN LEATHER / METAL PIN,,,,,1,PC,,,
+65,"#RT-LTHR-ZP
+LEATHER ZIPPER PULLER",,CF ZIPPER PULLER,,TAN,,,,,1,PC,,,
+66,8MM LOGO RIVET,,CF ZIPPER PULLER,,ANTIQUE BRASS,,,,,1,PC,,,
+67,"""ZIPNRIP"" SCREEN PRINT",,ON POWER SKIRT,,WHITE,,,,,1,PC,,,
+68,"#RT-003
+SILICONE ZIPPER PULLER",,"CHEST POCKET(1), HAND POCKET(4), VENT(2),  PASS POCKET(1), MEDIA POCKET(1), ZIP TO PANT(1)",,BLACK,,,,,10,PC,,,
+69,"#S080
+CORDLOCK",,BACK HOOD ADJUSTMENT,,BLACK,,,,,1,PC,,,
+70,"#ZM057
+CORDURA GRIP TAB",,BACK HOOD ADJUSTMENT,,BLACK,,,,,1,PC,,,
+71,"#S301
+CORDLOCK ",,"FRONT HOOD(2), BOTTOM HEM(2)",,BLACK,,,,,4,PC,,,
+72,"#0350219
+SMALL CORD TIP",,"HOOD(2), CORD END CAP INSIDE HAND POCKET(2)",,BLACK,,,,,4,PC,,,
+73,"#P221
+PLATIC BEAD",,FRONT HOOD,,BLACK,,,,,2,PC,,,
+74,"1/4""  HERRINGBONE WEBBING",,FRONT/BACK HOOD & HEM- LEASH FOR CORDLOCK,,BLACK,,,,,,YD,,,
+75,3MM ELASTIC BUNGEE CORD ,,HOOD & HEM,,BLACK,,,,,,YD,,,
+76,"#1414
+14MM PLASTIC STOCK SNAP (SET)",,POWDER SKIRT,,BLACK,,,,,4,SET,,,
+77,"#1414
+14MM PLASTIC STOCK SNAP (MALE PART)",,POWDER SKIRT 2ND ROW FOR ADJUSTMENT ,,BLACK,,,,,2,PC,,,
+78,"#9375
+YKK 28L MIXED METAL SNAP",,"STORM FLAP(2 set+2 cap), HAND POCKET FLAP(4 set)",,"#2034
+BSX/CHIC BLACK",,,,,8,PC,,,
+79,"15MM
+YKK 24L METAL SNAP",,CUFF ADJUSTMENT,,X6 BLACK OXIDES,,,,,2,PC,,,
+80,STOCK GRIPPER,,POWDER SKIRT,,BLACK,,,,,,YD,,,
+81,12MM NON-LOGO GROMMET,,BACK HOOD DRAWCORD EXIT ,,ANTIQUE BRASS,,,,,1,PC,,,
+82,10MM NON-LOGO GROMMET,,"FRONT HOOD DRAWCORD EXIT(4), BOTTOM HEM DRAWCORD EXIT(6)",,ANTIQUE BRASS,,,,,10,PC,,,
+83,20MM ELASTINE BINDING,,"MEDIA POCKET CORD OUTLET, INNER MESH POCKET",,BLACK,,,,,,YD,,,
+84,10MM TAPE,,ZIP TO PANT ZIPPER TAPE BACK SIDE CLEAN FINISH BINDING,,BLACK,,,,,,YD,,,
+85,"VELCRO 3"" L x 1/2"" W HOOK & LOOP",,STORM FLAP(4),,,,,,,,YD,,,
+86,VELCRO 4” L x 3/4” W LOOP,,CUFF ADJUSTMENT,,,,,,,,YD,,,
+87,"VELCRO 2"" L x 3/4"" W HOOK",,CUFF ADJUSTMENT,,,,,,,,YD,,,
+88,,,,,,,,,,,,,,
+89,PACKAGING,,,,,,,,,QTY,UOM,,,
+90,Article Number/Description,,Placement,,,,,,,,,,,
+91,Main Ride hang tag,,Front left pocket with UPC sticker,,,,,,,1,PCS,,,
+92,Poly Bag,,"1 garment per bag with Ride logo, UPC sticker on outside of bag",,,,,,,1,PCS,,,
+93,Content Label,,Under powder skirt,,,,,,,1,PCS,,,
+94,Wash Label,,Under powder skirt,,,,,,,1,PCS,,,
+95,Poly Label,,Under powder skirt,,,,,,,1,PCS,,,
