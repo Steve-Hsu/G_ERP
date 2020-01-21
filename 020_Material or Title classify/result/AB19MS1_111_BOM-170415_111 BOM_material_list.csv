@@ -1,0 +1,42 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+9,,MATERIAL/TRIM,DESCRIPTION,LOCATION,QTY,TBD,TBD,TBD,TBD
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTP069-C1-H 100% Polyester 15K/10K DWR+BREATHABLE COATING (supplied by SOLIS),Main body,,TBD,TBD,TBD,TBD
+12,B,Shell Fabric,SOTP069-C1-H 100% Polyester 15K/10K DWR+BREATHABLE COATING (supplied by SOLIS),"Knee patches, back pocket",,TBD,TBD,TBD,TBD
+13,C,Lining,210T-E EMB07 Terry Emboss Taffeta - (supplied by Ecoya),Inside lining,,TBD,TBD,TBD,TBD
+14,D,Other , Velvety Tricot - SOTO048-1 (supplied by Solis), inner front pockets,,TBD,TBD,TBD,TBD
+15,E,Other,100% poly MESH - SOTC025-1 (supplied by Solis),vents,,TBD,TBD,TBD,TBD
+16,F,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),"Leg gaiters, ",,TBD,TBD,TBD,TBD
+17,G,Interfacing,1025H,Internal storm flap,,WHITE,WHITE,WHITE,WHITE
+19,,,,,ZIPPERS,,,,
+20,AA,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH",fly,1,TBD,TBD,TBD,TBD
+21,BB,Zipper,"YKK No.5 nylon coil zippers,hidden chain, auto-lock slider DA8LH1 (close down)", vents,2,TBD,TBD,TBD,TBD
+22,CC,Zipper,"YKK No.5 NYLON COIL ,  zipper,auto lock slider DA8LH1  (ZIP CLOSES DOWN)",(2) hand warmer pockets at lower body ,2,TBD,TBD,TBD,TBD
+23,DD,Zipper,"YKK No.5 NYLON COIL ,  zipper,auto lock slider DA8LH1  ",back pockets zipper closes to side seam,1,TBD,TBD,TBD,TBD
+24,EE,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end,"(2) vents, (3) pockets, ",5,TBD,TBD,TBD,TBD
+27,FF,Velcro,Hook W: 1.6cm x h: 18 cm,At side seam (2),2,TBD,TBD,TBD,TBD
+28,GG,Velcro,Loop W: 1.6cm x h: 18 cm,At side seam (4),4,TBD,TBD,TBD,TBD
+29,HH,Hardware,Lace Hooks,C.F. of lower leg gaiters at gripper elastic,2,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED
+30,II,Hardware,"Snap Buttons ABSNP_01 (sets), 17 mm INCL WASHERS",(4) Back side seam (2)Chest Pocket flap,6,TBD,TBD,TBD,TBD
+31,JJ,Buckle,TBD,Strap attachment,2,BLACK,BLACK,BLACK,BLACK
+32,KK,Key Clip,plastic key clip attched with 8mm  width webbing loop,inside w. right lower body handwarmer pocket,1,BLACK,BLACK,BLACK,BLACK
+33,LL,Plastic D-ring,"H301- 1.5"" Plastic D-ring",Top of front bib,2,BLACK,BLACK,BLACK,BLACK
+34,MM,Buckle,Goggle strap adjuster,Shoulder straps,2 pcs,BLACK,BLACK,BLACK,BLACK
+35,NN,Strap holder,Plastic back strap holder,Back shoulder straps,1,BLACK,BLACK,BLACK,BLACK
+36,OO,ELASTIC,Goggle Strap Elastic: 3.5cm width,Shoulder straps,2 pcs,BLACK,BLACK,BLACK,BLACK
+37,PP,Elastic,gripper elastic,at lower leg gaiters,2,BLACK,BLACK,BLACK,BLACK
+38,QQ,Webbing,8mm  width webbing,key clip attachment,1,BLACK,BLACK,BLACK,BLACK
+39,RR,Main Label,TBD,11cm Below CB Neck,1,TBD,TBD,TBD,TBD
+40,SS,Size Label,ABWV_69 Size Label,sewn in and centered below ABWV_107 or ABPA_70,1,TBD,TBD,TBD,TBD
+41,TT,w/c label/content,W/C Label Satin with Print (as used on 12/13  bulk),"sewn in at wearers inside left side seam, 10 cm up from waistband zipper seam.",1,BLACK,BLACK,BLACK,BLACK
+42,UU,BRANDING,TBD,TBD,1,TBD,TBD,TBD,TBD
+43,VV,BRANDING,TBD,TBD,1,,,,
+44,WW,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back waist seam,1,TBD,TBD,TBD,TBD
+47,XX,Hangtag,TBD,TBD,1,TBD,TBD,TBD,TBD
+48,YY,Hangtag,TBD,TBD,1,TBD,TBD,TBD,TBD
+49,ZZ,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,BLACK,BLACK,BLACK,BLACK
+50,AAA,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,WHITE,WHITE,WHITE,WHITE
+51,BBB,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,WHITE,WHITE,WHITE,WHITE
+56,3,ZIPPER DIRECTION:,"CF has 2-way sliders, pocket zippers close down, underarm vents zips close down, inseam vents close down",,,,,,
+58,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,
+62,9,POLY BAG:,1 garment per bag in Airblaster logo'd poly bag; Poly bag sticker and UPC sticker on outside,,,,,,

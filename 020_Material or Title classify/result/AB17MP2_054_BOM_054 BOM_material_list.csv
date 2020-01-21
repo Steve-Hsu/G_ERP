@@ -1,0 +1,37 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8,9
+5,Cargo Pant,,MM Rating,,,,,,,
+10,,,,,FABRICS & LININGS,,,,,AB18MP2_054
+11,A,Shell Fabric,SOTD109-C1-Y 100% Polyester 10K/8K 10K/8K +2-Layer +breathable coating+DWR (supplied by SOLIS),"Main Body, back yoke, back pocket flaps",,BLACK,KHAKI,KOMBU GREEN,DARK NAVY,AB18MP2_054
+12,B,Shell Fabric,SOTP069-C1-H 100% Polyester 15k/10k+2-Layer +breathable coating+DWR (supplied by SOLIS),Cargo pockets,,BLACK,BLACK,CAMEL,OXBLOOD,AB18MP2_054
+13,C,Lining,210T-E EMB07 Terry emboss Taffeta 100% Nylon (supplied by Ecoya),Inside lining,,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+14,D,Lining, Velvety Tricot - SOTO048-1 (supplied by Solis),"inside wiastband, inner front pockets, inside fly panel",,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+15,E,Other ,100% poly MESH - SOTC025-1 (supplied by Solis),vents,,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+16,F,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),Inside lower leg Gaiters,,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+18,,,,,ZIPPERS,,,,,AB18MP2_054
+19,AA,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH",fly,1,BLACK,KHAKI 886,DUFFEL 237,OXBLOOD 097,AB18MP2_054
+20,BB,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN)",(2) hand pockets pockets ,2,BLACK,KHAKI 886,DUFFEL 237,OXBLOOD 097,AB18MP2_054
+21,CC,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH1(ZIPPERS CLOSE FROM C.B. TO SIDE SEAM)",(1) back pockets ,1,BLACK,KHAKI 886,DUFFEL 237,OXBLOOD 097,AB18MP2_054
+22,DD,Zipper,"YKK No.5 nylon coil zippers,hidden chain, auto-lock slider DA8LH1 (zipper close down)", vents,2,BLACK,KHAKI 886,DUFFEL 237,OXBLOOD 097,AB18MP2_054
+23,EE,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end ,"(2) vents, (3) pockets,  ",5,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+26,FF,Hardware,Jean Button17mm  (incl. washers),(1) fly opening,1,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,AB18MP2_054
+27,GG,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm  (incl. washers)"," (4) pocket flaps, (2) bang snaps, (2) back pocket flaps",8,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,AB18MP2_054
+28,HH,Hardware,12mm Metal eyelet  (incl. washers),(2)waistband (1) LEFT belt loop,3,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,AB18MP2_054
+29,II,Hardware,Lace Hooks,C.F. of lower leg gaiters at gripper elastic,2,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,AB18MP2_054
+30,JJ,Drawcord,Polyester Flat Lace drawcord with metal sealed ends.  w:1 cm,Waistband,1,BLACK,BLACK,DARK OLIVE,BLACK,AB18MP2_054
+31,KK,Elastic,gripper elastic,at inside lower leg gators,1,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+32,LL,Key Clip,plastic key clip attched with webbing loop,inside w. right pocket bag,1,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+33,MM,Webbing,"flat Webbing Tape, 8mm",Key clip attachment at wearers right inside pocket,1,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+34,OO,Main Label,ABWV_67 Freedom Main Label,"inside c.b. waist, see Q/A for detail",1,GOLD/BLACK,GOLD/BLACK,GOLD/BLACK,GOLD/BLACK,AB18MP2_054
+35,PP,Size Label,ABWV_69V Vietnam Size Label,sewn in and centered below main label,1,BLACK/GOLD,BLACK/GOLD,BLACK/GOLD,BLACK/GOLD,AB18MP2_054
+36,QQ,W/C Label,satin/printed w/c label (supplied by your side),at inside wearers left 8 cm from waistband seam,1,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+37,RR,Flag  Label,ABLT_01 Flag Label (Airpill logo side),LEFT vent 2cm up from bottom of vent,1,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE,AB18MP2_054
+38,SS,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back waist seam,1,BLACK/GOLD,BLACK/GOLD,BLACK/GOLD,BLACK/GOLD,AB18MP2_054
+39,TT,Branding,ABPA_77 Freedom Seam Label,"RIGHT cargo poacket, see placement page for detail",1,BLACK/OXBLOOD,BLACK/OXBLOOD,BROWN/DARK BROWN,BLACK/OXBLOOD,AB18MP2_054
+43,UU,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,AB18MP2_054
+44,VV,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,AB18MP2_054
+45,WW,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,BLACK,BLACK,BLACK,BLACK,AB18MP2_054
+46,XX,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,WHITE,WHITE,WHITE,WHITE,AB18MP2_054
+47,YY,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,WHITE,WHITE,WHITE,WHITE,AB18MP2_054
+52,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,,
+54,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,,
+58,9,POLY BAG:,1 garment per bag in Airpill logo'd poly bag; UPC sticker on outside ,,,,,,,

@@ -1,0 +1,44 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+3,,,Insulation:,"80gm at sleeves, main body/hood",,Collection: Freedom Series,,,
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTA074-2L1-Y 100% Polyester 10k/8k +2-layer + breathable coating + DWR (supplied by Solis),"Main body, hood, sleeves, pocket flaps, sleeve tabs, back neck self fabric patch",,BLACK,DUFFEL,RUST,BUTTER
+12,B,Lining,210T-E EMB07 Terry Emboss Taffeta (Supplied by Ecoya),"Powder skirt, pocket bag, hood lining",,BLACK,BLACK,BLACK,BLACK
+13,C,Other , Velvety Tricot - SOTO048-1 (supplied by Solis),"Inside lining, Comfort chin guard, inner front pocket bag panel",,DAY JUNLGE,DAY JUNLGE,DAY JUNLGE,DAY JUNLGE
+14,D,Other,100% poly MESH - SOTC025-1 (supplied by Solis),"vents, large internal goggle pocket",,BLACK,BLACK,BLACK,BLACK
+15,E,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),"powder skirt, hood drawcord tunnel, wrist gaiters",,BLACK,BLACK,BLACK,BLACK
+16,F,Other,Lycra binding tape,Internal mesh pocket opening,,BLACK,BLACK,BLACK,BLACK
+17,G,Other,Gripper elastic,powder skirt,,BLACK,BLACK,BLACK,BLACK
+18,H,Other,Clear PVC,Pass pocket window opening at outside of powder skirt,,CLEAR,CLEAR,CLEAR,CLEAR
+19,J,Other,80gm Insulation,"Sleeves, main body, sleeves",,,,,
+20,K,Pellon,lightweight interfacing (item# TBD),"Inner storm flap, powder skirt closure flaps",,WHITE,WHITE,WHITE,WHITE
+21,L,Pellon,heavyweight interfacing (item# TBD),hood brim,,WHITE,WHITE,WHITE,WHITE
+23,,,,,ZIPPERS,,,,
+24,AA,Zipper,"YKK No.5 METALUX zipper,auto-lock sliders DA8LH, Right hand puller,Left hand insert ",(1)C.F.,1,BLACK,DUFFEL 237,RUST 236,BUTTER 510
+25,BB,Zipper,YKK No.5 NYLON COIL  zipper.  Auto-lock puller DA8LH1. (ZIP CLOSES DOWN), (2) Hand pockets,2,BLACK,DUFFEL 237,RUST 236,BUTTER 510
+26,CC,Zipper,"YKK  No.5 nylon coil zippers,1-way hidden chain.  Auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN)", (2)vents,2,BLACK,DUFFEL 237,RUST 236,BUTTER 510
+27,DD,Zipper,"YKK  No.5 nylon coil zippers hidden chain ,auto-lock slider DA8LH1 (zip closes UP)",(1) Napoleon pocket ,1,BLACK,DUFFEL 237,RUST 236,BUTTER 510
+28,EE,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),"(2) pockets, (1) C.F. (2) vents, (1)Napoleon pocket",6,BLACK,BLACK,BLACK,BONE
+31,FF,Velcro,hook and loop; L: 2.5cm x H: 1cm,(4)Pocket Flaps,4,BLACK,OLIVE T1136,RUST T0720,GOLD T0713
+32,GG,Velcro,hook and loop,pass pocket at powder skirt,1,BLACK,OLIVE T1137,RUST T0721,GOLD T0714
+33,HH,Hand Pulls,Round Barrel stopper - K-018 , (2) hood,2,BLACK,DARK OLIVE,BLACK,DARK OLIVE
+34,II,Webbing,"Flat Webbing Tape, 8mm", key clip attachment at inside wearer's right pocket,1,BLACK,BLACK,BLACK,BLACK
+35,JJ,Webbing,flat webbing tape 2cm width,pass pocket pull tab,1,BLACK,BLACK,BLACK,BLACK
+36,KK,Hardware,"metal eyelets, 12mm  (incl. washers)",(4) at hood opening,4,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,PEWTER BI-10
+37,LL,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm  (incl. washers)","(6) Storm flap (1) snap tabs at inside bottom hem,  (2) at powder skirt",9,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,PEWTER BI-10
+38,MM,Hardware,"Snap Buttons ABSNP_01 (MALE SIDE ONLY), 17mm  (incl. washers)",(2) powder skirt,2,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,PEWTER BI-10
+39,NN,Hardware,Sewing Buttons 17mm  ,"(1) Storm flap,(2)Pocket flaps,(4) cuffs, (2) plastic bag attached to W/C Label  ",9,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,PEWTER BI-10
+40,OO, Drawcord,Flat Shoelace drawcord WITH Black Oxidize finish METAL ENDS  w: 1 cm ,Hood Opening,1,BLACK,DARK OLIVE,BLACK,DARK OLIVE
+41,PP,Key Clip,plastic key clip attched with webbing loop,Inside wearers right pocket.,1,BLACK,BLACK,BLACK,BLACK
+42,QQ,Plastic Bag,Small plasitc bag,sewn to W/C Label,1,CLEAR,CLEAR,CLEAR,CLEAR
+43,RR,Main Label,ABWV_67 Freedom Main Label,"inside c.b. neck, see Q/A for details",1,BONE/ DARK GREEN,BONE/ DARK GREEN,BONE/ DARK GREEN,BONE/ DARK GREEN
+44,SS,Size Label,ABWV_69V Vietnam Size Label,sewn in and centered below main label,1,BLACK/OFF WHITE,BLACK/OFF WHITE,BLACK/OFF WHITE,BLACK/OFF WHITE
+45,TT,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK
+46,UU,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,BLACK/OFF WHITE,BLACK/OFF WHITE,BLACK/OFF WHITE,BLACK/OFF WHITE
+47,VV,Branding,ABPA_116 Airblaster PU Label,"LEFT chest, see palcement page for detail",1,MAHOGANY/BLACK,DUFFEL/BUTTER,MAHOGANY/BLACK,DUFFEL/BUTTER
+50,WW,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+51,XX,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+52,YY,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR
+53,ZZ,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD
+54,AAA,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD
+59,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+61,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,

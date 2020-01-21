@@ -1,0 +1,33 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+5, Pretty Tight Pant,,MM Rating,,,,,,
+9,,MATERIAL/TRIM,DESCRIPTION,LOCATION,QTY,TBD,TBD,TBD,TBD
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTD109-C1-Y 10K/8K 10K/8K +2-Layer +breathable coating+DWR,Main Body,,TBD,TBD,TBD,TBD
+12,B,Lining,210T-E Terry Emboss Taffeta   (Supplied by Ecoya),"Inside lining, lower leg gaiters",,TBD,TBD,TBD,TBD
+13,C,Lining, Velvety Tricot - SOTO048-1 (supplied by Solis),"inside waistband, handwarmer pocket bag front panel only, and inside fly panel",,TBD,TBD,TBD,TBD
+14,D,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),"lower leg gators, internal crotch gusset",,BLACK,BLACK,BLACK,BLACK
+16,,,,,ZIPPERS,,,,
+17,AA,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH",Fly,1,TBD,TBD,TBD,TBD
+18,BB,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH1 (ZIPPERS CLOSE FROM C.B. TO SIDE SEAM)",Back Pockets,2,TBD,TBD,TBD,TBD
+19,CC,Zipper,"YKK No.3 nylon reverse coil, auto-lock slider DA8LH1 (ZIPPERS CLOSE FROM C.B. TO SIDE SEAM)",Phone pocket,1,TBD,TBD,TBD,TBD
+20,DD,Zipper Pull,ABZP_01 Utility cord pulls (supplied by Wei Rong),back pockets (2),2,TBD,TBD,TBD,TBD
+23,EE,Hardware,"ABJBT_01 Jean Button (16.3mm) ('AIR BLASTER' Deboss Logo), incl. washer",at C.F. closure.,1,TBD,TBD,TBD,TBD
+24,FF,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm  (incl. washers)",Bang snaps (2),2,TBD,TBD,TBD,TBD
+25,GG,Hardware,12mm Metal eyelet  (incl. washers),front waistband 10cm each side of center front (2),2,TBD,TBD,TBD,TBD
+26,HH,Hardware,ABEL_01 (incl. washers),LEFT belt loop (1),1,TBD,TBD,TBD,TBD
+27,II,Hardware,Metal Lace Hook,2 pcs at bottom leg openings.  Place at CF of each leg opening.,2,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED
+28,JJ,Drawcord,Polyester Flat Lace drawcord with metal sealed ends.  w:1 cm,Waistband,1,TBD,TBD,TBD,TBD
+29,KK,Elastic,gripper elastic,at inside lower leg gators,2,BLACK,BLACK,BLACK,BLACK
+30,LL,Main Label,TBD,"inside c.b. waist, see Q/A for detail",1,TBD,TBD,TBD,TBD
+31,MM,Size Label,ABWV_69V vietnam Size Label,sewn in and centered below main label,1,TBD,TBD,TBD,TBD
+32,NN,W/C Label,satin/printed w/c label   (supplied by your side),"at inside wearers left, 8 cm from waistband seam",1,BLACK,BLACK,BLACK,BLACK
+33,OO,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back waist seam,1,TBD,TBD,TBD,TBD
+34,PP,BRANDING,TBD,"Hammer pocket, see placement page for detail",1,TBD,TBD,TBD,TBD
+38,QQ,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+39,RR,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+40,SS,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,BLACK,BLACK,BLACK,BLACK
+41,TT,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,WHITE,WHITE,WHITE,WHITE
+42,UU,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,WHITE,WHITE,WHITE,WHITE
+47,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+49,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,
+53,9,POLY BAG:,1 garment per bag in Airpill logo'd poly bag; UPC sticker on outside ,,,,,,

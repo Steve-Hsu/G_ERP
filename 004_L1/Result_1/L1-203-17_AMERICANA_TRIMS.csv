@@ -1,0 +1,47 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 pant,none,none,none,none,none,none,none,none
+1,none,season:,none,winter 2017/2018,none,contractor:,none,soluna,none,none
+2,none,style number:,none,l1-203-17,none,date created:,none,2016-02-14 00:00:00,none,none
+3,none,style name:,none,americana pant,none,date revised:,none,none,none,none
+4,none,waterproof/breathability:,none,marked as: 10k/10k,none,block:,none,l1-202-16 americana reference sample,none,none
+5,none,seam sealining:,none,fully taped,none,fit:,none,regular fit,none,none
+6,none,0,none,0,none,0,none,39,none,none
+8,zippers,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+9,fly ,#5 coil ,ykk dalh // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+10,hand pockets,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+11,back right pocket,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+12,"""balls out"" venting",#5 coil ,"non ykk dadhr diecast wire // 2 sliders on closed ends tape, zip down each side to close (locking)",1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+13,hem,#5 coil ,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+15,zipper pulls,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+16,hand pockets, self fabric pull,factory made // 11nt-045 ,1 per side = 2,shell fabric matching,none,none,none,none,none
+17,"""balls out"" venting", self fabric pull,factory made // 11nt-045 ,1 per side = 2,shell fabric matching,none,none,none,none,none
+19,l1 branded trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+20,waist closure & tool pocket,l1 17mm metal snap ,supplier / l1-2016-trim-001,3,none,none,none,none,none,none
+21,back right waist band,"l1  patch 
+with deboss 2",l1-2017-trim-104,1,none,none,none,none,none,none
+22,front right hand pocket,new label tbd,new label tbd,1,none,none,none,none,none,none
+23,front left hem,l1 embroidery large,l1-2016-trim-027,1,none,none,none,none,none,none
+25,snaps,#5 coil ,supplier/ ref number,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6,0
+26,"""snap away hem"" back leg hem",24l metal snap,none,1 per side = 2,psudo anti silver/ black cap,none,none,none,none,none
+27,"""jacket to pant connection"" back 3 belt loops",24l metal snap,none,3,psudo anti silver/ black cap,none,none,none,none,none
+29,other trims,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+30,right hand pocket,key clip,j&k // hk-001,1,black,none,none,none,none,none
+31,front of leg gaiter,metal boot hook,supplier / ref number,1 per side = 2,psudo anti silver,none,none,none,none,none
+33,webbing & elastic,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+34,keyclip loop right hand pocket,"1/4"" flat x 1 3/4"" loop",none,1,black,none,none,none,none,none
+35,boot hook reinforcement,"1"" tab",none,1 per side = 2,black,none,none,none,none,none
+36,"""snap away hem"" reinforcement","1"" tab",none,1 per side = 2,black,none,none,none,none,none
+38,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+39,seams,none,tseu,regular thread,matching,none,none,none,none,none
+40,topstitch,none,tseu,topstitch thread,matching,none,none,none,none,none
+41,heavy weight topstitch,none,tseu,heavy weight topstitch thread,matching,none,none,none,none,none
+42,bartacks,none,tseu,regular thread,matching,none,none,none,none,none
+44,l1 marketing,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+45,front left belt loop,l1 pant hang tag,supplier // ,1,l1 pant hang tag,none,none,none,none,none
+46,front left belt loop behind main hang tag,l1 pant fit hang tag ,supplier // regular fit,1,l1 pant fit hang tag  // regular fit,none,none,none,none,none
+47,center back waist band facing,l1 pant size label,l1 pant size label,1,l1 pant size label,none,none,none,none,none
+48,lining front right,l1 main label,regular fit // 10k/10k // fully taped ,1,regular fit // 10k/10k // fully taped ,none,none,none,none,none
+49,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+50,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+51,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+52,front left belt loop to attach hang tags,clear zip tie,supplier // ,1,clear zip tie,none,none,none,none,none

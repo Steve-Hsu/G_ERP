@@ -1,0 +1,26 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8,9
+10,,,,,FABRICS & LININGS,,,,,
+11,A,Shell Fabric,SOTP069-Q03-AH 100% Polyester TPU with wax coating (supplied by SOLIS),"Main body, sleeves. Hood",,BLACK WAX,CAMEL WAX,SOVIET GREY WAX,,
+12,B,Shell Fabric,SOTP069-2L32-AE 100% Polyester 80/20DWR TPU MEMBRANE (supplied by SOLIS),"Main body, sleeves. Hood",,,,,WILLOW,
+13,C,Shell Fabric,SOTP069-PR03-AE 100% Polyester 80/20DWR TPU MEMBRANE (supplied by SOLIS),"Main body, sleeves. Hood",,,,,,DIRKS CRITTERFLAGE
+14,D,Lining,EMB07 Taffeta emboss (Supplied by ECOYA),"Inside lining, pocket bag",,BLACK,BLACK,BLACK,BLACK,OLD GOLD
+15,E,Pellon,heavyweight interfacing (item# TBD),hood brim,,WHITE,WHITE,WHITE,WHITE,WHITE
+17,,,,,ZIPPERS,,,,,
+18,AA,Zipper,"YKK No.5 coil zipper.  Auto-lock slider DA8LH,   (Right hand pull left hand insert)",CF,1,BLACK,CAMEL 858,GREY 014,WILLOW 509,GREEN 567
+19,BB,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),CF,1,BLACK,BLACK,BLACK,BLACK,OLD GOLD
+22,CC,Stoppers,Barrel stopper K-018,2) hood,2,BLACK,OLD GOLD,BLACK,BLACK,OLD GOLD
+23,DD,Hardware,"metal eyelets, 12mm (incl. washers)",(2) at hood opening,2,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS,BI-08 DULL DARK PEWTER,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS
+24,EE,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm (incl. washers)"," (6)C.F., (2) cuffs, (2) pockets",10,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS,BI-08 DULL DARK PEWTER,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS
+25,FF,Drawcord,Flat Shoelace drawcord WITH Black Oxidize finish METAL ENDS  w: 1 cm ,Hood,1,BLACK,OLD GOLD,BLACK,BLACK,OLD GOLD
+26,GG,Main Label,ABWV_84 S.Layer Main Label,"inside c.b. neck, see Q/A for placement",1,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK
+27,HH,Size Label,ABWV_69 Inside Joke Label,sewn in and centered below main label,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+28,II,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK,BLACK
+29,JJ,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+30,KK,Branding,ABPA_82 Leather Terry Patch,"LEFT back side seam, see placement page for detail",1,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE
+33,LL,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,TBD
+34,MM,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,TBD
+35,NN,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR
+36,OO,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD,TBD
+37,PP,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD,TBD
+42,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,,
+44,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,,

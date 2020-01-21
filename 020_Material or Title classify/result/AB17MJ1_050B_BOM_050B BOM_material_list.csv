@@ -1,0 +1,31 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTD013-R01 100% Polyester Nantotex DWR coating,"Main body storm flap, hood",,BLACK,BLACK SPRUCE,,GOLD
+12,B,Shell Fabric,SOTD013-PR03 100% Polyester Nantotex DWR coating,"Main body storm flap, hood",,,,STONE CRITTERFLAGE,
+13,C,Lining,EMB07 Taffeta emboss (Supplied by Li Peng),"Inside lining, pocket bag",,BLACK,OLD GOLD,BLACK,BLACK
+14,D,Pellon,lightweight interfacing (item# TBD),Inner storm flap,,WHITE,WHITE,WHITE,WHITE
+15,E,Pellon,heavyweight interfacing (item# TBD),hood brim,,WHITE,WHITE,WHITE,WHITE
+17,L,,,,ZIPPERS,,,,
+18,AA,Zipper,"YKK No.5 coil zipper.  Auto-lock slider DA8LH,   (CLOSE ENDED)",C.F.,1,BLACK,BLACK SPRUCE 120,BROWN 394,GOLD 508
+19,BB,Zipper,YKK  No.5 nylon coil zippers.  Auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN),(2) pocket,2,BLACK,BLACK SPRUCE 120,BROWN 394,GOLD 508
+20,CC,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),"(2) pockets, (1) C.F. ",3,BLACK,OLD GOLD,BLACK,BLACK
+23,DD,Stoppers,K343-2N push stoppers,"(1) bottom hem, (2) hood",3,BLACK,BLACK,BLACK,BLACK
+24,EE,Hand Pulls,Plastic hand pulls ZP11 , (1) bottom hem,1,BLACK,BLACK,BLACK,BLACK
+25,FF,Webbing,flat webbing tape 8mm width," (1)Stopper attachments loops at bottom hem, (2) stoper attachemnt at hood, (1) side seam for drawcord loops",4,BLACK,BLACK,BLACK,BLACK
+26,GG,Hardware,"metal eyelets, 12mm (incl. washers)","(4) at hood opening,  (2) inside bottom hem",6,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS
+27,HH,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm (incl. washers)",(4) Storm flap,4,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS
+28,II,Elastic Drawcord, 2.5 mm elastic cord,"bottom hem adjustment, hood",2,BLACK,BLACK,BLACK,BLACK
+29,JJ,Elastic , 2.5 cm flat elastic ,(2) Cuffs,2,BLACK,BLACK,BLACK,BLACK
+30,KK,Main Label,ABWV_84 S.Layer Main Label,"inside c.b. neck, see Q/A for placement",1,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK
+31,LL,Size Label,ABWV_69 Inside Joke Label,sewn in and centered below main label,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+32,MM,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK
+33,NN,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+34,PP,Branding,ABEM_402 Patagoinia Font Embroidery,"LEFT chest, see placement page for detail",1,DK GREY 70021,GOLD M564,OLIVE 70015,BLACK
+35,QQ,Woven Label,NANOTEX woven label,sewn in and centered underneath size label label,1,BROWN,BROWN,BROWN,BROWN
+38,RR,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+39,SS,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+40,TT,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR
+41,UU,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD
+42,VV,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD
+47,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+49,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,

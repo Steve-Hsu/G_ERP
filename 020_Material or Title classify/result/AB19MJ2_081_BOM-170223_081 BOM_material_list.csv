@@ -1,0 +1,44 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+3,,,Insulation:,"60gm Insulation at body sleeve,hood",,Collection: Freedom,,,
+9,,MATERIAL/TRIM,DESCRIPTION,LOCATION,QTY,TBD,TBD,TBD,TBD
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTD109-C1-Y 100% Polyester 10K/8K 10K/8K +2-Layer +breathable coating+DWR (supplied by SOLIS),"Main body, sleeves, collar, pockets",,TBD,TBD,TBD,TBD
+12,B,Shell Fabric,SOTP069-C1-H 100% Polyester 10K/8K 15k/10k+2-Layer +breathable coating+DWR (supplied by SOLIS),Hood,,TBD,TBD,TBD,TBD
+13,C,Lining,210T-E EMB07 Terry Emboss Taffeta (Supplied by Ecoya),"Inside lining, powder skirt, pocket bag",,TBD,TBD,TBD,TBD
+14,D,Other , Velvety Tricot - SOTO048-1 (supplied by Solis),"Comfort chin guard, inner front pocket bag panel",,TBD,TBD,TBD,TBD
+15,E,Other,100% poly MESH - SOTC025-1 (supplied by Solis),"vents, internal goggle pocket",,TBD,TBD,TBD,TBD
+16,F,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),"powder skirt, wrist gators",,TBD,TBD,TBD,TBD
+17,G,Other,Lycra binding tape,Internal mesh pocket opening,,BLACK,BLACK,BLACK,BLACK
+18,H,Other,Gripper elastic,powder skirt,,BLACK,BLACK,BLACK,BLACK
+19,I,Other,60gm Insulation,"Main body hood, sleeves",,,,,
+20,J,Pellon,lightweight interfacing (item# TBD),"Inner storm flap, powder skirt closure flaps",,WHITE,WHITE,WHITE,WHITE
+21,K,Pellon,heavyweight interfacing (item# TBD),hood brim,,WHITE,WHITE,WHITE,WHITE
+23,L,,,,ZIPPERS,,,,
+24,AA,Zipper,"YKK No.5 coil zipper.  Auto-lock slider DA8LH,   (Right hand pull left hand insert)",C.F.,1,TBD,TBD,TBD,TBD
+25,BB,Zipper,YKK  No.5 nylon coil zippers.  Auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN),( 2) hand pockets,2,TBD,TBD,TBD,TBD
+26,CC,Zipper,"YKK  No.5 nylon coil zippers,1-way hidden chain.  Auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN)", vents,2,TBD,TBD,TBD,TBD
+27,DD,Zipper,"YKK  No.5 nylon coil zippers hidden chain ,auto-lock slider DA8LH1 (zipper closes UP)",1 internal pocket at w.'s inside LEFT,1,TBD,TBD,TBD,TBD
+28,EE,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),"(2) pockets, (1) C.F. (2) vents,  (1) inside pocket",6,TBD,TBD,TBD,TBD
+31,FF,Stoppers,Round Barrel stopper - K-018 ,(2) hood,2,TBD,TBD,TBD,TBD
+32,GG,Stoppers,K343-2N push stoppers,(2) bottom hem,2,TBD,TBD,TBD,TBD
+33,HH,Hand Pulls,Plastic hand pulls ZP11 , (2) bottom hem,2,TBD,TBD,TBD,TBD
+34,II,Webbing,"Flat Webbing Tape, 8mm", key clip attachment at inside wearer's right pocket,1,BLACK,BLACK,BLACK,BLACK
+35,JJ,Webbing,flat webbing tape 8mm width, (2)Stopper attachments loops at bottom hem,2,TBD,TBD,TBD,TBD
+36,KK,Hardware,"metal eyelets, 12mm (incl. washers)","(4) at hood opening,  (4) inside bottom hem",8,TBD,TBD,TBD,TBD
+37,LL,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm (incl. washers)"," (5) C.F., (2) cuffs, (1) snap tabs at inside bottom hem,  (2) at powder skirt",10,TBD,TBD,TBD,TBD
+38,MM,Hardware,Male snap only (incl. washers),(2) powder skirt (2) cuffs,4,TBD,TBD,TBD,TBD
+39,NN, Drawcord,Flat Shoelace drawcord WITH Black Oxidize finish METAL ENDS  w: 1 cm ,hood,1,TBD,TBD,TBD,TBD
+40,OO,Elastic Drawcord, 2.5 mm elastic cord,bottom hem adjustment,1,TBD,TBD,TBD,TBD
+41,PP,Key Clip,plastic key clip attched with webbing loop,Inside wearers right pocket.,1,BLACK,BLACK,BLACK,BLACK
+42,QQ,Main Label,TBD,"inside c.b. neck, see Q/A for placement",1,TBD,TBD,TBD,TBD
+43,RR,Size Label,ABWV_69V Vietnam Size Label,sewn in and centered below main label,1,TBD,TBD,TBD,TBD
+44,SS,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK
+45,TT,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,TBD,TBD,TBD,TBD
+46,VV,Branding,ABPA_22 Workwear Label,"LEFT chest, see art placement page for detail",1,TBD,TBD,TBD,TBD
+49,WW,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+50,XX,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+51,YY,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR
+52,ZZ,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD
+53,AAA,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD
+58,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+60,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,

@@ -1,0 +1,37 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+5,Fancy Pants,,MM Rating,,,,,,
+9,,MATERIAL/TRIM,DESCRIPTION,LOCATION,QTY,TBD,TBD,TBD,TBD
+10,,,,FABRICS & LININGS,,,,,
+11,A,Shell Fabric,SOTP069-C1-H 100% Polyester  15k/10k+2-Layer +breathable coating+DWR (supplied by SOLIS),Main Body,,TBD,TBD,TBD,TBD
+12,B,Lining,210T-E EMB07 Terry Emboss Taffeta - (supplied by Ecoya),Inside lining,,TBD,TBD,TBD,TBD
+13,C,Other, Velvety Tricot - SOTO048-1 (supplied by Solis),"at inside waistband, inside hand pockets at front panels only, inside fly",,TBD,TBD,TBD,TBD
+14,D,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),"lower leg gators, internal crotch gusset",,TBD,TBD,TBD,TBD
+16,,,,ZIPPERS,,,,,
+17,AA,Zipper,"No.5 YKK nylon coil zippers, auto-lock slider DA8LH ",Fly ,1,TBD,TBD,TBD,TBD
+18,BB,Zipper,"No.5 YKK zippers, auto-lock slider DA8LH1 (swivel head) (zippers close from C.B. to side seam)",Back Pockets,2,TBD,TBD,TBD,TBD
+19,CC,Zipper Pull,ABZP_01 Utility cord pulls,(2) pockets,2,TBD,TBD,TBD,TBD
+22,DD,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm  (incl. washers)","Bang snaps (2), CF closure(2)",4,TBD,TBD,TBD,TBD
+23,EE,Hardware,12mm Metal eyelet  (incl. washers),front waistband 5cm each side of center front (2),2,TBD,TBD,TBD,TBD
+24,FF,Hardware,"ABEL_01 Metal Airblaster Eyelet (incl. washers, supplied by WellSucceed)",Front LEFT belt loop,1,TBD,TBD,TBD,TBD
+25,GG,Hardware,Metal Hook Closure,at inside waistband,1,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED
+26,HH,Hardware,Metal Lace Hooks,at inside lower leg gaiters,2,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED
+27,II,Drawcord,Polyester Flat Lace drawcord with metal sealed ends.  w:1 cm,Waistband,1,TBD,TBD,TBD,TBD
+28,JJ,Elastic,gripper elastic,at inside lower leg gators,1,BLACK,BLACK,BLACK,BLACK
+29,KK,Key Clip,plastic key clip attched with webbing loop,inside w. right pocket,1,BLACK,BLACK,BLACK,BLACK
+30,LL,Webbing,8 mm width webbing,key clip attachment  at wearer's Right inside pocket,1,BLACK,BLACK,BLACK,BLACK
+31,MM,Main Label,TBD,inside c.b. waist see Q/A for detail,1,TBD,TBD,TBD,TBD
+32,NN,Size Label,ABWV_69V Vietnam size label,sewn in and centered below main label,1,TBD,TBD,TBD,TBD
+33,OO,w/c label/content,satin with print (same as 12/13 label),"at inside side seam, 8 cm down from waistband seam",1,BLACK,BLACK,BLACK,BLACK
+34,PP,Flag Label,ABLT_01 logo flag label (Airpill side),inside of RIGHT back pocket 3cm from top of pocket,1,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE,BLACK/WHITE
+35,QQ,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back waist seam,1,TBD,TBD,TBD,TBD
+36,RR,Branding,TBD,TBD,1,TBD,TBD,TBD,TBD
+37,SS,Branding,TBD,TBD,1,TBD,TBD,TBD,TBD
+39,,,,PACKAGING/HANG TAGS,,,,,
+40,TT,Hangtag,TBD,TBD,1,TBD,TBD,TBD,TBD
+41,UU,Hangtag,TBD,TBD,1,TBD,TBD,TBD,TBD
+42,VV,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,BLACK,BLACK,BLACK,BLACK
+43,WW,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,WHITE,WHITE,WHITE,WHITE
+44,XX,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,WHITE,WHITE,WHITE,WHITE
+48,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+50,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,
+54,9,POLY BAG:,1 garment per bag in Airpill logo'd poly bag; Ply Bag sticker and UPC sticker on outside,,,,,,

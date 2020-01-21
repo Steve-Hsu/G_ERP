@@ -1,0 +1,26 @@
+MATERIAL_ID,0,1,2,3,4,5,6,7,8
+10,,,,,FABRICS & LININGS,,,,
+11,A,Shell Fabric,SOTP069-Q03-AH 100% Polyester wax coating TPU menbrane (supplied by SOLIS),"Main body, sleeves, hood, pockets",,BLACK WAX,CAMEL WAX,,
+12,B,Shell Fabric,SOTP069-2L32-AE 100% Polyester 80/20 DWR TPU MEMBRANE (supplied by SOLIS),"Main body, sleeves, hood, pockets",,,,RED DAWN,
+13,C,Shell Fabric,SOTP069-PR03-AE 100% Polyester 80/20 DWR TPU MEMBRANE (supplied by SOLIS),"Main body, sleeves, hood, pockets",,,,,NIGHT JUNGLE
+14,D,Lining,EMB07 Taffeta emboss  (Supplied by ECOYA),Inside liningpocket bag,,BLACK,OLD GOLD,OLD GOLD,BLACK
+15,E,Other,Rib Knit,Cuffs,,BLACK,BLACK,BLACK,BLACK
+17,L,,,,ZIPPERS,,,,
+18,AA,Zipper,"YKK No.5 coil zipper.  Auto-lock slider DA8LH,   (Right hand pull left hand insert)",C.F.,1,BLACK,CAMEL 858,RED DAWN 520,GREEN 869
+19,BB,Zipper,"YKK  No.5 nylon coil zippers.  Auto-lock slider DA8LH1, close to side seam ",(2) Pockets,1,BLACK,CAMEL 858,RED DAWN 520,GREEN 869
+20,CC,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),(1) C.F. (2) Pockets,3,BLACK,OLD GOLD,OLD GOLD,BLACK
+23,DD,Stoppers,Round Barrel stopper - K-018 , (2) hood,2,BLACK,OLD GOLD,OLD GOLD,BLACK
+24,EE,Hardware,"metal eyelets, 12mm (incl. washers)",(2) at hood opening,2,BI-08 DULL DARK PEWTER,BI-17 MID DARK ANTI BRASS,BI-17 MID DARK ANTI BRASS,BI-17 MID DARK ANTI BRASS
+25,FF, Drawcord,Flat Shoelace drawcord WITH Black Oxidize finish METAL ENDS  w: 1 cm ,Hood Opening,1,BLACK,OLD GOLD,OLD GOLD,BLACK
+26,GG,Main Label,ABWV_84 S.Layer Main Label,"inside c.b. neck, see Q/A for placement",1,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK,CREAM/BLACK
+27,HH,Size Label,ABWV_69 Inside Joke Label,sewn in and centered below main label,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+28,II,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK
+29,JJ,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM,BLACK/CREAM
+30,KK,Branding,ABEM_36A Stay Wild Arrow Embroidery,"LEFT hip, see placement page for detail",1,DK GREY 70021,BROWN 80001,GOLD M564,DK TEAL 20002
+33,LL,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+34,MM,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD
+35,NN,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR
+36,OO,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD
+37,PP,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD
+42,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,
+44,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,

@@ -1,0 +1,79 @@
+,0,1,2,3,4,5,6,7,8,9
+0,l1 mens jacket,none,none,none,none,sample size large / xs-xxl,none,none,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,l1-105-18 ,none,none,date created:,none,2017-02-23 00:00:00,none,none
+3,style name:,none,aftershock,none,none,date revised:,none,2017-04-07 00:00:00,none,none
+4,waterproof/breathability:,none,10k/10k,none,none,block:,none,l1-105-17 lawton,none,none
+5,seam sealing:,none,critically taped,none,none,fit:,none,regular insulated,none,none
+6,insulation:,none,150g pinneco core,none,none,target fob:,none,0,none,none
+8,zippers,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+9, #5 matte water resistant reverse coil,ykk / 1-way semi auto locking with 1 l1 custom pull,center front,1,slider/pull color: x6 black oxides zipper tape/teeth color: matte black,slider/pull color: x6 black oxides zipper tape/teeth color: matte black,slider/pull color: x6 black oxides zipper tape/teeth color: matte black,none,none,none
+10, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,chest pocket horizontal,1,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,none,none,none
+11, #5 coil zipper,"non ykk / 2-way closed end top, open end bottom zip out to close. dadhr die cast wire non locking",right side entry,1,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,none,none,none
+12, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,left underarm vent,1,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,none,none,none
+13, #5 coil zipper,non ykk / 1-way dadhr die cast wire non locking,hand pockets vertical,1 per side = 2,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,silder/pull color: x6 black oxides zipper tape/teeth color: black,none,none,none
+15,additional zipper pulls,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+16,"l1-2018-trim-017
+l1 zipper pull",ykk,center front,1,x6 black oxides,x6 black oxides,x6 black oxides,none,none,none
+17,l1-2018-trim-018 / non branded zipper pull faux leather,please source: same supplier as other faux leather trims,chest pocket (1) hand pockets (2),3,black faux leather,black faux leather,black faux leather,none,none,none
+18, 11nt-045 / self fabric pull ,factory made,right side entry,2,match to shell,match to shell,match to shell,none,none,none
+19, 11nt-045 / self fabric pull ,factory made,left underarm vent,1,match to shell,match to shell,match to shell,none,none,none
+21,branded trims,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+22,"l1-2018-trim-007/ 
+large black faux leather hem wrap",please source: same supplier as other faux leather trims,chest pocket horizontal,1,black faux leather,black faux leather,black faux leather,none,none,none
+23,"l1-2018-trim-002
+black faux leather patch",please source: same supplier as other faux leather trims,front left,1,black faux leather,black faux leather,black faux leather,none,none,none
+24,"l1-2018-trim-024/  l1 embroidery small
+3cm x 2.77cm  ",soluna,front left sleeve hem,1,match to shell,match to shell,match to shell,none,none,none
+25,"l1-2018-trim-025 /
+l1 embroidery large
+3.7cm x 3.4cm  ",soluna,back right,1,match to shell,match to shell,match to shell,none,none,none
+27,trims,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+28,15mm metal snap ,luk's / 404,powder skirt - side closure,"2 female, 4 male",al023 alloy (d),al023 alloy (d),al023 alloy (d),none,none,none
+29,15mm metal snap ,luk's / 404,snap away powder skirt - lining facing ,1 male 1 female,al023 alloy (d),al023 alloy (d),al023 alloy (d),none,none,none
+30,15mm metal snap ,luk's / 404,powder skirt - jacket to pant connection,3 sets,al023 alloy (d),al023 alloy (d),al023 alloy (d),none,none,none
+31,metal eyelets 8mm ,luk's / et04,hood cord exit front,2 per side = 4 ,al023 alloy (d),al023 alloy (d),al023 alloy (d),none,none,none
+32,cord lock: small cord lock with tie down,sun sun/ sv160824-2a,front hood adjust,1 per side = 2,matte black,matte black,matte black,none,none,none
+33,shockcord tip,as  bulk production,front hood shockcord ends,1 per side = 2,matte black,matte black,matte black,none,none,none
+34,keyclip,as  bulk production,right hand pocket,1,black,black,black,none,none,none
+36,notions,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+37,"1/4"" grosgrain",soluna,attach front hood cord lock,1 per side = 2,black,black,black,none,none,none
+38,"1/4"" grosgrain",soluna,attach keyclip right hand pocket ,1,black,black,black,none,none,none
+39,grosgrain,xxx,powder skirt - side tabs jacket to pant connection ,1,black,black,black,none,none,none
+40,"grosgrain 3/4"" x  3 1/2"" flat webbing (finished length)",none,powder skirt - side tabs jacket to pant connection ,2,black,black,black,none,none,none
+41,"shell fabric tab  1"" x 1"" wrap around ",none,jacket to pant connection center back on tab,1,match to shell,match to shell,match to shell,none,none,none
+42,"shell fabric tab  1"" x 1"" wrap around ",none,jacket to pant connection center back under snap on gripper elastic,1,match to shell,match to shell,match to shell,none,none,none
+43,"shell fabric tab 3/4"" x  1"" ",none,jacket to pant connection at side tabs under snaps,1 per side = 2,match to shell,match to shell,match to shell,none,none,none
+44,"elastic 1"" x 4""",none,powder skirt middle tab - jacket to pant connection ,1,black,black,black,none,none,none
+45,elastic ,xxx,back of sleeve cuffs,1,black,black,black,none,none,none
+46,"l1-2018-trim-030
+two-color shock cord
+see color ups for 
+colors",chun wo ho /,hood,1,"two-color shock cord =
+colorway: 1
+19-4006 tcx black/
+18-0403 tcx gunmetal","two-color shock cord =
+colorway: 1
+19-4006 tcx black/
+18-0403 tcx gunmetal","two-color shock cord =
+colorway: 1
+19-4006 tcx black/
+18-0403 tcx gunmetal",none,none,none
+47,shockcord,xxx,hem,1,black,black,black,none,none,none
+48,gripper elastic 25mm non logo,mtt0022,powder skirt hem,1,black,black,black,none,none,none
+50,velcro,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+51,"3/4"" x 3 3/4"" velcro with rounded corners",xxx,cuff on body,1 per side = 2,match to shell,match to shell,match to shell,none,none,none
+52,"3/4"" x 2 1/2"" velcro with rounded corners",xxx,cuff on tab,1 per side = 2,match to shell,match to shell,match to shell,none,none,none
+54,thread,spi,supplier/ ref number,amount,silt,walnut,black,0,0,0
+55,seams,10-12 spi,30 / 2,none,match to shell,match to shell,match to shell,none,none,none
+56,denim weight topstitch,8-10 spi,none,heavy weight topstitch thread,match to shell,match to shell,match to shell,none,none,none
+57,bartacks,none,100 / 2,none,match to shell,match to shell,match to shell,none,none,none
+59,labels ,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+60,10k/10k critically taped,soluna/ main label,center back below neck seam,1,10k/10k critically taped,10k/10k critically taped,10k/10k critically taped,none,none,none
+61,size label (sample size l),soluna/ size label,center back below main label,1,"xs, s, m, l, xl","xs, s, m, l, xl","xs, s, m, l, xl",none,none,none
+63,hang tags,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+64,mens jacket hang tag,soluna/ mens jacket hang tag,left side hand pocket zipper,1,mens jacket hang tag,mens jacket hang tag,mens jacket hang tag,none,none,none
+67,care and content labels,supplier/ reference number,location,amount,silt,walnut,black,0,0,0
+68,address label,factory sourced,lining left side seam,1,address label,address label,address label,none,none,none
+69,content label,factory sourced,lining left side seam,1,content label,content label,content label,none,none,none
+70,washing label,factory sourced,lining left side seam,1,washing label,washing label,washing label,none,none,none

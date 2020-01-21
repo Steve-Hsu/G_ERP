@@ -1,0 +1,38 @@
+,0,1,2,3,4,5,6,7,8,9
+0,none,l1 womens pant,none,none,none,none,none,none,none,none
+1,none,season:,none,winter 2017/2018,none,contractor:,none,soluna,none,none
+2,none,style number:,none,l1ta-204-17,none,date created:,none,2016-02-14 00:00:00,none,none
+3,none,style name:,none,heartbreaker denim pant,none,date revised:,none,none,none,none
+4,none,waterproof/breathability:,none,marked as: 10k/10k,none,block:,none,l1ta-204-16 heartbreaker premium rererence block,none,none
+5,none,seam sealining:,none,critically taped,none,fit:,none,skinny,none,none
+6,none,insulation:,none,shell,none,target fob:,none,41,none,none
+8,zippers,item,slider ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+9,fly ,#5 coil,ykk dalh // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+10,leg pocket,#3 coil,non ykk dadr12 fashion drop  // 1-way locking,1,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+11,hem,#5 coil,non ykk dadhr diecast wire // 1-way locking,1 per side = 2,silder/pull color: x6 black oxides/ tape color: black,none,none,none,none,none
+13,l1 branded trims,item,slider ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+14,cf fly,17mm donut post shank,supplier / l1-2016-trim-005,1,matte black,none,none,none,none,none
+15,"front right hand pocket, back left hand pocket",10mm square rivet,l1-2016-trim-004,2,matte black,none,none,none,none,none
+16,front pocket edges,10mm denim rivet ,14-l1sp-089,3,matte black,none,none,none,none,none
+17,back left knee,l1 small faux suede patch,l1-2017-trim-106,1,black,none,none,none,none,none
+18,front left hem,l1 embroidery large,factory sorced // l1-2016-trim-027,1,dtm shell,none,none,none,none,none
+20,other trims,item,slider ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+21,waist drawcord,"3/8"" flat waxed shoe lace with clear plastic tips",supplier / ref number,1 + 2 clear plastic tips,black waxed / clear tips,none,none,none,none,none
+22,leg pocket,key clip,j&k // hk-001,1,black,none,none,none,none,none
+24,webbing & elastic,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+25,keyclip loop leg pocket,"1/4"" flat x 1 3/4"" loop",none,1,black,none,none,none,none,none
+27,thread,spi,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+28,"shell seams 1/4"" allowance ",12 spi (special allowance to avoid seam slip on shell  fabric),# 604 tseu,regular thread,matching,we have had ripping problems in the past,none,none,none,none
+29,seams,8-10 spi,# 604 tseu,regular thread,matching,none,none,none,none,none
+30,denim weight topstitch,8-10 spi,#606 tseu,heavy weight topstitch thread,matching,none,none,none,none,none
+31,bartacks,none,# 604 tseu,regular thread,matching,none,none,none,none,none
+33,l1 marketing,item,supplier/ ref number,amount,colorway 1,colorway 2,colorway 3,colorway 4,colorway 5,colorway 6
+34,front left belt loop,l1 pant hang tag,supplier //,1,l1 pant hang tag,none,none,none,none,none
+35,front left belt loop behind main hang tag,denim warning hang tag,supplier // ,1,denim warning hang tag,none,none,none,none,none
+36,front left belt loop behind denim dye warning hang tag,l1 pant fit hang tag ,supplier // skinny fit,1,l1 pant fit hang tag  // skinny fit,none,none,none,none,none
+37,center back waist band facing,l1 wmns pant size label,l1 wmns pant size label,1,l1 wmns pant size label,none,none,none,none,none
+38,lining front right,l1 wmns main label,skinny fit // 10k/10k // critically taped,1,skinny fit // 10k/10k // critically taped,none,none,none,none,none
+39,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+40,lining left side seam,content label,sew as loop,1,content label,none,none,none,none,none
+41,lining left side seam,address label,sew as loop,1,address label,none,none,none,none,none
+42,front left belt loop to attach hang tags,clear zip tie,supplier //,1,clear zip tie,none,none,none,none,none

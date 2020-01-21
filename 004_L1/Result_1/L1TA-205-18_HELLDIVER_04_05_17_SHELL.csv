@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9
+0,l1 womens jacket,none,none,none,none,none,none,sample size small / xs-l,none,none
+1,season:,none,winter 2018/2019,none,none,contractor:,none,soluna,none,none
+2,style number:,none,l1ta-205-18,none,none,date created:,none,2017-03-04 00:00:00,none,none
+3,style name:,none,helldiver,none,none,date revised:,none,2017-04-05 00:00:00,none,none
+4,waterproof/breathability:,none,10k/10k,none,none,block:,none,l1ta-203-16 scarlett & lita-103-17 fairbanks,none,none
+5,seam sealing:,none,critical seam sealing,none,none,fit:,none,relaxed fit,none,none
+6,insulation:,none,"60g upper body, 40g seat and knees ""pinneco mantle""",none,none,target fob:,none,none,none,none
+8,none,none,none,none,colorways,none,none,none,none,none
+9,shell fabric ,supplier/ reference number,location ,content,black,military,vintage camo broken twill,none,none,none
+10,oxford,"solis/  oxford l2-581 ,10k/10k, c6 +dwr",a,none,black,military,x,none,none,none
+11,broken twill,"solis/  wl248 broken twill, 10k/10k, c6 +dwr",a,none,x,x,vintage camo broken twill,none,none,none
+12,ribbing,leader collar / as last production,"collar, sleeve hem",none,black,military,black,none,none,none
+14,insulation,supplier/ reference number,location ,content,black,military,vintage camo broken twill,0,0,0
+15,polyfill,pinneco mantle,upper body,100% polyester,60g,60g,60g,none,none,none
+16,polyfill,pinneco mantle,sleeves,100% polyester,60g,60g,60g,none,none,none
+17,polyfill,pinneco mantle,seat,100% polyester,40g,40g,40g,none,none,none
+18,polyfill,pinneco mantle,knees (front),100% polyester,40g,40g,40g,none,none,none
+20,seam tape,supplier/ reference number,location ,content,black,military,vintage camo broken twill,0,0,0
+21,seam tape,tsgs,critically taped,none,critically taped,critically taped,critically taped,none,none,none
+23,lining,supplier/ reference number,location ,content,black,military,vintage camo broken twill,0,0,0
+24,solid quilted satin,solis/ pr258,upper body,100% polyester,18-1250 tcx bombay,18-1250 tcx bombay,18-1250 tcx bombay,none,none,none
+25,solid 210t ,solis/ sonp006-1 ,sleeves,100% nylon,18-1250 tcx bombay,18-1250 tcx bombay,18-1250 tcx bombay,none,none,none
+26,solid 210t ,solis/ sonp006-1 ,pants,100% nylon,18-1250 tcx bombay,18-1250 tcx bombay,18-1250 tcx bombay,none,none,none
+27,solid 210t ,solis / sonp006-pu03,lower leg & gaiter,100% nylon,black,black,black,none,none,none
+28,solid 210t ,solis/ sonp006-1 ,secondary pocket bags,100% nylon,black,black,black,none,none,none
+29,brushed tricot,supplier / ref code,chin guard,100% polyester,black,black,black,none,none,none
+30,brushed tricot,supplier / ref code,hand pocket bags,100% polyester,black,black,black,none,none,none
+31,regular mesh,1606b02 (als-16038),leg vents,100% polyester,black,black,black,none,none,none
+33,lower leg lining print (see pdf),supplier/ reference number,location ,content,black,military,vintage camo broken twill,0,0,0
+34,on coated 210t,please source ,lower leg front and back,none,pantone 16-5807 tcx silt ,pantone 16-5807 tcx silt ,pantone 16-5807 tcx silt ,none,none,none
