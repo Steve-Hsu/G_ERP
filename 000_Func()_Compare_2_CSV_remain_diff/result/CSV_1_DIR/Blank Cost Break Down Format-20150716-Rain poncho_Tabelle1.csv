@@ -1,0 +1,49 @@
+MATERIAL_ID,0,1,2,3,4,5
+0,TRIM SUPPLIER,,,QUOTATION DATE,,
+1,TRIM DESCRIPTION,,,,,
+2,TRIM PART NUMBER,,,,,
+3,ESTIMATED ANNUAL VOLUME,,,,,
+4,TRIM SET INCLUDES THE FOLLOWING,,,,,
+5,HEADPART,INSERT 1,INSERT 2,,,
+6,no,no,no,,,
+7,BACKPART ,SHOULDER PADS,CROTCH PAD,,,
+8,no,no,no,,,
+9,SEAT COVER,MESSY MAT,OTHER,,,
+10,yes,no,no,,,
+11,"Specification: GTP and GFS, IMDS data to be put in",,,,,
+12,,Materials description & supplier,MOQ ,"usage per trim 
+(in mtrs) ","Price per meter
+(in USD)",Price per trim
+13,PRIMARY FABRIC  (1),Main Fabric from Solis,,1.24,2.7,3.3480000000000003
+14,PRIMARY FABRIC  (2),,,,,
+15,PRIMARY FABRIC  (3),,,,,
+16,PRIMARY FABRIC  (4),,,,,
+17,TOTAL,,,,,
+18,CF Zip,,,1,0.26,0.26
+19,Spring Toggles/1Hole,,,2,0.047,0.094
+20,Spring Toggles/2Hole,,,1,0.042,0.042
+21,Elastic,,,0.92,0.035,0.032200000000000006
+22,Seam Tape,,,1.7,0.183,0.3111
+23,Snap,,,2,0.067,0.134
+24,Thread,,,,,0.03
+25,Heat transfer,,,0.098,1,0.098
+26,Other,Package,,,,0.587
+27,TOTAL,,,,,
+28,CUTTING,,,,,
+29,WELDING,,,,,
+30,BUTTON STITCH,,,,,
+31,STUDDING,,,,,
+32,SEWING ,,,,,
+33,OVER LOCKING / PIPING,,,,,
+34,TOTAL,,,,,2.24
+35,OVERHEADS,,,,,
+36,TOTAL,,,,,
+37,PACKAGING,,,,,
+38,FREIGHT,,,,,0.048
+39,TOTAL,,,,,
+40,,,,,,
+41,GRAND TOTAL,,,,,
+42,,,,,,
+43,PROFIT,,,,,
+44,,,,,,
+45,TOTAL PRICE,,,,,7.224300000000001

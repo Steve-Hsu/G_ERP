@@ -1,0 +1,48 @@
+MATERIAL_ID,0,1,2,3,4,5,6
+0,TRIM SUPPLIER,,,QUOTATION DATE,,,
+1,TRIM DESCRIPTION,,,,,,
+2,TRIM PART NUMBER,,,,,,
+3,ESTIMATED ANNUAL VOLUME,,,,,,
+4,TRIM SET INCLUDES THE FOLLOWING,,,,,,
+5,HEADPART,INSERT 1,INSERT 2,,,,
+6,no,no,no,,,,
+7,BACKPART ,SHOULDER PADS,CROTCH PAD,,,,
+8,no,no,no,,,,
+9,SEAT COVER,MESSY MAT,OTHER,,,,
+10,yes,no,no,,,,
+11,"Specification: GTP and GFS, IMDS data to be put in",,,,,,
+12,,Materials description & supplier,MOQ ,"usage per trim 
+(in mtrs) ","Price per meter
+(in USD)",Price per trim,
+13,PRIMARY FABRIC  (1),Main Fabric from Solis,,1.24,2.7,3.3480000000000003,
+14,PRIMARY FABRIC  (2),,,,,,
+15,PRIMARY FABRIC  (3),,,,,,
+16,PRIMARY FABRIC  (4),,,,,,
+17,TOTAL,,,,,,
+18,CF Zip,,,1,0.26,0.26,23cm/3號/0.1267
+19,Spring Toggles/1Hole,,,2,0.047,0.094,"K027 黑色一般彈簧 環保料  NTD 1.1/PCS   最低量:8,000PCS"
+20,Spring Toggles/2Hole,,,1,0.042,0.042,"K219 黑色 環保料 NTD 0.8/PCS                    最低量:10,000PCS=0.8NTD*10000/8000=1NTD/1PCS"
+21,Elastic,,,0.92,0.035,0.032200000000000006,概略
+22,Seam Tape,,,1.7,0.183,0.3111,OK
+23,Snap,,,2,0.067,0.134,B890 中空五爪釦 鎳色無鎳 NTD 160/G(144SET)=0.04USD
+24,Thread,,,,,0.03,
+25,Other,Package,,,,0.587,銘泰彩盒0.2/除濕劑+塑膠袋0.087+大紙盒+紙版箱0.3
+26,TOTAL,,,,,,
+27,CUTTING,,,,,,
+28,WELDING,,,,,,
+29,BUTTON STITCH,,,,,,
+30,STUDDING,,,,,,
+31,SEWING ,,,,,,
+32,OVER LOCKING / PIPING,,,,,,
+33,TOTAL,,,,,2.24,
+34,OVERHEADS,,,,,,
+35,TOTAL,,,,,,
+36,PACKAGING,,,,,,
+37,FREIGHT,,,,,0.048,
+38,TOTAL,,,,,,
+39,,,,,,,
+40,GRAND TOTAL,,,,,,
+41,,,,,,,
+42,PROFIT,,,,,,
+43,,,,,,,
+44,TOTAL PRICE,,,,,7.0783000000000005,

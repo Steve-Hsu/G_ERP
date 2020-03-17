@@ -1,0 +1,24 @@
+MATERIAL_ID,0,1,2,3,4,5
+0,TRIM SUPPLIER,,,QUOTATION DATE,,
+1,TRIM DESCRIPTION,,,,,
+2,TRIM PART NUMBER,,,,,
+3,ESTIMATED ANNUAL VOLUME,,,,,
+10,yes,no,no,,,
+11,"Specification: GTP and GFS, IMDS data to be put in",,,,,
+12,,Materials description & supplier,MOQ ,"usage per trim 
+(in mtrs) ","Price per meter
+(in USD)",Price per trim
+19,Spring Toggles/1Hole,,,1,0.03,0.03
+20,Spring Toggles/2Hole,,,2,0.045,0.09
+21,Retro Tape/W:30mm,,,1.45,0.042,0.0609
+22,Velcro-Hook,,,0.025,0.269,0.006725000000000001
+23,Velcro-Loop,,,0.045,0.269,0.012105000000000001
+27,Seam Tape,,,6,0.183,1.0979999999999999
+30,Other,Package,,,,0.448
+32,CUTTING,,,,,
+35,STUDDING,,,,,
+39,OVERHEADS,,,,,
+42,FREIGHT,,,,,
+45,GRAND TOTAL,,,,,
+47,PROFIT,,,,,
+49,TOTAL PRICE,,,,,7.336542000000001

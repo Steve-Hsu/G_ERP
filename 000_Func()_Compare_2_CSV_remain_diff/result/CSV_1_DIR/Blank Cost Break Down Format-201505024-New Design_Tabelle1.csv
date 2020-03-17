@@ -1,0 +1,53 @@
+MATERIAL_ID,0,1,2,3,4,5
+0,TRIM SUPPLIER,,,QUOTATION DATE,,
+1,TRIM DESCRIPTION,,,,,
+2,TRIM PART NUMBER,,,,,
+3,ESTIMATED ANNUAL VOLUME,,,,,
+4,TRIM SET INCLUDES THE FOLLOWING,,,,,
+5,HEADPART,INSERT 1,INSERT 2,,,
+6,no,no,no,,,
+7,BACKPART ,SHOULDER PADS,CROTCH PAD,,,
+8,no,no,no,,,
+9,SEAT COVER,MESSY MAT,OTHER,,,
+10,yes,no,no,,,
+11,"Specification: GTP and GFS, IMDS data to be put in",,,,,
+12,,Materials description & supplier,MOQ ,"usage per trim 
+(in mtrs) ","Price per meter
+(in USD)",Price per trim
+13,PRIMARY FABRIC  (1),Main Fabric from Solis,,1.1,2.7,2.9700000000000006
+14,PRIMARY FABRIC  (2),,,,,
+15,PRIMARY FABRIC  (3),,,,,
+16,PRIMARY FABRIC  (4),,,,,
+17,TOTAL,,,,,
+18,CF Zip,,,1,0.22,0.22
+19,Spring Toggles/1Hole,,,1,0.03,0.03
+20,Spring Toggles/2Hole,,,2,0.045,0.09
+21,Retro Tape/W:30mm,,,1.45,0.042,0.0609
+22,Velcro-Hook,,,0.025,0.269,0.006725000000000001
+23,Velcro-Loop,,,0.045,0.269,0.012105000000000001
+24,Spring Toggles ribbon,,,0.14,0.078,0.010920000000000001
+25,Elastic,,,0.014,0.028,0.00039200000000000004
+26,Draw Cord,,,0.9,0.055,0.0495
+27,Seam Tape,,,6,0.183,1.0979999999999999
+28,Button,,,1,0.07,0.07
+29,Thread,,,,,0.03
+30,Other,Package,,,,0.448
+31,TOTAL,,,,,
+32,CUTTING,,,,,
+33,WELDING,,,,,
+34,BUTTON STITCH,,,,,
+35,STUDDING,,,,,
+36,SEWING ,,,,,
+37,OVER LOCKING / PIPING,,,,,
+38,TOTAL,,,,,2.24
+39,OVERHEADS,,,,,
+40,TOTAL,,,,,
+41,PACKAGING,,,,,
+42,FREIGHT,,,,,
+43,TOTAL,,,,,
+44,,,,,,
+45,GRAND TOTAL,,,,,
+46,,,,,,
+47,PROFIT,,,,,
+48,,,,,,
+49,TOTAL PRICE,,,,,7.336542000000001

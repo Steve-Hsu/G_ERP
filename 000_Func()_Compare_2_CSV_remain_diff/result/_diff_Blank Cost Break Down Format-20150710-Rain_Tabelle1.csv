@@ -1,0 +1,21 @@
+MATERIAL_ID,0,1,2,3,4,5,6
+0,TRIM SUPPLIER,,,QUOTATION DATE,,,
+1,TRIM DESCRIPTION,,,,,,
+2,TRIM PART NUMBER,,,,,,
+3,ESTIMATED ANNUAL VOLUME,,,,,,
+10,yes,no,no,,,,
+11,"Specification: GTP and GFS, IMDS data to be put in",,,,,,
+12,,Materials description & supplier,MOQ ,"usage per trim 
+(in mtrs) ","Price per meter
+(in USD)",Price per trim,
+19,Spring Toggles/1Hole,,,2,0.047,0.094,"K027 黑色一般彈簧 環保料  NTD 1.1/PCS   最低量:8,000PCS"
+20,Spring Toggles/2Hole,,,1,0.042,0.042,"K219 黑色 環保料 NTD 0.8/PCS                    最低量:10,000PCS=0.8NTD*10000/8000=1NTD/1PCS"
+22,Seam Tape,,,1.7,0.183,0.3111,OK
+25,Other,Package,,,,0.587,銘泰彩盒0.2/除濕劑+塑膠袋0.087+大紙盒+紙版箱0.3
+27,CUTTING,,,,,,
+30,STUDDING,,,,,,
+34,OVERHEADS,,,,,,
+37,FREIGHT,,,,,0.048,
+40,GRAND TOTAL,,,,,,
+42,PROFIT,,,,,,
+44,TOTAL PRICE,,,,,7.0783000000000005,
