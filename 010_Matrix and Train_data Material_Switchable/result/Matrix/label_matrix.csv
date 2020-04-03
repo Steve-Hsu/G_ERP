@@ -1,206 +1,206 @@
 ,material,label
-0,", , lm792, shell fabric at hood, above chest, lower front body, back body, sleeves
-facing fabric at windflap, hood shockcord tunnel, self fabric seam binding as needed, shockcord tunnel, , , , ",0
-1,", , sotl085-pu01, shell fabric at hood, above chest, lower front body, back body, sleeves
-facing fabric at windflap, hood shockcord tunnel, self fabric seam binding as needed, shockcord tunnel, , , , ",0
-2,", , lm792, shell fabric at mid chest panels, , , , ",0
-3,", , sotl085-pu01, shell fabric at mid chest panels, , , , ",0
-4,", , ym11-3527, stretch mesh , , , , back pocket bag",0
-5,", , l1025 sw, non woven interlining, , , , windflap",0
-6,", , cifol-39 dsbyg (h3), #3 coil, open end, left insert, dsbyg slider , , , , cf zipper",0
-7,", , cfc-39 dw2w (e)         , #3 coil, closed end, dw2w slider , , , , back pocket zipper",0
-8,", , web-ref-8mm, reflective zipper puller, , , , back pocket (1 inside and 1 outside), back hood (1)",0
-9,", , 1/4"" elastic, 1/4"" elastic, , , , hood, cuffs, hem, sides of hood",0
-10,", , pca224, cordlock, , , , back of hood (1)",0
-11,", , 10mm grosgrain ribbon, grosgrain ribbon           , , , , anchor for pca224 cordlock at back hood, loop inside back pocket",0
-12,", , *new* 2mm shockcord , custom braid, , , , hood ",0
-13,", , 7mm thread eyelet, thread eyelet, , , , back of hood adjustment shockcord exit and tunnel",0
-14,", , rht-004, reflective heat transfer, , , , front left chest",0
-15,", , rht-009, reflective heat transfer, , , , right bicep",0
-16,", , dw-rc-001, reflective durawelt, , , , cb below neckseam",0
-17,", , m_t42_bd, heat transfer main interior label w/size/country, , , , interior cb neck",0
-18,", , sco-lb-adrs    , address/rn & ca #s           , , , , under normal care label      ",0
-19,", , 8mm grosgrain , grosgrain, , , , locker loop",0
-20,", , ccl-094, care content labels, , , , interior left side seam",1
-21,", , ccl-001, care content labels, , , , interior left side seam",1
-22,", , po label, po label- for bulk only!, , , , interior left side seam",1
-23,", , m-ht-app+chain, m's apparel hangtag, , , , cf zipper slider",0
-24,", , fit-ht-gen, general fit hang tag, , , , cf zipper slider",0
-25,", , fit-ht-ath, athletic fit hangtag       , , , , cf zipper slider",0
-26,", , 4560, shell fabric at hood, sleeves, front body, back body, zipper garages, windflap
-facing fabric at rolled cuffs, rolled hem, pockets, , , , ",0
-27,", , please source, mesh, , , , hand pocket bags, chest pocket bag",0
-28,", , cifol-56 da8blh1 (e)           , #5 coil, open end, left insert, da8blh1 slider , , , , cf zipper",0
-29,", , cfc-36 dablh (e)         , #3 coil, closed end, dablh slider , , , , chest pocket zipper",0
-30,", , cfc-36 dablh (e)         , #3 coil, closed end, dablh slider , , , , hand pocket zippers",0
-31,", , zp-561/5    , pop in puller- #5       , , , , cf zipper",0
-32,", , zp-562/3    , pop in puller- #3        , , , , hand pkt zippers, chest pocket zipper",0
-33,", , pca224, cordlock, , , , hem adjustment",0
-34,", , 10mm grosgrain ribbon, webbing, , , , anchor for pca224 cordlock at bottom hem",0
-35,", , p481s001, rubber puller , , , , hem adjustment      ",0
-36,", , 1034213, custom braid 2.2mm, , , , bottom hem",0
-37,", , 5mm eyelet, 5mm logo eyelet, , , ,  hem adjustment exit (4)",0
-38,", , 3/4"" foldable lycra, binding, , , , hood binding, cf zipper tape finish, neck seam          ",0
-39,", , hdp-003, high density print (matte quality), , , , upper left chest",0
-40,", , sb-hdp-804, high density print (matte quality), , , , right bicep",0
-41,", , m-size-20, m's main interior label           , , , , cb neckseam      ",1
-42,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , locker loop      ",0
-43,", , ccl-164, care content labels, , , , left side seam",1
-44,", , po label, po label- for bulk only!, , , , left side seam",1
-45,", , m-ht-lay, m's layering hangtag         , , , , left side       ",0
-46,", , hangtag chain, chain for hangtag, , , , left side       ",0
-47,", , fit-ht-gen, general fit insert, , , , insert",0
-48,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-49,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-50,", , mapp    , mapp hangtag        , , , , left side",0
-51,", , sck-757s, shell fabric at front body, back body, front collar, back collar
-facing fabric at rolled hem, rolled collar front and back, , , , ",0
-52,", , sck-757s, shell fabric at sleeves and collar sides, cuffs
-facing fabric at rolled cuffs, rolled collar sides, , , , ",0
-53,", , cfc-39 dsbsos02a (h3), #3, closed end, dsbsos02a slider , , , , cf zipper",0
-54,", , 3/4"" foldable lycra, binding, , , , cf zipper tape finish, windflap edge",0
-55,", , normal flatlock, normal flatlock, , , , armhole seams",0
-56,", , normal flatlock, normal flatlock, , , , side seams",0
-57,", , dp-634, direct print (matte quality), , , , upper left chest",0
-58,", , sb-dp-804, direct print (matte quality), , , , right bicep",0
-59,", , m-size-20, m's main interior label           , , , , cb neckseam      ",1
-60,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , locker loop      ",0
-61,", , ccl-149, care content labels, , , , left side seam",1
-62,", , po label, po label- for bulk only!, , , , left side seam",1
-63,", , m-ht-lay, m's layering hangtag         , , , , left side       ",0
-64,", , hangtag chain, chain for hangtag, , , , left side       ",0
-65,", , fit-ht-gen, general fit insert, , , , insert",0
-66,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-67,", , duro-ht-4s-2, duroxpand hangtag, , , , insert",0
-68,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-69,", , fe529-a, shell fabric at hood, sleeves, sleeve pocket, collar
-facing fabric at rolled cuffs, back of collar, windflap, , , , ",0
-70,", , fe529-a, shell fabric at front body, back body
-facing fabric at rolled hem, , , , ",0
-71,", , sck-757s, shell fabric at face mask, , , , ",0
-72,", , tba-use available #5 coil open end, 1 slider for proto, , , , , cf zipper",0
-73,", , tba-use available #3 coil closed end for proto, , , , , hand pocket zippers",0
-74,", , tba-use available #3 coil closed end for proto, , , , , left sleeve pocket zipper",0
-75,", , 142-01951-000013 , flexible zipper puller, , , , cf zipper (1), hand pocket (2), sleeve pocket (1)          ",0
-76,", , pca224, cordlock, , , , hem adjustment",0
-77,", , 10mm grosgrain ribbon, webbing, , , , anchor for pca224 cordlock at bottom hem",0
-78,", , p481s001, rubber puller , , , , hem adjustment      ",0
-79,", , 1034213, custom braid 2.2mm, , , , bottom hem",0
-80,", , 5mm eyelet, 5mm logo eyelet, , , ,  hem adjustment exit (4)",0
-81,", , 3/4"" foldable lycra, binding, , , , hood binding, top and bottom of face mask, edge of windflap, finish at zipper tape edge, neck seam          ",0
-82,", , gramax thread, normal flatlock, , , , armhole seams, hood seams, face mask seam, underarm seams",0
-83,", , gramax thread, normal flatlock, , , , side seams",0
-84,", , dp-634, direct print (matte quality), , , , upper left chest",0
-85,", , sb-dp-804, direct print (matte quality), , , , right bicep",0
-86,", , durawelt overlays, 1/4"" durawelt overlays, , , , sleeve pocket ",0
-87,", , durawelt overlays, 1/4"" durawelt overlays, , , , around hand pocket zippers",0
-88,", , m-size-20, m's main interior label           , , , , cb neckseam      ",1
-89,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , locker loop      ",0
-90,", , ccl-001, care content labels, , , , left side seam",1
-91,", , po label, po label- for bulk only!, , , , left side seam",1
-92,", , m-ht-lay, m's layering hangtag         , , , , left side       ",0
-93,", , hangtag chain, chain for hangtag, , , , left side       ",0
-94,", , fit-ht-gen, general fit insert, , , , insert",0
-95,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-96,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-97,", , dryo-ht-wr-2, dryozone dwr hangtag, , , , insert",0
-98,", , #9068 powerdry, shell fabric at collar, front body, back body, sleeves, windflap
-facing fabric at interior collar, , , , ",0
-99,", , sck-757s, shell fabric at chest pocket, , , , ",0
-100,", , l1025 sw, non woven interlining, , , , interior collar",0
-101,", , cifol-39 dsbyg (h3), #3 coil, open end, left insert, dsbyg slider , , , , cf zipper",0
-102,", , chc-36 dadr2a (e), #3 invisible coil, closed end, dadr2a , , , , chest pocket zipper",0
-103,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider , , , , back pocket",0
-104,", , 3/4"" foldable lycra    , binding, , , , interior cf zipper tape edge finish",0
-105,", , ext-tape-10, reflective tape, , , , mp3 loop at cb neck seam",0
-106,", , coverstitch, 4 needle coverstitching, , , , seams at armhole, underarm, side seams, lower body horizontal seam",0
-107,", , tba, tba, , , , front left chest",0
-108,", , can you test which type works best with the polartec fabric such as print, high density print etc?, tba, , , , right bicep",0
-109,", , phtw-15, polartec heat transfer, , , , right side near hem and side seam",0
-110,", , m-int-20, main interior label, , , , cb neckseam",1
-111,", , 8mm grosgrain locker loop, grosgrain, , , , locker loop",0
-112,", , ccl-152, care content labels, , , , interior left side seam",1
-113,", , po label, po label- for bulk only!, , , , interior left side seam",1
-114,", , m-ht-lay, m's layering hangtag         , , , , left side       ",0
-115,", , hangtag chain, chain for hangtag, , , , left side       ",0
-116,", , fit-ht-gen, general fit hang tag, , , , cf zipper slider",0
-117,", , fit-ht-ath, athletic fit hangtag       , , , , cf zipper slider",0
-118,", , ppg-15, polartec powergrid hangtag, , , , cf zipper slider          ",0
-119,", , porptec-15, polartec polygeine hangtag, , , , cf zipper slider          ",0
-120,", , meln135, shell fabric at collar, front body, back body, sleeves, windflap
-facing fabric at interior collar,  rolled hem, rolled cuffs,, , , , ",0
-121,", , l1025 sw, non woven interlining, , , , collar",0
-122,", , cifol-56 da8blh1 (e)           , #5 coil, open end, left insert, da8blh1 slider , , , , cf zipper",0
-123,", , cfc-36 dablh (e)         , #3 coil, closed end, dablh slider , , , , chest pocket zipper",0
-124,", , zp-561/5    , pop in puller- #5       , , , , cf zipper",0
-125,", , zp-562/3    , pop in puller- #3        , , , , chest pkt zipper",0
-126,", , pca224, cordlock, , , , hem adjustment",0
-127,", , 10mm grosgrain ribbon, webbing, , , , anchor for pca224 cordlock at bottom hem",0
-128,", , p481s001, rubber puller , , , , hem adjustment      ",0
-129,", , 1034213, custom braid 2.2mm, , , , bottom hem",0
-130,", , 5mm eyelet, 5mm logo eyelet, , , , hem drawcord exit      ",0
-131,", , 3/4"" foldable lycra, binding, , , , cf zipper tape finish, windflap edge",0
-132,", , gramax thread, normal flatlock, , , , seams at armhole, sleeves, side seams, chest pocket seam",0
-133,", , sb-dp-804, direct print (matte quality), , , , right bicep",0
-134,", , ats, ats (matte quality), , , , left chest pocket window",0
-135,", , m-size-20, m's main interior label           , , , , cb neckseam      ",1
-136,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , locker loop      ",0
-137,", , ccl-001, care content labels, , , , left side seam",1
-138,", , po label, po label- for bulk only!, , , , left side seam",1
-139,", , m-ht-lay, m's layering hangtag         , , , , left side       ",0
-140,", , hangtag chain, chain for hangtag, , , , left side       ",0
-141,", , fit-ht-gen, general fit insert, , , , insert",0
-142,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-143,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-144,", , dryo-ht-wr-2, dryozone dwr hangtag, , , , insert",0
-145,", , lm792 2.5l, shell fabric at side hood panels, front collar, sleeves, front and back body, outer cuff,  self fabric binding (where needed) and binding at cf zipper tape edge, windflap, back hood tunnel, , , , ",0
-146,", , sotl085-pu01, shell fabric at side hood panels, front collar, sleeves, front and back body, outer cuff,  self fabric binding (where needed) and binding at cf zipper tape edge, windflap, back hood tunnel, , , , ",0
-147,", , lm792 2.5l, shell fabric at middle hood panel, side seam panels, , , , ",0
-148,", , sotl085-pu01, shell fabric at middle hood panel, side seam panels, , , , ",0
-149,", , sck-757s, inner knit cuffs, , , , ",0
-150,", , l1025 sw, non woven interlining, , , , windflap",0
-151,", , ym11-3527, 1 layer stretch mesh, , , , pocket bag",0
-152,", , cifor-39 dsbyg (h3), #3 coil, open end, right insert, dsbyg slider , , , , cf zipper",0
-153,", , chc-36 dadr2a e  , #3 invisible coil, closed end, dadr2a slider, , , , right side seam small pocket zipper",0
-154,", , tba, reflective webbing, , , ,  back hood pull",0
-155,", , 1/4"" elastic, 1/4"" elastic, , , , sides of hood",0
-156,", , 1"" elastic, 1"" elastic, , , , back cuff, front hem",0
-157,", , pca224, cordlock, , , , back of hood (1)",0
-158,", , 10mm grosgrain ribbon, grosgrain ribbon           , , , , anchor for pca224 cordlock at back hood",0
-159,", , 2mm shockcord, custom braid, , , , hood",0
-160,", , 7mm thread eyelet, thread eyelet, , , , back of hood adjustment shockcord exit",0
-161,", , thad01p10gbk10, 10mm reflective perf tape, , , , cb neck",0
-162,", , rht-004, reflective heat transfer, , , , front left chest",0
-163,", , rht-009, reflective heat transfer, , , , right bicep",0
-164,", , laser cut holes, laser cut holes, , , , under venting flap (front & back)",0
-165,", , w_t43_bd, heat transfer main interior label w/size/country, , , , interior cb neck",0
-166,", , sco-lb-adrs    , address/rn & ca #s           , , , , under normal care label      ",0
-167,", , 8mm grosgrain , grosgrain, , , , locker loop",0
-168,", , ccl-094, care content labels, , , , interior left side seam",1
-169,", , ccl-001, care content labels, , , , interior left side seam",1
-170,", , po label, po label- for bulk only!, , , , under normal care label      ",1
-171,", , 4560, collar, chest, sleeves, back yoke, back body, , , , ",0
-172,", , sck-757s, cuffs, hem collar facing, , , , ",0
-173,", , gramax thread, normal flatlock, , , , cb yoke and top collar",0
-174,", , dp-634, direct matte print, , , , upper left chest",0
-175,", , dp-755, direct matte print, , , , left cuff",0
-176,", , ats, ats, , , , collar drawcord exit",0
-177,", , w-int-20, w's main interior label           , , , , cb neck seam      ",1
-178,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , cb neckseam locker loop      ",0
-179,", , sco-41    , country of origin           , , , , cb neck seam under main interior label      ",0
-180,", , tba, care content labels, , , , left side seam",1
-181,", , ccl-ht-lb, heat transfer washing instruction label, , , , behind care label",0
-182,", , sco-lb-can-, customs label, , , , left side seam behind care label",1
-183,", , po label, po label- for bulk only!, , , , left side seam",1
-184,", , w-ht-lay, w's layering hangtag         , , , , left side       ",0
-185,", , hangtag pin, pin for hangtags, , , , left side       ",0
-186,", , fit-ht-gen, general fit insert, , , , insert",0
-187,", , fit-ht-athl, athletic fit hangtag, , , , left side",0
-188,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-189,", , mapp    , mapp hangtag        , , , , left side",0
-190,", , sck-757s, shell fabric at collar, upper sleeves, upper chest, upper back, lower front body, lower back body, windflap at collar, zipper tape finish, inner placket binding, , , , ",0
-191,", , sck-757s, shell fabric at underarms, lower sleeves, middle front body, middle back body, , , , ",0
-192,", , st967 double weave, bonded overlay at lower right pocket, , , , ",0
+0,", , lm792, , , , , shell fabric at hood, above chest, lower front body, back body, sleeves
+facing fabric at windflap, hood shockcord tunnel, self fabric seam binding as needed, shockcord tunnel",0
+1,", , sotl085-pu01, , , , , shell fabric at hood, above chest, lower front body, back body, sleeves
+facing fabric at windflap, hood shockcord tunnel, self fabric seam binding as needed, shockcord tunnel",0
+2,", , lm792, , , , , shell fabric at mid chest panels",0
+3,", , sotl085-pu01, , , , , shell fabric at mid chest panels",0
+4,", , ym11-3527, , , , , stretch mesh ",0
+5,", , l1025 sw, , , , , non woven interlining",0
+6,", , cifol-39 dsbyg (h3), , , , , #3 coil, open end, left insert, dsbyg slider ",0
+7,", , cfc-39 dw2w (e)         , , , , , #3 coil, closed end, dw2w slider ",0
+8,", , web-ref-8mm, , , , , reflective zipper puller",0
+9,", , 1/4"" elastic, , , , , 1/4"" elastic",0
+10,", , pca224, , , , , cordlock",0
+11,", , 10mm grosgrain ribbon, , , , , grosgrain ribbon           ",0
+12,", , *new* 2mm shockcord , , , , , custom braid",0
+13,", , 7mm thread eyelet, , , , , thread eyelet",0
+14,", , rht-004, , , , , reflective heat transfer",0
+15,", , rht-009, , , , , reflective heat transfer",0
+16,", , dw-rc-001, , , , , reflective durawelt",0
+17,", , m_t42_bd, , , , , heat transfer main interior label w/size/country",0
+18,", , sco-lb-adrs    , , , , , address/rn & ca #s           ",0
+19,", , 8mm grosgrain , , , , , grosgrain",0
+20,", , ccl-094, , , , , care content labels",1
+21,", , ccl-001, , , , , care content labels",1
+22,", , po label, , , , , po label- for bulk only!",1
+23,", , m-ht-app+chain, , , , , m's apparel hangtag",0
+24,", , fit-ht-gen, , , , , general fit hang tag",0
+25,", , fit-ht-ath, , , , , athletic fit hangtag       ",0
+26,", , 4560, , , , , shell fabric at hood, sleeves, front body, back body, zipper garages, windflap
+facing fabric at rolled cuffs, rolled hem, pockets",0
+27,", , please source, , , , , mesh",0
+28,", , cifol-56 da8blh1 (e)           , , , , , #5 coil, open end, left insert, da8blh1 slider ",0
+29,", , cfc-36 dablh (e)         , , , , , #3 coil, closed end, dablh slider ",0
+30,", , cfc-36 dablh (e)         , , , , , #3 coil, closed end, dablh slider ",0
+31,", , zp-561/5    , , , , , pop in puller- #5       ",0
+32,", , zp-562/3    , , , , , pop in puller- #3        ",0
+33,", , pca224, , , , , cordlock",0
+34,", , 10mm grosgrain ribbon, , , , , webbing",0
+35,", , p481s001, , , , , rubber puller ",0
+36,", , 1034213, , , , , custom braid 2.2mm",0
+37,", , 5mm eyelet, , , , , 5mm logo eyelet",0
+38,", , 3/4"" foldable lycra, , , , , binding",0
+39,", , hdp-003, , , , , high density print (matte quality)",0
+40,", , sb-hdp-804, , , , , high density print (matte quality)",0
+41,", , m-size-20, , , , , m's main interior label           ",1
+42,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+43,", , ccl-164, , , , , care content labels",1
+44,", , po label, , , , , po label- for bulk only!",1
+45,", , m-ht-lay, , , , , m's layering hangtag         ",0
+46,", , hangtag chain, , , , , chain for hangtag",0
+47,", , fit-ht-gen, , , , , general fit insert",0
+48,", , fit-ht-athl, , , , , athletic fit hangtag",0
+49,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+50,", , mapp    , , , , , mapp hangtag        ",0
+51,", , sck-757s, , , , , shell fabric at front body, back body, front collar, back collar
+facing fabric at rolled hem, rolled collar front and back",0
+52,", , sck-757s, , , , , shell fabric at sleeves and collar sides, cuffs
+facing fabric at rolled cuffs, rolled collar sides",0
+53,", , cfc-39 dsbsos02a (h3), , , , , #3, closed end, dsbsos02a slider ",0
+54,", , 3/4"" foldable lycra, , , , , binding",0
+55,", , normal flatlock, , , , , normal flatlock",0
+56,", , normal flatlock, , , , , normal flatlock",0
+57,", , dp-634, , , , , direct print (matte quality)",0
+58,", , sb-dp-804, , , , , direct print (matte quality)",0
+59,", , m-size-20, , , , , m's main interior label           ",1
+60,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+61,", , ccl-149, , , , , care content labels",1
+62,", , po label, , , , , po label- for bulk only!",1
+63,", , m-ht-lay, , , , , m's layering hangtag         ",0
+64,", , hangtag chain, , , , , chain for hangtag",0
+65,", , fit-ht-gen, , , , , general fit insert",0
+66,", , fit-ht-athl, , , , , athletic fit hangtag",0
+67,", , duro-ht-4s-2, , , , , duroxpand hangtag",0
+68,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+69,", , fe529-a, , , , , shell fabric at hood, sleeves, sleeve pocket, collar
+facing fabric at rolled cuffs, back of collar, windflap",0
+70,", , fe529-a, , , , , shell fabric at front body, back body
+facing fabric at rolled hem",0
+71,", , sck-757s, , , , , shell fabric at face mask",0
+72,", , tba-use available #5 coil open end, 1 slider for proto, , , , , ",0
+73,", , tba-use available #3 coil closed end for proto, , , , , ",0
+74,", , tba-use available #3 coil closed end for proto, , , , , ",0
+75,", , 142-01951-000013 , , , , , flexible zipper puller",0
+76,", , pca224, , , , , cordlock",0
+77,", , 10mm grosgrain ribbon, , , , , webbing",0
+78,", , p481s001, , , , , rubber puller ",0
+79,", , 1034213, , , , , custom braid 2.2mm",0
+80,", , 5mm eyelet, , , , , 5mm logo eyelet",0
+81,", , 3/4"" foldable lycra, , , , , binding",0
+82,", , gramax thread, , , , , normal flatlock",0
+83,", , gramax thread, , , , , normal flatlock",0
+84,", , dp-634, , , , , direct print (matte quality)",0
+85,", , sb-dp-804, , , , , direct print (matte quality)",0
+86,", , durawelt overlays, , , , , 1/4"" durawelt overlays",0
+87,", , durawelt overlays, , , , , 1/4"" durawelt overlays",0
+88,", , m-size-20, , , , , m's main interior label           ",1
+89,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+90,", , ccl-001, , , , , care content labels",1
+91,", , po label, , , , , po label- for bulk only!",1
+92,", , m-ht-lay, , , , , m's layering hangtag         ",0
+93,", , hangtag chain, , , , , chain for hangtag",0
+94,", , fit-ht-gen, , , , , general fit insert",0
+95,", , fit-ht-athl, , , , , athletic fit hangtag",0
+96,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+97,", , dryo-ht-wr-2, , , , , dryozone dwr hangtag",0
+98,", , #9068 powerdry, , , , , shell fabric at collar, front body, back body, sleeves, windflap
+facing fabric at interior collar",0
+99,", , sck-757s, , , , , shell fabric at chest pocket",0
+100,", , l1025 sw, , , , , non woven interlining",0
+101,", , cifol-39 dsbyg (h3), , , , , #3 coil, open end, left insert, dsbyg slider ",0
+102,", , chc-36 dadr2a (e), , , , , #3 invisible coil, closed end, dadr2a ",0
+103,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider ",0
+104,", , 3/4"" foldable lycra    , , , , , binding",0
+105,", , ext-tape-10, , , , , reflective tape",0
+106,", , coverstitch, , , , , 4 needle coverstitching",0
+107,", , tba, , , , , tba",0
+108,", , can you test which type works best with the polartec fabric such as print, high density print etc?, , , , , tba",0
+109,", , phtw-15, , , , , polartec heat transfer",0
+110,", , m-int-20, , , , , main interior label",1
+111,", , 8mm grosgrain locker loop, , , , , grosgrain",0
+112,", , ccl-152, , , , , care content labels",1
+113,", , po label, , , , , po label- for bulk only!",1
+114,", , m-ht-lay, , , , , m's layering hangtag         ",0
+115,", , hangtag chain, , , , , chain for hangtag",0
+116,", , fit-ht-gen, , , , , general fit hang tag",0
+117,", , fit-ht-ath, , , , , athletic fit hangtag       ",0
+118,", , ppg-15, , , , , polartec powergrid hangtag",0
+119,", , porptec-15, , , , , polartec polygeine hangtag",0
+120,", , meln135, , , , , shell fabric at collar, front body, back body, sleeves, windflap
+facing fabric at interior collar,  rolled hem, rolled cuffs,",0
+121,", , l1025 sw, , , , , non woven interlining",0
+122,", , cifol-56 da8blh1 (e)           , , , , , #5 coil, open end, left insert, da8blh1 slider ",0
+123,", , cfc-36 dablh (e)         , , , , , #3 coil, closed end, dablh slider ",0
+124,", , zp-561/5    , , , , , pop in puller- #5       ",0
+125,", , zp-562/3    , , , , , pop in puller- #3        ",0
+126,", , pca224, , , , , cordlock",0
+127,", , 10mm grosgrain ribbon, , , , , webbing",0
+128,", , p481s001, , , , , rubber puller ",0
+129,", , 1034213, , , , , custom braid 2.2mm",0
+130,", , 5mm eyelet, , , , , 5mm logo eyelet",0
+131,", , 3/4"" foldable lycra, , , , , binding",0
+132,", , gramax thread, , , , , normal flatlock",0
+133,", , sb-dp-804, , , , , direct print (matte quality)",0
+134,", , ats, , , , , ats (matte quality)",0
+135,", , m-size-20, , , , , m's main interior label           ",1
+136,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+137,", , ccl-001, , , , , care content labels",1
+138,", , po label, , , , , po label- for bulk only!",1
+139,", , m-ht-lay, , , , , m's layering hangtag         ",0
+140,", , hangtag chain, , , , , chain for hangtag",0
+141,", , fit-ht-gen, , , , , general fit insert",0
+142,", , fit-ht-athl, , , , , athletic fit hangtag",0
+143,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+144,", , dryo-ht-wr-2, , , , , dryozone dwr hangtag",0
+145,", , lm792 2.5l, , , , , shell fabric at side hood panels, front collar, sleeves, front and back body, outer cuff,  self fabric binding (where needed) and binding at cf zipper tape edge, windflap, back hood tunnel",0
+146,", , sotl085-pu01, , , , , shell fabric at side hood panels, front collar, sleeves, front and back body, outer cuff,  self fabric binding (where needed) and binding at cf zipper tape edge, windflap, back hood tunnel",0
+147,", , lm792 2.5l, , , , , shell fabric at middle hood panel, side seam panels",0
+148,", , sotl085-pu01, , , , , shell fabric at middle hood panel, side seam panels",0
+149,", , sck-757s, , , , , inner knit cuffs",0
+150,", , l1025 sw, , , , , non woven interlining",0
+151,", , ym11-3527, , , , , 1 layer stretch mesh",0
+152,", , cifor-39 dsbyg (h3), , , , , #3 coil, open end, right insert, dsbyg slider ",0
+153,", , chc-36 dadr2a e  , , , , , #3 invisible coil, closed end, dadr2a slider",0
+154,", , tba, , , , , reflective webbing",0
+155,", , 1/4"" elastic, , , , , 1/4"" elastic",0
+156,", , 1"" elastic, , , , , 1"" elastic",0
+157,", , pca224, , , , , cordlock",0
+158,", , 10mm grosgrain ribbon, , , , , grosgrain ribbon           ",0
+159,", , 2mm shockcord, , , , , custom braid",0
+160,", , 7mm thread eyelet, , , , , thread eyelet",0
+161,", , thad01p10gbk10, , , , , 10mm reflective perf tape",0
+162,", , rht-004, , , , , reflective heat transfer",0
+163,", , rht-009, , , , , reflective heat transfer",0
+164,", , laser cut holes, , , , , laser cut holes",0
+165,", , w_t43_bd, , , , , heat transfer main interior label w/size/country",0
+166,", , sco-lb-adrs    , , , , , address/rn & ca #s           ",0
+167,", , 8mm grosgrain , , , , , grosgrain",0
+168,", , ccl-094, , , , , care content labels",1
+169,", , ccl-001, , , , , care content labels",1
+170,", , po label, , , , , po label- for bulk only!",1
+171,", , 4560, , , , , collar, chest, sleeves, back yoke, back body",0
+172,", , sck-757s, , , , , cuffs, hem collar facing",0
+173,", , gramax thread, , , , , normal flatlock",0
+174,", , dp-634, , , , , direct matte print",0
+175,", , dp-755, , , , , direct matte print",0
+176,", , ats, , , , , ats",0
+177,", , w-int-20, , , , , w's main interior label           ",1
+178,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+179,", , sco-41    , , , , , country of origin           ",0
+180,", , tba, , , , , care content labels",1
+181,", , ccl-ht-lb, , , , , heat transfer washing instruction label",0
+182,", , sco-lb-can-, , , , , customs label",1
+183,", , po label, , , , , po label- for bulk only!",1
+184,", , w-ht-lay, , , , , w's layering hangtag         ",0
+185,", , hangtag pin, , , , , pin for hangtags",0
+186,", , fit-ht-gen, , , , , general fit insert",0
+187,", , fit-ht-athl, , , , , athletic fit hangtag",0
+188,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+189,", , mapp    , , , , , mapp hangtag        ",0
+190,", , sck-757s, , , , , shell fabric at collar, upper sleeves, upper chest, upper back, lower front body, lower back body, windflap at collar, zipper tape finish, inner placket binding",0
+191,", , sck-757s, , , , , shell fabric at underarms, lower sleeves, middle front body, middle back body",0
+192,", , st967 double weave, bonded overlay at lower right pocket, , , , lower right pocket",0
 193,", , cfc-39 dsbsos02a (h3)       , #3 coil, closed end, dsbsos02a slider, , , , cf zipper",0
 194,", , cfc-36 dablh (e)           , #3 coil, closed end, dablh slider, , , , lower right pocket ",0
 195,", , zp-562/3    , pop in puller           , , , , lower right pocket",0
@@ -217,185 +217,185 @@ facing fabric at interior collar,  rolled hem, rolled cuffs,, , , , ",0
 206,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
 207,", , duro-ht-4s-2, duroxpand hangtag, , , , insert",0
 208,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-209,", , fe529-a, hood, collar, front body, inner sleeves, back body, cb, windflap, , , , ",0
-210,", , fe529-a, shoulders and outer sleeves, sleeve zipper garage, , , , ",0
-211,", , cifor-56 da8blh (e) , #5 coil, open end, right insert, da8blh slider , , , , cf zipper",0
-212,", , cfc-36 dablh (e), #3 coil, closed end, dablh slider, , , , sleeve pocket",0
-213,", , chc-36 dadr2a (e), #3 invisible coil, closed end, dadr2a , , , , hand pockets",0
-214,", , zp-561/5    , pop in puller- #5       , , , , cf zipper",0
-215,", , zp-562/3    , pop in puller- #3        , , , , sleeve pocket",0
-216,", , 3/4"" foldable lycra, 3/4"" foldable lycra, , , , hood, cuff, and hem",0
-217,", , gramax thread, normal flatlock, , , , hood, cf, front body, cb body, hem",0
-218,", , gramax thread, normal flatlock, , , , shoulder and sleeves",0
-219,", , dp-634, direct matte print           , , , , upper left front chest",0
-220,", , dp-755, direct matte print           , , , , lower left sleeve",0
-221,", , lc holes, laser cut holes, , , , cf collar",0
-222,", , w-int-size, w's main interior label           , , , , cb neck seam      ",1
-223,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , cb neckseam locker loop      ",0
-224,", , ccl-001, care content labels, , , , left side seam",1
-225,", , po label, po label- for bulk only!, , , , left side seam",1
-226,", , w-ht-lay, w's layering hangtag         , , , , left side       ",0
-227,", , hangtag chain, chain for hangtag, , , , left side       ",0
-228,", , fit-ht-gen, general fit insert, , , , insert",0
-229,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-230,", , dryo-ht-wr-2, dryozone dwr hangtag, , , , insert",0
-231,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-232,", , #9068 powerdry, fabric at main body front and back, collar, sleeves, windflap, , , , ",0
-233,", , please source, mesh, , , , cf zipper tape finish, windflap edge, hand pocket bags",0
-234,", , l1025 sw, non woven interlining, , , , windflap",0
-235,", , cifor-39 dsbyg (h3), #3 coil, open end, right insert, dsbyg slider, , , , cf zipper",0
-236,", , cfc-36 dablh (e), #3 coil, closed end, dablh slider , , , , hand pocket zippers",0
-237,", , zp-561/5    , pop in puller           , , , , cf zipper",0
-238,", , zp-562/3    , pop in puller           , , , , hand pockets",0
-239,", , normal flatlock stitch, flatlock stitch, , , , all seams",0
-240,", , dp-634, direct matte print, , , , left chest",0
-241,", , dp-755, direct matte print, , , , right cuff",0
-242,", , phtw-15 , polartec heat transfer , , , , right hem",0
-243,", , w-int-20, w's main interior label , , , , cb neck",1
-244,", , 8mm grosgrain webbing, webbing, , , , locker loop",0
-245,", , sco-41    , country of origin           , , , , cb neckseam      ",0
-246,", , ccl-020, care content labels, , , , left side seam",1
-247,", , po label, po label- for bulk only!, , , , left side seam",1
-248,", , w-ht-lay, w's layering hangtag         , , , , chain at left sleeve pocket",0
-249,", , hangtag chain, chain for hangtag, , , , left side       ",0
-250,", , fit-ht-gen, general fit hang tag, , , , chain at left sleeve pocket",0
-251,", , fit-ht-ath, athletic fit hangtag, , , , chain at left sleeve pocket",0
-252,", , ppg-15, polartec powergrid hangtag, , , , chain at left sleeve pocket",0
-253,", , porptec-15, polartec polygeine hangtag, , , , chain at left sleeve pocket",0
-254,", , meln135, collar, collar facing, shoulder and upper inside sleeve, back yoke, , , , ",0
-255,", , meln135, front body, outer and lower sleeves, back body, , , , ",0
-256,", , please source, mesh           , , , , lower right pocket bag",0
-257,", , fs-1175, self fabric binding, , , , cf zipper tape finish, interior seam binding at armholes only",0
-258,", , cifor-56 da8blh1 (e)           , #5 coil, open end, left insert, da8blh1 slider , , , , cf zipper",0
-259,", , chc-36 dadr2a (e), #3 invisible coil, closed end, dadr2a , , , , lower right pocket",0
-260,", , zp-561/5    , pop in puller- #5       , , , , cf zipper",0
-261,", , 3/4"" foldable lycra, 3/4"" foldable lycra, , , , cf, collar, hem, and cuff",0
-262,", , dp-634, direct matte print           , , , , left front chest",0
-263,", , dp-755, direct matte print           , , , , left cuff",0
-264,", , w-int-size, w's main interior label           , , , , cb neck seam      ",1
-265,", , 8mm grosgrain ribbon    , grosgrain ribbon           , , , , cb neckseam locker loop      ",0
-266,", , ccl-001, care content labels, , , , left side seam",1
-267,", , po label, po label- for bulk only!, , , , left side seam",1
-268,", , w-ht-lay, w's layering hangtag         , , , , left side       ",0
-269,", , hangtag chain, chain for hangtag, , , , left side       ",0
-270,", , fit-ht-gen, general fit insert, , , , insert",0
-271,", , fit-ht-athl, athletic fit hangtag, , , , top of hang tag",0
-272,", , dryo-ht-wr-2, dryozone dwr hangtag, , , , insert",0
-273,", , duro-ht-uv-2, duroshade hangtag, , , , insert",0
-274,", , sw8337s-p1 printed, shell fabric at waistband, front and back legs
-lining fabrics at  back pocket bag, fly gusset, interior waistband, , , , ",0
-275,", , ssb-150256, shell fabric at waistband, front and back legs
-lining fabrics at  back pocket bag, fly gusset, interior waistband, , , , ",0
-276,", , sw8337s-p1 printed, shell fabric at hem binding, , , , ",0
-277,", , ssb-150256, shell fabric at hem binding, , , , ",0
-278,", , sw8337s-p1 printed, shell fabric at right and left of front waistband, , , , ",0
-279,", , ssb-150256, shell fabric at right and left of front waistband, , , , ",0
-280,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , back pocket zipper",0
-281,", , please source lace , lace with clear plastic tip, , , , cf waistband",0
-282,", , metal eyelets, metal eyelets, , , , cf waistband",0
-283,", , film overlay, film overlay, , , , back pocket window frame",0
-284,", , ht-30, heat transfer, , , , front right waistband",0
-285,", , ht-31, heat transfer, , , , back right pocket on the film overlay",0
-286,", , ht -14, reflective heat transfer 1.25"", , , , left side seam near hem",0
-287,", , five12-m-int-ht-l, main interior heat transfer label, , , , interior cb waistband   ",0
-288,", , please source, perforated care content label , , , , left waistband seam  ",1
-289,", , ssb-150256, shell fabric at hood, front and back body, sleeves, hand pocket bags, , , , ",0
-290,", , sw8337s-p1 printed, shell fabric at hood, front and back body, sleeves, hand pocket bags, , , , ",0
-291,", , cifor-39 dsbyg (h3), #3 coil, open end, right insert, dsbyg slider , , , , cf zipper",0
-292,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , hand pocket zippers",0
-293,", , cfc-39 dsbyg (h3) p12 kensin n-anti p-top reverse rx39 , #3 coil, closed end, dsbyg slider, , , , hand pocket zippers",0
-294,", , please source, 1/4"" elastic, , , , cuffs, sides of hood",0
-295,", , please source shockcord, 2.5mm shockcord, , , , hood adjustment",0
-296,", , p481s001, rubber puller , , , , hem adjustment, back hood adjustment      ",0
-297,", , pca224, cordlock, , , , back of hood ",0
-298,", , 10mm grosgrain ribbon, grosgrain ribbon           , , , , anchor for pca224 cordlock at back hood",0
-299,", , thread eyelet, thread eyelet, , , , back of hood adjustment shockcord exit",0
-300,", , ht-01, heat transfer 2.25"", , , , bottom left under hand pocket",0
-301,", , ht-02, reflective heat transfer 6"" strip, , , , back bottom center",0
-302,", , ht-14, reflective heat transfer 1.25"", , , , right bicep",0
-303,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-304,", , five12-m-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-305,", , self fabric locker loop, self fabric locker loop use shell #1, , , , locker loop",0
-306,", , womens care label, perforated care content label , , , , left side seam",1
-307,", , mens care label , perforated care content label , , , , left side seam",1
-308,", , sck-2369s (sgb-141907), shell fabric at front body, back body, sleeves, neckband, rolled hem and cuffs, , , , ",0
-309,", , ht-24, reflective heat transfer 1"", , , , centered below back neck",0
-310,", , five12-m-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-311,", , please source, perforated care content label , , , , left side seam",1
-312,", , sck-2265 ice caf, shell fabric on full body, legs and gusset, , , , ",0
-313,", , tonal flatlock stitching, ns thread  , , , , rise, gusset, inseam, rolled hem",0
-314,", , five12-elastic-01, logo elastic 1.5"", , , , waistband",0
-315,", , ht - 14, reflective logo heat transfer, , , , 6"" up from bottom on back calf",0
-316,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb waistband   ",0
-317,", , sck 2265 ice caf, shell fabric at waistband, interior waistband, front and back legs, rolled cuffs, back pocket bag, , , , ",0
-318,", , flatlock stitching, flatlock stitching    , , , , under waistband, rise, gusset, inseam and outseam",0
-319,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , back pocket zipper",0
-320,", , please source, lace, , , , interior waistband",0
-321,", , ht-04, heat transfer, , , , front left waistband       ",0
-322,", , ht -14, reflective heat transfer, , , , back waistband",0
-323,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb waistband   ",0
-324,", , tba, perforated care content label , , , , left waistband seam  ",1
-325,", , sck 2265 ice caf, shell fabric at hood, front and back body, sleeves, collar, rolled hem and cuffs, , , , ",0
-326,", , sck 2265 ice caf, shell fabric at underarm gussets, , , , ",0
-327,", , contrast coverstitching, ns thread, , , , armhole, underarm gussets, side seams",0
-328,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , cf half zipper",0
-329,", , please source, lace, , , , hood adjustment",0
-330,", , thread eyelet, sewn thread eyelets, , , , hood adjustment",0
-331,", , ht-03, heat transfer, , , , upper cb centered",0
-332,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-333,", , self fabric locker loop, self fabric locker loop use shell #1, , , , locker loop",0
-334,", , tba, perforated care content label , , , , left side seam",1
-335,", , sck-464 ice caf ., shell fabric at waistband and interior waistband, back pocket bag, , , , ",0
-336,", , sw-8337 s caf, shell fabric and front and back legs, , , , ",0
-337,", , sw-8337 s caf, self fabric binding on hem and side seams, , , , ",0
-338,", , contrast stitching, 3 rows of single needle, , , , below waistband",0
-339,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , back pocket zipper",0
-340,", , please source, lace, , , , interior waistband",0
-341,", , ht-04, heat transfer, , , , front left waistband       ",0
-342,", , ht-14, reflective heat transfer, , , , back waistband center",0
-343,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb waistband   ",0
-344,", , tba    , perforated care content label , , , , left waistband seam  ",1
-345,", , sw -8337 s cafe, shell fabric at hood, front and back body, sleeves, hand pocket bags, , , , ",0
-346,", , sw -8337 s cafe, shell fabric at underarms, , , , ",0
-347,", , sck-464 ice caf, fabric at internal hood face sheild, , , , ",0
-348,", , sck-464 ice caf, self fabric binding at edge of face sheild, , , , ",0
-349,", , cifor-39 dsbyg (h3), #3 coil, open end, right insert, dsbyg slider , , , , cf zipper",0
-350,", , cfc-39 dsbyg (h3), #3 coil, closed end, dsbyg slider, , , , hand pocket zippers",0
-351,", , please source, 1/4"" elastic, , , , cuffs, hem, cb hood, sides of hood",0
-352,", , ht-01, heat transfer, , , , bottom left under hand pocket",0
-353,", , ht-02, reflective heat transfer, , , , back bottom center",0
-354,", , ht-14, reflective heat transfer, , , , right bicep",0
-355,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-356,", , self fabric locker loop, self fabric locker loop use shell #1, , , , locker loop",0
-357,", , tba, perforated care content label , , , , left side seam",1
-358,", , sck-2265 ice caf, shell fabric on full body, legs and gusset, , , , ",0
-359,", , tonal flatlock stitching, ns thread  , , , , rise, gusset/inseam, rolled, hem",0
-360,", , five12-elastic-01, logo elastic 1.5"", , , , waistband",0
-361,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb waistband   ",0
-362,", , tba, perforated care content label , , , , left waistband seam  ",1
-363,", , sck-464 ice caf, shell fabric at front and back body, sleeves, collar, interior collar, rolled hem and cuffs, , , , ",0
-364,", , contrast coverstitching, ns thread, , , , armholes, side seams, back seams",0
-365,", , ht-14, reflectice heat transfer, , , , upper cb centered",0
-366,", , five12-w-int-ht-l, main interior heat transfer label, , , , interior cb neck          ",0
-367,", , tba, perforated care content label , , , , left side seam",1
-368,", , 340gms 80% cotton/20% polyester sweatshirt fabric, shell fabric at hood, front body, back body, sleeves, pocket
-facing fabric at rolled facing at pocket edge, , , , ",0
-369,", , 80% cotton/20% polyester rib knit sweatshirt fabric, shell fabric at collar, cuffs, hem, , , , ",0
-370,", , 340gms 80% cotton/20% polyester sweatshirt fabric, lining, , , , interior hood",0
-371,", , please source, herringbone cotton webbing/tape, , , , interior back neckseam",0
-372,", , please source, 0.5"" flat drawcord (end is folded and stitched, no tips), , , , front hood adjustment",0
-373,", , please source, metal eyelet (opening is 0.375""), , , , front hood adjustment drawcord exit",0
-374,", , please source, interior main label, , , , interior back neck",1
-375,", , please source, care label, , , , interior left side seam",1
-376,", , please source, main hangtag, , , , tag pin inserted throught left underarm seam",0
-377,", , 340gms 80% cotton/20% polyester sweatshirt fabric, shell fabric at front body, back body, sleeves , , , , ",0
-378,", , 80% cotton/20% polyester rib knit sweatshirt fabric, shell fabric at collar, cuffs, hem , , , , ",0
-379,", , please source, herringbone cotton webbing/tape, , , , interior back neckseam",0
-380,", , please source, interior main label, , , , interior back neck",1
-381,", , please source, care label, , , , interior left side seam",1
-382,", , please source, main hangtag, , , , tag pin inserted throught left underarm seam",0
-383,", , 340gms 80% cotton/20% polyester sweatshirt fabric, shell fabric at hood, front body, back body, sleeves, pockets
-facing fabric at cf interior facing, rolled facing at pocket edge, , , , ",0
+209,", , fe529-a, , , , , hood, collar, front body, inner sleeves, back body, cb, windflap",0
+210,", , fe529-a, , , , , shoulders and outer sleeves, sleeve zipper garage",0
+211,", , cifor-56 da8blh (e) , , , , , #5 coil, open end, right insert, da8blh slider ",0
+212,", , cfc-36 dablh (e), , , , , #3 coil, closed end, dablh slider",0
+213,", , chc-36 dadr2a (e), , , , , #3 invisible coil, closed end, dadr2a ",0
+214,", , zp-561/5    , , , , , pop in puller- #5       ",0
+215,", , zp-562/3    , , , , , pop in puller- #3        ",0
+216,", , 3/4"" foldable lycra, , , , , 3/4"" foldable lycra",0
+217,", , gramax thread, , , , , normal flatlock",0
+218,", , gramax thread, , , , , normal flatlock",0
+219,", , dp-634, , , , , direct matte print           ",0
+220,", , dp-755, , , , , direct matte print           ",0
+221,", , lc holes, , , , , laser cut holes",0
+222,", , w-int-size, , , , , w's main interior label           ",1
+223,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+224,", , ccl-001, , , , , care content labels",1
+225,", , po label, , , , , po label- for bulk only!",1
+226,", , w-ht-lay, , , , , w's layering hangtag         ",0
+227,", , hangtag chain, , , , , chain for hangtag",0
+228,", , fit-ht-gen, , , , , general fit insert",0
+229,", , fit-ht-athl, , , , , athletic fit hangtag",0
+230,", , dryo-ht-wr-2, , , , , dryozone dwr hangtag",0
+231,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+232,", , #9068 powerdry, , , , , fabric at main body front and back, collar, sleeves, windflap",0
+233,", , please source, , , , , mesh",0
+234,", , l1025 sw, , , , , non woven interlining",0
+235,", , cifor-39 dsbyg (h3), , , , , #3 coil, open end, right insert, dsbyg slider",0
+236,", , cfc-36 dablh (e), , , , , #3 coil, closed end, dablh slider ",0
+237,", , zp-561/5    , , , , , pop in puller           ",0
+238,", , zp-562/3    , , , , , pop in puller           ",0
+239,", , normal flatlock stitch, , , , , flatlock stitch",0
+240,", , dp-634, , , , , direct matte print",0
+241,", , dp-755, , , , , direct matte print",0
+242,", , phtw-15 , , , , , polartec heat transfer ",0
+243,", , w-int-20, , , , , w's main interior label ",1
+244,", , 8mm grosgrain webbing, , , , , webbing",0
+245,", , sco-41    , , , , , country of origin           ",0
+246,", , ccl-020, , , , , care content labels",1
+247,", , po label, , , , , po label- for bulk only!",1
+248,", , w-ht-lay, , , , , w's layering hangtag         ",0
+249,", , hangtag chain, , , , , chain for hangtag",0
+250,", , fit-ht-gen, , , , , general fit hang tag",0
+251,", , fit-ht-ath, , , , , athletic fit hangtag",0
+252,", , ppg-15, , , , , polartec powergrid hangtag",0
+253,", , porptec-15, , , , , polartec polygeine hangtag",0
+254,", , meln135, , , , , collar, collar facing, shoulder and upper inside sleeve, back yoke",0
+255,", , meln135, , , , , front body, outer and lower sleeves, back body",0
+256,", , please source, , , , , mesh           ",0
+257,", , fs-1175, , , , , self fabric binding",0
+258,", , cifor-56 da8blh1 (e)           , , , , , #5 coil, open end, left insert, da8blh1 slider ",0
+259,", , chc-36 dadr2a (e), , , , , #3 invisible coil, closed end, dadr2a ",0
+260,", , zp-561/5    , , , , , pop in puller- #5       ",0
+261,", , 3/4"" foldable lycra, , , , , 3/4"" foldable lycra",0
+262,", , dp-634, , , , , direct matte print           ",0
+263,", , dp-755, , , , , direct matte print           ",0
+264,", , w-int-size, , , , , w's main interior label           ",1
+265,", , 8mm grosgrain ribbon    , , , , , grosgrain ribbon           ",0
+266,", , ccl-001, , , , , care content labels",1
+267,", , po label, , , , , po label- for bulk only!",1
+268,", , w-ht-lay, , , , , w's layering hangtag         ",0
+269,", , hangtag chain, , , , , chain for hangtag",0
+270,", , fit-ht-gen, , , , , general fit insert",0
+271,", , fit-ht-athl, , , , , athletic fit hangtag",0
+272,", , dryo-ht-wr-2, , , , , dryozone dwr hangtag",0
+273,", , duro-ht-uv-2, , , , , duroshade hangtag",0
+274,", , sw8337s-p1 printed, , , , , shell fabric at waistband, front and back legs
+lining fabrics at  back pocket bag, fly gusset, interior waistband",0
+275,", , ssb-150256, , , , , shell fabric at waistband, front and back legs
+lining fabrics at  back pocket bag, fly gusset, interior waistband",0
+276,", , sw8337s-p1 printed, , , , , shell fabric at hem binding",0
+277,", , ssb-150256, , , , , shell fabric at hem binding",0
+278,", , sw8337s-p1 printed, , , , , shell fabric at right and left of front waistband",0
+279,", , ssb-150256, , , , , shell fabric at right and left of front waistband",0
+280,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+281,", , please source lace , , , , , lace with clear plastic tip",0
+282,", , metal eyelets, , , , , metal eyelets",0
+283,", , film overlay, , , , , film overlay",0
+284,", , ht-30, , , , , heat transfer",0
+285,", , ht-31, , , , , heat transfer",0
+286,", , ht -14, , , , , reflective heat transfer 1.25""",0
+287,", , five12-m-int-ht-l, , , , , main interior heat transfer label",0
+288,", , please source, , , , , perforated care content label ",1
+289,", , ssb-150256, , , , , shell fabric at hood, front and back body, sleeves, hand pocket bags",0
+290,", , sw8337s-p1 printed, , , , , shell fabric at hood, front and back body, sleeves, hand pocket bags",0
+291,", , cifor-39 dsbyg (h3), , , , , #3 coil, open end, right insert, dsbyg slider ",0
+292,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+293,", , cfc-39 dsbyg (h3) p12 kensin n-anti p-top reverse rx39 , , , , , #3 coil, closed end, dsbyg slider",0
+294,", , please source, , , , , 1/4"" elastic",0
+295,", , please source shockcord, , , , , 2.5mm shockcord",0
+296,", , p481s001, , , , , rubber puller ",0
+297,", , pca224, , , , , cordlock",0
+298,", , 10mm grosgrain ribbon, , , , , grosgrain ribbon           ",0
+299,", , thread eyelet, , , , , thread eyelet",0
+300,", , ht-01, , , , , heat transfer 2.25""",0
+301,", , ht-02, , , , , reflective heat transfer 6"" strip",0
+302,", , ht-14, , , , , reflective heat transfer 1.25""",0
+303,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+304,", , five12-m-int-ht-l, , , , , main interior heat transfer label",0
+305,", , self fabric locker loop, , , , , self fabric locker loop use shell #1",0
+306,", , womens care label, , , , , perforated care content label ",1
+307,", , mens care label , , , , , perforated care content label ",1
+308,", , sck-2369s (sgb-141907), , , , , shell fabric at front body, back body, sleeves, neckband, rolled hem and cuffs",0
+309,", , ht-24, , , , , reflective heat transfer 1""",0
+310,", , five12-m-int-ht-l, , , , , main interior heat transfer label",0
+311,", , please source, , , , , perforated care content label ",1
+312,", , sck-2265 ice caf, , , , , shell fabric on full body, legs and gusset",0
+313,", , tonal flatlock stitching, , , , , ns thread  ",0
+314,", , five12-elastic-01, , , , , logo elastic 1.5""",0
+315,", , ht - 14, , , , , reflective logo heat transfer",0
+316,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+317,", , sck 2265 ice caf, , , , , shell fabric at waistband, interior waistband, front and back legs, rolled cuffs, back pocket bag",0
+318,", , flatlock stitching, , , , , flatlock stitching    ",0
+319,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+320,", , please source, , , , , lace",0
+321,", , ht-04, , , , , heat transfer",0
+322,", , ht -14, , , , , reflective heat transfer",0
+323,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+324,", , tba, , , , , perforated care content label ",1
+325,", , sck 2265 ice caf, , , , , shell fabric at hood, front and back body, sleeves, collar, rolled hem and cuffs",0
+326,", , sck 2265 ice caf, , , , , shell fabric at underarm gussets",0
+327,", , contrast coverstitching, , , , , ns thread",0
+328,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+329,", , please source, , , , , lace",0
+330,", , thread eyelet, , , , , sewn thread eyelets",0
+331,", , ht-03, , , , , heat transfer",0
+332,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+333,", , self fabric locker loop, , , , , self fabric locker loop use shell #1",0
+334,", , tba, , , , , perforated care content label ",1
+335,", , sck-464 ice caf ., , , , , shell fabric at waistband and interior waistband, back pocket bag",0
+336,", , sw-8337 s caf, , , , , shell fabric and front and back legs",0
+337,", , sw-8337 s caf, , , , , self fabric binding on hem and side seams",0
+338,", , contrast stitching, , , , , 3 rows of single needle",0
+339,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+340,", , please source, , , , , lace",0
+341,", , ht-04, , , , , heat transfer",0
+342,", , ht-14, , , , , reflective heat transfer",0
+343,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+344,", , tba    , , , , , perforated care content label ",1
+345,", , sw -8337 s cafe, , , , , shell fabric at hood, front and back body, sleeves, hand pocket bags",0
+346,", , sw -8337 s cafe, , , , , shell fabric at underarms",0
+347,", , sck-464 ice caf, , , , , fabric at internal hood face sheild",0
+348,", , sck-464 ice caf, , , , , self fabric binding at edge of face sheild",0
+349,", , cifor-39 dsbyg (h3), , , , , #3 coil, open end, right insert, dsbyg slider ",0
+350,", , cfc-39 dsbyg (h3), , , , , #3 coil, closed end, dsbyg slider",0
+351,", , please source, , , , , 1/4"" elastic",0
+352,", , ht-01, , , , , heat transfer",0
+353,", , ht-02, , , , , reflective heat transfer",0
+354,", , ht-14, , , , , reflective heat transfer",0
+355,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+356,", , self fabric locker loop, , , , , self fabric locker loop use shell #1",0
+357,", , tba, , , , , perforated care content label ",1
+358,", , sck-2265 ice caf, , , , , shell fabric on full body, legs and gusset",0
+359,", , tonal flatlock stitching, , , , , ns thread  ",0
+360,", , five12-elastic-01, , , , , logo elastic 1.5""",0
+361,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+362,", , tba, , , , , perforated care content label ",1
+363,", , sck-464 ice caf, , , , , shell fabric at front and back body, sleeves, collar, interior collar, rolled hem and cuffs",0
+364,", , contrast coverstitching, , , , , ns thread",0
+365,", , ht-14, , , , , reflectice heat transfer",0
+366,", , five12-w-int-ht-l, , , , , main interior heat transfer label",0
+367,", , tba, , , , , perforated care content label ",1
+368,", , 340gms 80% cotton/20% polyester sweatshirt fabric, , , , , shell fabric at hood, front body, back body, sleeves, pocket
+facing fabric at rolled facing at pocket edge",0
+369,", , 80% cotton/20% polyester rib knit sweatshirt fabric, , , , , shell fabric at collar, cuffs, hem",0
+370,", , 340gms 80% cotton/20% polyester sweatshirt fabric, , , , , lining",0
+371,", , please source, , , , , herringbone cotton webbing/tape",0
+372,", , please source, , , , , 0.5"" flat drawcord (end is folded and stitched, no tips)",0
+373,", , please source, , , , , metal eyelet (opening is 0.375"")",0
+374,", , please source, , , , , interior main label",1
+375,", , please source, , , , , care label",1
+376,", , please source, , , , , main hangtag",0
+377,", , 340gms 80% cotton/20% polyester sweatshirt fabric, , , , , shell fabric at front body, back body, sleeves ",0
+378,", , 80% cotton/20% polyester rib knit sweatshirt fabric, , , , , shell fabric at collar, cuffs, hem ",0
+379,", , please source, , , , , herringbone cotton webbing/tape",0
+380,", , please source, , , , , interior main label",1
+381,", , please source, , , , , care label",1
+382,", , please source, , , , , main hangtag",0
+383,", , 340gms 80% cotton/20% polyester sweatshirt fabric, , , , , shell fabric at hood, front body, back body, sleeves, pockets
+facing fabric at cf interior facing, rolled facing at pocket edge",0
 384,", , 80% cotton/20% polyester rib knit sweatshirt fabric, shell fabric at collar, cuffs, hem, , , , ",0
 385,", , 340gms 80% cotton/20% polyester sweatshirt fabric, lining, , , , interior hood",0
 386,", , vsol-56 da8lh1 (e), #5 vislon, open end left insert, da8lh1, , , , cf zipper",0
@@ -467,8 +467,8 @@ spandex, plain weave, 56g/m2, cire finish, dwr finish, , , , shell a - color 2. 
 449,", , body fabric, 100% polyester, , , , body",0
 450,", , panel detail, 100% polyester, , , , cuff, hem, back side panels",0
 451,", , thread, 100% cotton, , , , all over",0
-452,", , centre front zip , quality as per womens spray jacket reference sample centre front zip, , , , centre front",0
-453,", , front pocket zips, quality as per womens spray jacket reference sample centre front zip, , , , as per sketch/spec",0
+452,", , , quality as per womens spray jacket reference sample centre front zip, , , , centre front",0
+453,", , , quality as per womens spray jacket reference sample centre front zip, , , , front pocket zips",0
 454,", , drawcord , quality as per womens reference sample, , , , at waistband",0
 455,", , print 1, silver reflective print - as per artsheet, , , , right arm above cuff as per art sheet & cb hem as per art sheet",0
 456,", , print 2, thin plastisol ink- as per art sheet, , , , front left chest as per art sheet",0
@@ -3755,8 +3755,8 @@ spandex, plain weave, 56g/m2, cire finish, dwr finish, , , , shell a - color 2. 
 2884,", , body fabric, 100% polyester, , , , body",0
 2885,", , panel detail, 100% polyester, , , , cuff, hem, back side panels",0
 2886,", , thread, 100% cotton, , , , all over",0
-2887,", , centre front zip , quality as per womens spray jacket reference sample centre front zip, , , , centre front",0
-2888,", , front pocket zips, quality as per womens spray jacket reference sample centre front zip, , , , as per sketch/spec",0
+2887,", , , quality as per womens spray jacket reference sample centre front zip, , , , centre front",0
+2888,", , , quality as per womens spray jacket reference sample centre front zip, , , , front pocket zips",0
 2889,", , drawcord , quality as per womens reference sample, , , , at waistband",0
 2890,", , print 1, silver reflective print - as per artsheet, , , , right arm above cuff as per art sheet & cb hem as per art sheet",0
 2891,", , print 2, thin plastisol ink- as per art sheet, , , , front left chest as per art sheet",0
