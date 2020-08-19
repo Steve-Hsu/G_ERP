@@ -1,0 +1,16 @@
+MATERIAL_ID,0,5,8,16,27,28,30,32,34,37,40,43
+10,SHELL FABRICS,,,,,,,,,,,
+11,SW -8337 S CAFE,SINGTEX,"shell fabric at hood, front and back body, sleeves, hand pocket bags",,1,,TBA,,ocean,black,navy,ebony
+12,SW -8337 S CAFE,SINGTEX,shell fabric at underarms,,2,,TBA,,ocean,ebony,navy,ebony
+13,SCK-464 ICE CAFÉ,SINGTEX,fabric at internal hood face sheild,,3,,TBA,,ocean,ebony,ocean,ocean
+14,SCK-464 ICE CAFÉ,SINGTEX,self fabric binding at edge of face sheild,,4,,TBA,,ocean,ebony,ocean,ocean
+16,ZIPPERS,,,,,,,,,,,
+17,CIFOR-39 DSBYG (H3),YKK,"#3 coil, open end, right insert, DSBYG slider ",cf zipper,,1,,0,ocean,black,navy,ocean
+18,CFC-39 DSBYG (H3),YKK,"#3 coil, closed end, DSBYG slider",hand pocket zippers,,2,,0,ocean,neon lime,ocean,ocean
+21,PLEASE SOURCE,TBA,"1/4"" elastic","cuffs, hem, CB hood, sides of hood",,,TBA,yard,stock white,stock white,stock white,stock white
+25,HT-01,TBA,heat transfer,bottom left under hand pocket,,1,TBA,,ebony,reflective silver,ocean,ocean
+26,HT-02,TBA,reflective heat transfer,back bottom center,,1,TBA,,reflective silver,reflective silver,reflective silver,reflective silver
+27,HT-14,TBA,reflective heat transfer,right bicep,,,,,reflective silver,reflective silver,reflective silver,reflective silver
+29,FIVE12-W-INT-HT-L,TBA,main interior heat transfer label,interior cb neck          ,,1,TBA,,x,x,x,x
+30,self fabric locker loop,SINGTEX,self fabric locker loop use shell #1,locker loop,,1,TBA,0,ocean,black,navy,ebony
+31,TBA,PLEASE SOURCE,perforated care content label ,left side seam,,1,TBA,,white,white,white,white

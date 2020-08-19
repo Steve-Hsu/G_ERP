@@ -1,0 +1,48 @@
+,,MATERIAL_ID,CATEGORY,unit,item,,position,position,color_way,color_way,color_way,color_way,color_way,color_way
+0,0.0,3.0,insulation,,,Insulation:,60gm insulation at main body hood sleeves,,Collection: Glacier Series,,,,,
+1,1.0,9.0,interfacing,,MATERIAL/TRIM,DESCRIPTION,LOCATION,QTY,TBD,TBD,TBD,TBD,TBD,TBD
+2,2.0,10.0,fabric,,,,,FABRICS & LININGS,,,,,,
+3,3.0,11.0,fabric,A,Shell Fabric,SOND035-2L1-H 100%Nylon 10k/8k DWR+BREATHABLE COATING (supplied by Li Peng),"Main body, hood, sleeves, pocket flaps, sleeve tabs, back neck self fabric patch",,TBD,TBD,TBD,,,
+4,4.0,12.0,fabric,B,Shell Fabric,SOTP069-C1-H 100% Polyester 15K/10K DWR+BREATHABLE COATING (supplied by SOLIS),"Main body, hood, sleeves, pocket flaps, sleeve tabs, back neck self fabric patch",,,,,TBD,TBD,TBD
+5,5.0,13.0,interfacing,C,Lining,210 T Taffeta (Supplied by Li Peng),"Powder skirt, pocket bag",,TBD,TBD,TBD,TBD,TBD,TBD
+6,6.0,14.0,interfacing,D,Other , Velvety Tricot - item# BB47-6B,"Inside lining, comfort chin guard, inner front pocket bag panel",,TBD,TBD,TBD,TBD,TBD,TBD
+7,7.0,15.0,interfacing,E,Other,100% poly MESH - item# CB-46-2B,"vents, large internal goggle pocket",,TBD,TBD,TBD,TBD,TBD,TBD
+8,8.0,16.0,interfacing,F,Other,nylon/elastic lycra - item# DC-9A,"powder skirt, hood drawcord tunnel",,TBD,TBD,TBD,TBD,TBD,TBD
+9,9.0,17.0,other,G,Other,Lycra binding tape,Internal mesh pocket opening,,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+10,10.0,18.0,other,H,Other,Gripper elastic,powder skirt,,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+11,11.0,19.0,interfacing,I,Other,Clear PVC,Pass pocket window opening at outside of powder skirt,,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR
+12,12.0,20.0,insulation,J,Other,"1x1 rib knit,good quality Arcylic/Spandex",Cuffs,,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+13,13.0,21.0,insulation,K,Insulation,60gm Insulation,"Main body, hood, sleeves",,WHITE,WHITE,WHITE,WHITE,WHITE,WHITE
+14,14.0,22.0,interfacing,L,Pellon,lightweight interfacing (item# TBD),"Inner storm flap, powder skirt closure flaps",,WHITE,WHITE,WHITE,WHITE,WHITE,WHITE
+15,15.0,23.0,interfacing,M,Pellon,heavyweight interfacing (item# TBD),hood brim,,WHITE,WHITE,WHITE,WHITE,WHITE,WHITE
+16,16.0,25.0,zipper,,,,,ZIPPERS,,,,,,
+17,17.0,26.0,zipper,AA,Zipper,"YKK No.5 METALUX VISLON zipper,auto-lock sliders DA8LH, Right hand puller,Left hand insert ",(1)C.F.,1,TBD,TBD,TBD,TBD,TBD,TBD
+18,18.0,27.0,zipper,BB,Zipper,YKK No.5 NYLON COIL  zipper.  Auto-lock puller DA8LH1. (ZIP CLOSES DOWN), (2) Hand pockets,2,TBD,TBD,TBD,TBD,TBD,TBD
+19,19.0,28.0,zipper,CC,Zipper,"YKK  No.5 nylon coil zippers,1-way hidden chain.  Auto-lock slider DA8LH1 (ZIPPERS CLOSE DOWN)", (2)vents,2,TBD,TBD,TBD,TBD,TBD,TBD
+20,20.0,29.0,zipper,DD,Zipper,"YKK No.5 nylon coil, hidden chain zipper, auto-lock slider DA8LH",Removable Powder Skirt,1,TBD,TBD,TBD,TBD,TBD,TBD
+21,21.0,30.0,zipper,EE,Zipper,"YKK  No.5 nylon coil zippers hidden chain ,auto-lock slider DA8LH1 (zip closes UP)",(1) Napoleon pocket ,1,TBD,TBD,TBD,TBD,TBD,TBD
+22,22.0,31.0,interfacing,FF,Zipper Pull,ABZP_01 Utility cord zipper pullers with tied end  (supplied by Wei Rong),"(2) pockets, (1) C.F. (2) vents, (1)Napoleon pocket",6,TBD,TBD,TBD,TBD,TBD,TBD
+23,23.0,34.0,interfacing,GG,Velcro,hook and loop; L: 2.5cm x H: 1cm,(4)Pocket Flaps,4,TBD,TBD,TBD,TBD,TBD,TBD
+24,24.0,35.0,interfacing,HH,Velcro,hook and loop,pass pocket at powder skirt,1,TBD,TBD,TBD,TBD,TBD,TBD
+25,25.0,36.0,interfacing,II,Hand Pulls,Round Barrel stopper - K-018 , (2) hood,2,TBD,TBD,TBD,TBD,TBD,TBD
+26,26.0,37.0,other,JJ,Webbing,"Flat Webbing Tape, 8mm", key clip attachment at inside wearer's right pocket,1,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+27,27.0,38.0,other,KK,Webbing,flat webbing tape 2cm width,pass pocket pull tab,1,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+28,28.0,39.0,interfacing,LL,Hardware,"metal eyelets, 12mm  (incl. washers)",(4) at hood opening,4,TBD,TBD,TBD,TBD,TBD,TBD
+29,29.0,40.0,interfacing,MM,Hardware,"Snap Buttons ABSNP_01 (sets), 17mm  (incl. washers)","(6) Storm flap (1) snap tabs at inside bottom hem,  (2) at powder skirt",9,TBD,TBD,TBD,TBD,TBD,TBD
+30,30.0,41.0,interfacing,NN,Hardware,"Snap Buttons ABSNP_01 (MALE SIDE ONLY), 17mm  (incl. washers)",(2) powder skirt,2,TBD,TBD,TBD,TBD,TBD,TBD
+31,31.0,42.0,interfacing,OO,Hardware,Sewing Buttons 17mm  ,"(1) Storm flap,(2)Pocket flaps,(4) cuffs, (2) plastic bag attached to W/C Label  ",9,TBD,TBD,TBD,TBD,TBD,TBD
+32,32.0,43.0,interfacing,PP, Drawcord,Flat Shoelace drawcord WITH Black Oxidize finish METAL ENDS  w: 1 cm ,Hood Opening,1,TBD,TBD,TBD,TBD,TBD,TBD
+33,33.0,44.0,other,QQ,Key Clip,plastic key clip attched with webbing loop,Inside wearers right pocket.,1,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+34,34.0,45.0,other,RR,Plastic Bag,Small plasitc bag,sewn to W/C Label,1,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR
+35,35.0,46.0,label,SS,Main Label,TBD,"inside c.b. neck, see Q/A for details",1,TBD,TBD,TBD,TBD,TBD,TBD
+36,36.0,47.0,label,TT,Size Label,TBD,sewn in and centered below main label,1,TBD,TBD,TBD,TBD,TBD,TBD
+37,37.0,48.0,label,UU,W/C Label,Satin Label with print,"wearer's left side seam, 10 cm up from bottom edge",1,BLACK,BLACK,BLACK,BLACK,BLACK,BLACK
+38,38.0,49.0,interfacing,VV,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back neck seam,1,TBD,TBD,TBD,TBD,TBD,TBD
+39,39.0,50.0,interfacing,WW,Branding,TBD,TBD,1,TBD,TBD,TBD,TBD,TBD,TBD
+40,40.0,53.0,interfacing,XX,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,TBD,TBD
+41,41.0,54.0,interfacing,YY,HANGTAG,TBD,TBD,1,TBD,TBD,TBD,TBD,TBD,TBD
+42,42.0,55.0,other,ZZ,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR,CLEAR
+43,43.0,56.0,interfacing,AAA,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1,TBD,TBD,TBD,TBD,TBD,TBD
+44,44.0,57.0,interfacing,BBB,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1,TBD,TBD,TBD,TBD,TBD,TBD
+45,45.0,62.0,zipper,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, vents zips close DOWN",,,,,,,,
+46,46.0,64.0,other,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,,,

@@ -1,0 +1,47 @@
+,,MATERIAL_ID,CATEGORY,,,,,position,,,color_way,color_way,color_way,color_way,color_way
+0,0.0,11.0,fabric,,3 Layer Main Material stretch,SONE 108-3L04-D,SOLIS,"front part at thigh of pant going over to back part, waistband , beltloops, flaps for waistband adjustment, beltloop in CB is with hightlight tape, pocket bags(A)",,,scarlet red 19-1760,aurora  12-0642 TCX,dress blue 19-4024 TCX,black,black
+1,1.0,14.0,other,,Leg protection ,TEX#1651 ,"TEXLAND&NEXKO CO., LTD.","inside legs, for shape keep to design sketch",,,black,black,black,black,black
+2,2.0,15.0,other,,lycra material,SPANDEX FULLDULL TWOWAY (280G),DONG HWA IND CO.LTD,little insert on top end of powder skirt,,,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX
+3,3.0,16.0,fabric,,brushed lining,"BENBUG 175G (75 Bonberg, 175g brushed) ",Woojutextile,inside waistband on back part only,,,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX,iron gate 19-3910 TCX
+4,4.0,19.0,other,1,seam tape for 3 Layer,S30908-BLK921F131,Solis,all seams,,,light grey,light grey,light grey,light grey,light grey
+5,5.0,21.0,other,,VELCRO,,,,,,,,,,
+6,6.0,22.0,other,2,loops,20M/M,DG DONG DAE - KIDO,"waistband adjustment, shape see design sketch",2.0,,black,black,black,black,black
+7,7.0,23.0,other,3,hooks,20M/M,DG DONG DAE - KIDO,"waistband adjustment, shape see design sketch",2.0,,black,black,black,black,black
+8,8.0,25.0,other,,LOGO,,,,,,,,,,
+9,9.0,26.0,other,4,Tab Logo,"H-LA 013 version up, Head Logo lasercut",Clotex,front part at left thigh along powerseam,1.0,"0,115$",Version B: Hipster C-407                      silver- Print black,Version B: Hipster C-407                      silver- Print black,Version B: Hipster C-407                      silver- Print black,Version B: Hipster C-407                       silver- Print black,Version B: Hipster C-407                       silver- Print black
+10,10.0,27.0,insulation,5,Rivet,H-MP 011 DB 0692-0,Dragon Times,"front part, work with plastic washer behind",1.0,"0,10$",gloss silver DB 0692-0,gloss silver DB 0692-0,gloss silver DB 0692-0,gloss silver DB 0692-0,gloss silver DB 0692-0
+11,11.0,28.0,insulation,6,Press button WISHBONE,H-MP 014 DB 0717,Dragon Times,center front closure,2.0,"0,18$",gloss silver DB-0717,gloss silver DB-0717,gloss silver DB-0717,gloss silver DB-0717,gloss silver DB-0717
+12,12.0,29.0,interfacing,7,press button PRESS WISHBONE,PL WASHER FOR HEAD,DONG GWANG SA - KIDO,center front closure under,2.0,,white,white,white,white,white
+13,13.0,31.0,label,,LABEL,,,,,,,,,,
+14,14.0,32.0,other,8,HEAD Neck Label COMPACT WOVEN LOOP  -black,H-AW 115,Avery Dennison,"inside pants, centre back waist band",1.0,,black,black,black,black,black
+15,15.0,33.0,label,9,care and content label,H- AW 131,Clotex,below  size label H-AW 115,1.0,,white,white,white,white,white
+16,16.0,35.0,zipper,,ZIPPER,,,,,,,,,,
+17,17.0,36.0,zipper,10,"coil reversed #5 O/E, AUTO LOCK",,YKK,front zipper,1.0,,scarlet 19-1760 TCX YKK 519,yellow YKK 504,dress blue YKK 960,black YKK580,black YKK580
+18,18.0,37.0,zipper,11,"Slider, DAB",DAB,YKK,front zipper,1.0,,scarlet 19-1760 TCX YKK 519,yellow YKK 504,dress blue YKK 960,black YKK580,black YKK580
+19,19.0,38.0,zipper,,#3 concealed zip ,,YKK,1x inside pocket,1.0,,scarlet 19-1760 YKK 166,yellow YKK 504,dress blue YKK 160,black YKK580,black YKK580
+20,20.0,39.0,zipper,,Slider DACR-S,DACR-S,YKK,1x inside pocket,2.0,,scarlet 19-1760 YKK 166,yellow YKK 504,dress blue YKK 160,black YKK580,black YKK580
+21,21.0,40.0,zipper,12,#3 coil reverse,,YKK,2x  front pockets,2.0,,scarlet 19-1760 TCX YKK 519,yellow YKK 504,dress blue YKK 960,black YKK580,black YKK580
+22,22.0,41.0,zipper,13,Slider DAV3LH,DAV3LH,YKK,2x  front pockets,2.0,,scarlet 19-1760 TCX YKK 519,yellow YKK 504,dress blue YKK 960,black YKK580,black YKK580
+23,23.0,42.0,zipper,14,#3 coil reverse,,YKK,"2x  ventilation zips, ",2.0,,dress blue YKK 960,yellow YKK 504,dress blue YKK 960,yellow YKK 504,black YKK580
+24,24.0,43.0,zipper,15,Slider DAV3LH,DAV3LH,YKK,"2x  ventilation zips, ",2.0,,dress blue YKK 960,yellow YKK 504,dress blue YKK 960,yellow YKK 504,black YKK580
+25,25.0,46.0,insulation,16,bartacks,"silver thread , 1cm",KIDO,"on each zipper ending, ",,,silver C-407,silver C-407,silver C-407,silver C-407,silver C-407
+26,26.0,47.0,other,17,bartacks,dtm thread,KIDO,on each belt loop,,,dtm,dtm,dtm,dtm,dtm
+27,27.0,49.0,zipper,,ZIP PULLER,,,,,,,,,,
+28,28.0,50.0,other,18,Head Zipper Puller with loop,H-ZP007 DF 0752-0,Dragon Times,2x hand pockets,2.0,,gloss silver DB 0752-0,gloss silver DB 0752-0,gloss silver DB 0752-0,gloss silver DB 0752-0,gloss silver DB 0752-0
+29,29.0,51.0,other,19,Rope Puller with loop,H-EL 025,Dragon Times,2x ventilation,2.0,,black,black,black,black,black
+30,30.0,54.0,other,general,,,,,,,,,,,
+31,31.0,55.0,other,20,SILICON ELASTIC TAPE  Ã¢ÂÂHEADÃ¢ÂÂ 25mm,H-EL 004,Guo Zheng Webbing Co Ltd,snow skirt at leg openings,,,black,black,black,black,black
+32,32.0,56.0,other,21,inside  elastic tape,TEBDM4001,DG.IN DAL - KIDO,inside back waistband,,,white,white,white,white,white
+33,33.0,57.0,interfacing,22,hotmelt/welding film,HOT MELT FILM (AM-120S),HIMEL - KIDO,"belt loop, waist adjustment flap, hem, fly",,,,,,,
+34,34.0,59.0,other,,PACKAGING,,,,,,,,,,
+35,35.0,60.0,other,23,polybag with HEAD print,,VIETNAM.NHAT LOI,size matching garment - follow packing instruction,1.0,, -- , -- , -- , -- , -- 
+36,36.0,61.0,other,24,barcode sticker,,VN.COSMO,attach on polybag - follow packing instruction,1.0,, -- , -- , -- , -- , -- 
+37,37.0,62.0,other,25,barcode sticker,,VN.COSMO,attach on carton - follow packing instruction,,,,,,,
+38,38.0,63.0,zipper,,"plastic hanger "" HEAD""","H-PA 005 
+(ELL45CS with bar )",Mainetti HK,,1.0,,semi clear,semi clear,semi clear,semi clear,semi clear
+39,39.0,65.0,other,,HANG TAGS,,,,,,,,,,
+40,40.0,66.0,other,26,MAIN HANG-TAG HEAD 360,H-PA 008,Avery Dennsion,attach hang-tag on left front pocket,1.0,, -- , -- , -- , -- , -- 
+41,41.0,67.0,other,27,HEAD  360  TAG inlay ,H-PA 009,Avery Dennsion,inlay inside main hang-tag,1.0,, -- , -- , -- , -- , -- 
+42,42.0,68.0,other,28,CORD FOR HANG TAG,HE HTCO-001,DG.ME QI,to attach hang-tag,1.0,, -- , -- , -- , -- , -- 
+43,43.0,69.0,other,29,barcode sticker,,VN.COSMO,attach on hang-tag - follow packing instruction,1.0,, -- , -- , -- , -- , -- 
+44,44.0,70.0,zipper,30,YKK general hang-tag,,YKK,behind generel hang-tag,1.0,, -- , -- , -- , -- , -- 

@@ -1,0 +1,10 @@
+,MATERIAL_ID,CATEGORY,0,5,8,16,27,28,32,34,37,40,43
+0,10,fabric,SHELL FABRICS,,,,,,,,,,
+1,11,fabric,TBA,TBA,shell fabric at front and back main body,,1.0,,,Red,black,ocean,ebony
+2,12,other,TBA,TBA,shell fabric at underbust band,,2.0,,,Ocean,black,ocean,ocean
+3,13,fabric,TBA,TBA,shell fabric at self fabric binding and straps,,3.0,,,Ocean,ebony,neon lime,ocean
+4,15,fabric,LINING FABRICS,,,,,,,,,,
+5,16,fabric,TBA,TBA,"double lining at front chest, single lining at back",lining at interior front and back body,,,,Ocean,ebony,ocean,ocean
+6,20,label,HT-03,TBA,heat transfer,center back,,1.0,0.0,ocean,ebony,neon lime,ocean
+7,23,label,FIVE12-W-INT-HT-L,TBA,main interior heat transfer label,interior cb above underbust band  ,,1.0,0.0,x,x,x,x
+8,24,label,TBA,PLEASE SOURCE,perforated care content label ,left waistband seam  ,,1.0,0.0,white,white,white,white

@@ -1,0 +1,13 @@
+,,MATERIAL_ID,item,item,,position,position,,,unit,,unit,color_way,unit,unit,position
+0,0.0,10.0,fabric,SHELL FABRICS,,,,,,,,,,,,
+1,1.0,11.0,insulation,SCK 2265 ICE CAFÃÂ,TBA,"shell fabric at hood, front and back body, sleeves, collar, rolled hem and cuffs",,1.0,,TBA,,ocean,black,neon lime,navy,added hood 3/16/2015
+2,2.0,12.0,fabric,SCK 2265 ICE CAFÃÂ,TBA,shell fabric at underarm gussets,,2.0,,TBA,,ocean,black,neon lime,navy,
+3,3.0,15.0,other,contrast coverstitching,NS THREAD,NS thread,"armhole, underarm gussets, side seams",,,,,navy,black,ebony,navy,
+4,4.0,17.0,zipper,ZIPPERS,,,,,,,,,,,,
+5,5.0,18.0,zipper,CFC-39 DSBYG (H3),YKK,"#3 coil, closed end, DSBYG slider",cf half zipper,,1.0,,0.0,navy,ebony,neon lime,orange,deleted 3/16/2015
+6,6.0,21.0,interfacing,PLEASE SOURCE,TBA,lace,hood adjustment,,,TBA,,navy,dark grey,dark grey,orange  ,added 3/16/2015
+7,7.0,22.0,other,thread eyelet,COATS,sewn thread eyelets,hood adjustment,,2.0,,,ocean,black,neon lime,navy,added 3/16/2015
+8,8.0,25.0,label,HT-03,TBA,heat transfer,upper CB centered,,1.0,TBA,,navy,neon lime,ebony,orange,
+9,9.0,28.0,label,FIVE12-W-INT-HT-L,TBA,main interior heat transfer label,interior cb neck          ,,1.0,TBA,,x,x,x,x,
+10,10.0,29.0,other,self fabric locker loop,TBA,self fabric locker loop use shell #1,locker loop,,1.0,TBA,0.0,ocean,black,neon lime,navy,
+11,11.0,30.0,label,TBA,PLEASE SOURCE,perforated care content label ,left side seam,,1.0,TBA,,white,white,white,white,

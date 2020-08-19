@@ -1,0 +1,19 @@
+,,MATERIAL_ID,item,spec,position,position,,,unit,spec
+0,0.0,10.0,fabric,SHELL FABRICS,,,,,,
+1,1.0,11.0,fabric,340gms 80% cotton/20% polyester sweatshirt fabric,"shell fabric at front body, back body, sleeves Ã¤Â¸Â»Ã¥Â¸Â(1):Ã¥Â¤Â§Ã¨ÂºÂ«&Ã¨Â¢ÂÃ¥Â­Â",,1.0,,use available color for proto,
+2,2.0,12.0,fabric,80% cotton/20% polyester rib knit sweatshirt fabric,"shell fabric at collar, cuffs, hem Ã§Â¾ÂÃ§Â´Â(2):Ã©Â ÂÃ¥Â­Â,Ã¨Â¢ÂÃ¥ÂÂ£,Ã¤Â¸ÂÃ¦ÂÂº",,2.0,,use available color for proto,
+3,3.0,15.0,label,please source,"herringbone cotton webbing/tape
+Ã¤ÂºÂºÃ¥Â­ÂÃ¦ÂÂÃ¦Â£ÂÃ¨Â³ÂªÃ§Â¹ÂÃ¥Â¸Â¶","interior back neckseam
+Ã¥Â¾ÂÃ©Â ÂÃ§Â¹ÂÃ¥Â¸Â¶",,0.0,use available for proto,size?
+4,4.0,18.0,fabric,coverstitching,,"triangle below CF neck
+Ã¤Â¸ÂÃ¨Â§ÂÃ¨Â£ÂÃ©Â£Â¾Ã¦ÂÂ¼Ã¥ÂÂÃ©Â ÂÃ¥ÂÂ£Ã¨ÂÂ",,,use available for proto,
+5,5.0,21.0,label,please source,"interior main label
+Ã¤Â¸Â»Ã¦Â¨Â","interior back neck
+Ã¥Â¾ÂÃ¥ÂÂ§Ã©Â ÂÃ¨ÂÂ",,,use available for proto,
+6,6.0,22.0,label,please source,"care label
+Ã¦Â´ÂÃ¦Â¨Â","interior left side seam
+Ã§Â©Â¿Ã¨ÂÂÃ¥Â·Â¦Ã¥ÂÂ§Ã¥ÂÂ´Ã©ÂÂÃ¦ÂÂ¥Ã§Â¸Â«Ã¨ÂÂ",,,use available for proto,
+7,7.0,24.0,other,HANGTAGS,,,,,,
+8,8.0,25.0,other,please source,"main hangtag
+Ã¤Â¸Â»Ã¥ÂÂÃ§ÂÂ","tag pin inserted throught left underarm seam
+Ã¥ÂÂÃ§ÂÂÃ§ÂÂ¨Ã¥Â­ÂÃ¥Â½ÂÃ¦ÂÂÃ¦ÂÂ¼Ã§Â©Â¿Ã¨ÂÂÃ¥Â·Â¦Ã¨ÂÂÃ¤Â¸ÂÃ¦ÂÂ¥Ã§Â¸Â«Ã¨ÂÂ",,,use available for proto,

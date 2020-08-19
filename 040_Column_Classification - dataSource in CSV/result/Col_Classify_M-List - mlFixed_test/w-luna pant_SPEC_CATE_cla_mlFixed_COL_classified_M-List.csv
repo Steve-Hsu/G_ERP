@@ -1,0 +1,11 @@
+,,MATERIAL_ID,item,item,unit,position,position,,,unit,unit,unit,unit,color_way
+0,0.0,10.0,fabric,SHELL FABRICS,,,,,,,,,,
+1,1.0,11.0,fabric,SCK 2265 ICE CAFÃÂ,SINGTEX,"shell fabric at waistband, interior waistband, front and back legs, rolled cuffs, back pocket bag",,1.0,,TBA,TBA,ebony,navy,black
+2,2.0,14.0,fabric,flatlock stitching,COATS,flatlock stitching    ,"under waistband, rise, gusset, inseam and outseam",,,,,ebony,navy,black
+3,3.0,16.0,zipper,ZIPPERS,,,,,,,,,,
+4,4.0,17.0,zipper,CFC-39 DSBYG (H3),YKK,"#3 coil, closed end, DSBYG slider",back pocket zipper,,1.0,,0,ocean,orange,neon lime
+5,5.0,20.0,label,PLEASE SOURCE,TBA,lace,interior waistband,,,TBA,,ocean,orange,neon lime
+6,6.0,23.0,label,HT-04,TBA,heat transfer,front left waistband       ,,1.0,TBA,,black,ocean,ebony
+7,7.0,24.0,other,HT -14,,Reflective heat transfer,back waistband,,,,,reflective grey,reflective grey,reflective grey
+8,8.0,26.0,label,FIVE12-W-INT-HT-L,TBA,main interior heat transfer label,interior cb waistband   ,,1.0,TBA,,x,x,x
+9,9.0,27.0,label,TBA,PLEASE SOURCE,perforated care content label ,left waistband seam  ,,1.0,TBA,,white,white,white

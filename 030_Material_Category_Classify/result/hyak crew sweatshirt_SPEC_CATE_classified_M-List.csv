@@ -1,0 +1,19 @@
+,MATERIAL_ID,CATEGORY,0,8,16,27,32,34,46
+0,10,fabric,SHELL FABRICS,,,,,,
+1,11,fabric,340gms 80% cotton/20% polyester sweatshirt fabric,"shell fabric at front body, back body, sleeves ä¸»å¸(1):å¤§èº«&è¢å­",,1.0,,use available color for proto,
+2,12,fabric,80% cotton/20% polyester rib knit sweatshirt fabric,"shell fabric at collar, cuffs, hem ç¾ç´(2):é å­,è¢å£,ä¸æº",,2.0,,use available color for proto,
+3,15,label,please source,"herringbone cotton webbing/tape
+äººå­ææ£è³ªç¹å¸¶","interior back neckseam
+å¾é ç¹å¸¶",,0.0,use available for proto,size?
+4,18,fabric,coverstitching,,"triangle below CF neck
+ä¸è§è£é£¾æ¼åé å£è",,,use available for proto,
+5,21,label,please source,"interior main label
+ä¸»æ¨","interior back neck
+å¾å§é è",,,use available for proto,
+6,22,label,please source,"care label
+æ´æ¨","interior left side seam
+ç©¿èå·¦å§å´éæ¥ç¸«è",,,use available for proto,
+7,24,other,HANGTAGS,,,,,,
+8,25,other,please source,"main hangtag
+ä¸»åç","tag pin inserted throught left underarm seam
+åçç¨å­å½ææ¼ç©¿èå·¦èä¸æ¥ç¸«è",,,use available for proto,

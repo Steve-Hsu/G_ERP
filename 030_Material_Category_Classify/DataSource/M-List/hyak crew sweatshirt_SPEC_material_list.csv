@@ -1,0 +1,19 @@
+MATERIAL_ID,0,8,16,27,32,34,46
+10,SHELL FABRICS,,,,,,
+11,340gms 80% cotton/20% polyester sweatshirt fabric,"shell fabric at front body, back body, sleeves 主布(1):大身&袖子",,1,,use available color for proto,
+12,80% cotton/20% polyester rib knit sweatshirt fabric,"shell fabric at collar, cuffs, hem 羅紋(2):領子,袖口,下擺",,2,,use available color for proto,
+15,please source,"herringbone cotton webbing/tape
+人字斜棉質織帶","interior back neckseam
+後領織帶",,0,use available for proto,size?
+18,coverstitching,,"triangle below CF neck
+三角裝飾於前領口處",,,use available for proto,
+21,please source,"interior main label
+主標","interior back neck
+後內領處",,,use available for proto,
+22,please source,"care label
+洗標","interior left side seam
+穿者左內側邊接縫處",,,use available for proto,
+24,HANGTAGS,,,,,,
+25,please source,"main hangtag
+主吊牌","tag pin inserted throught left underarm seam
+吊牌用子彈掛於穿者左腋下接縫處",,,use available for proto,

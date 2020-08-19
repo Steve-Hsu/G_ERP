@@ -1,0 +1,75 @@
+,,MATERIAL_ID,CATEGORY,position,,,,position,,,color_way,color_way
+0,0.0,12.0,fabric,1,3 Layer Main Material,SONE 108-3L04-D,SOLIS,"all parts except back middle part and hood middle piece, inner storm flap at center front, bonded, sleeve adjustment bonded (A)",,,SCARLET RED 19-1760 TCX,BLACK
+1,1.0,13.0,fabric,,3 Layer Main Material ,,SOLIS,middle insert on back part body and hood (B),,,DRESS BLUE 19-4024 TCX,AURORA 12-0642 TCX
+2,2.0,16.0,fabric,2,brushed lining,BENBUG 175G,WOOJU TEXTILE,"inside collar, inner storm-flap top part, inside chest pocket, side pocket bags",,,IRON GATE 19-3910 TCX,IRON GATE 19-3910 TCX
+3,3.0,17.0,fabric,3,Lining for Sleeve pocket,N/T210T NO COATING P/D CIRE,"G&H INTERNATIONAL CO.,LTD",sleeve (ski pass)pocket bag,,,IRON GATE 19-3910 TCX,IRON GATE 19-3910 TCX
+4,4.0,18.0,fabric,4,Lycra Material,SPANDEX FULLDULL TWOWAY (280G),DONG HWA IND CO.LTD,tiecord tunnel at hood,,,BLACK,BLACK
+5,5.0,20.0,other,,VELCRO,,,,,,,
+6,6.0,21.0,other,5,loops,25M/M,DG DONG DAE,"velcro cuff adjustment on sleeve, exact shape see detail sketch",2.0,,BLACK,BLACK
+7,7.0,22.0,other,6,hooks,25M/M,DG DONG DAE,"velcro cuff adjustment on sleeve, exact shape see detail sketch",2.0,,BLACK,BLACK
+8,8.0,24.0,other,,TAPES,,,,,,,
+9,9.0,25.0,fabric,7,Seam Tape ,S30908-BLK921F131,Solis,all seams,,,match to Solis fabric backing,match to Solis fabric backing
+10,10.0,26.0,interfacing,7-1,hotmelt/welding film,HOT MELT FILM (AM-120S),HIMEL - KIDO,"cuff flap, wind flap, hem, hood front, front collar facing, earphone loop patch, inner pkt, side pkt, sleeve pkt",,,,
+11,11.0,29.0,other,8,"Tab Logo, Version Up to sit on top of the seam","H LA 013, Head Logo Lasercut Hipster Tape",Clotex,"on right shoulder at back part, on left sleeve on front part above elbow",2.0,"0,11$","Version B :                  
+Silver C-407 - Print black","Version B :                  
+Silver C-407 - Print black"
+12,12.0,30.0,other,9,Rivet,H-MP 011 DB 0692-0,Dragon Times,"front right side 2,5cm to side seam and 2,5cm from bottom hem",1.0,"0,10$",gloss silver DB 0692-0,gloss silver DB 0692-0
+13,13.0,32.0,label,,LABEL,,,,,,,
+14,14.0,33.0,label,11,care and content label,H- AW 131,Clotex,left side seam,1.0,,WHITE,WHITE
+15,15.0,34.0,other,12,Compact HT  WH/OR,H-AW 123,Avery Dennison,inside jacket ,1.0,,anthrazite,anthrazite
+16,16.0,36.0,zipper,,ZIPPER,,,,,,,
+17,17.0,37.0,zipper,13,#5 YKK Coil reversed T8 shiny,T8 shiny,YKK,Center front zipper,1.0,,"SCARLET RED 19-1760 TCX 
+YKK 519","BLACK 
+YKK 580"
+18,18.0,38.0,zipper,,Slider open right side,DA8BLH,YKK,front zipper,1.0,,"SCARLET RED 19-1760 TCX 
+YKK 519","BLACK 
+YKK 580"
+19,19.0,39.0,zipper,14,#3 YKK Coil reversed ,#3 ,YKK,"2x lower front pockets, 2 ventilation zips, 1 sleeve ski pass pocket",5.0,,"SCARLET RED 19-1760 TCX 
+YKK 519","BLACK 
+YKK 580"
+20,20.0,40.0,zipper,,Slider,DAV3LH,YKK,"2x lower front pockets, 2 ventilation zips, 1 sleeve ski pass pocket",5.0,,C5 silver,C5 silver
+21,21.0,41.0,zipper,15,#3 YKK Coil reversed ,#3 CC,YKK,1x inner pocket,1.0,,"IRON GATE 19-3910 TCX 
+YKK 182","IRON GATE 19-3910 TCX 
+YKK 182"
+22,22.0,42.0,zipper,,Slider,DAV3LH,YKK,1x inner pocket,1.0,,"IRON GATE 19-3910 TCX 
+YKK 182","IRON GATE 19-3910 TCX 
+YKK 182"
+23,23.0,44.0,zipper,,ZIP PULLER,,,,,,,
+24,24.0,45.0,zipper,16,Head Zipper Puller with loop,H-ZP007 DB 0752-0,Dragon Times,"1x center front zip, 2x hand pocket zips",3.0,"0,16$",gloss silver DB 0752-0,gloss silver DB 0752-0
+25,25.0,46.0,zipper,17,Head Zipper Puller with  Rope ,H-EL 025,Dragon Times,"2xventilation zips, 1x ski pass pocket",3.0,,BLACK,BLACK
+26,26.0,49.0,other,hood:,back side,,,,,,,
+27,27.0,50.0,other,18,"DRAW CORD 2,5MM",ELASTIC NYLON STRING,DG.IN DAL,hood at back side,,,BLACK,BLACK
+28,28.0,51.0,other,19,grosgrain tape,GOL TAPE 10M/M,DG.IN DAL,to attach stopper at lower and upper end,,,BLACK,BLACK
+29,29.0,52.0,other,20,cord stopper A,PL STOPPER DGHS-324,DONG GWANG SA INDUSTRY,hood back side,1.0,,BLACK,BLACK
+30,30.0,53.0,other,21,cord end very tiny drop shape,PL END STOPPER DGST-BEH080,DONG GWANG SA INDUSTRY,hood back side,1.0,,BLACK,BLACK
+31,31.0,54.0,other,22,eyelet 8mm,H MP 012 DB 0691-0,Dragon Times,hood back side,2.0,,"gloss silver
+DB-0691-0","gloss silver
+DB-0691-0"
+32,32.0,55.0,other,hood : ,front,,,,,,BLACK,BLACK
+33,33.0,56.0,other,23,"DRAW CORD 2,5MM",ELASTIC NYLON STRING,DG.IN DAL,hood front side ,,,BLACK,BLACK
+34,34.0,57.0,other,24,cord stopper A flat version ,DG-HS-125,DONG GWANG SA INDUSTRY,hood front part left and right,2.0,,BLACK,BLACK
+35,35.0,58.0,other,25,cord end ball,STRING BELL STOPPER 3MM/DGHS-323,DONG GWANG SA INDUSTRY,hood front part left and right,2.0,,BLACK,BLACK
+36,36.0,59.0,other,26,eyelet 8mm,HMP 012 DB 0691-0,Dragon Times,"hood front part left and right side, collar inside and outside",8.0,,gloss silver DB 0691-0,gloss silver DB 0691-0
+37,37.0,61.0,other,Bottom hem adjustment :,,,,,,,BLACK,BLACK
+38,38.0,62.0,other,27,grosgrain tape,GOL TAPE 10M/M,DG.IN DAL,left and right side seams,,,BLACK,BLACK
+39,39.0,63.0,other,28,cord stopper A,PL STOPPER DGHS-324,DONG GWANG SA INDUSTRY,left and right side seams,2.0,,BLACK,BLACK
+40,40.0,64.0,other,29,cord end very tiny drop shape,PL END STOPPER DGST-BEH080,DONG GWANG SA INDUSTRY,left and right side seams,2.0,,BLACK,BLACK
+41,41.0,65.0,other,30,eyelet 8mm,EYELET 8MM,DONG GWANG SA INDUSTRY,left and right side seams,4.0,,"gloss silver
+local color","gloss silver
+local color"
+42,42.0,66.0,other,31,"DRAW CORD 2,5MM",ELASTIC NYLON STRING,DG.IN DAL,bottom hem adjustment,,,BLACK,BLACK
+43,43.0,68.0,other,general,,,,,,,,
+44,44.0,69.0,other,32,ribs tape for  phone card holder,GOL TAPE 10M/M,DG.IN DAL,inside  on neck position ,,,BLACK,BLACK
+45,45.0,73.0,other,33,bartacks,vertical bartacks,KIDO,all all zipper starting and ending points ,,,silver 14-5002 TCX,silver 14-5002 TCX
+46,46.0,75.0,other,,PACKAGING,,,,,,,
+47,47.0,76.0,other,35,polybag with HEAD print,,VIETNAM.NHAT LOI,size matching garment - follow packing instruction,1.0,, -- , -- 
+48,48.0,77.0,other,36,barcode sticker,,VN.COSMO,attach on polybag - follow packing instruction,1.0,, -- , -- 
+49,49.0,78.0,other,37,barcode sticker,,VN.COSMO,attach on carton- follow packing instruction,1.0,, -- , -- 
+50,50.0,79.0,zipper,38,"plastic hanger "" HEAD""","H-PA 005 
+(ELL45CS with bar )",Mainetti HK,,1.0,,semi clear,semi clear
+51,51.0,81.0,other,,HANG TAGS,,,,,,,
+52,52.0,82.0,other,39,MAIN HANG-TAG HEAD 360,H-PA 008,Avery Dennsion,attach hang-tag on left front pocket,1.0,, -- , -- 
+53,53.0,83.0,other,40,HEAD  360  TAG inlay ,H-PA 009,Avery Dennsion,inlay inside main hang-tag,1.0,, -- , -- 
+54,54.0,84.0,other,41,CORD FOR HANG TAG,HE HTCO-001,DG.ME QI,to attach hang-tag,1.0,, -- , -- 
+55,55.0,85.0,other,42,barcode sticker,,VN.COSMO,attach on hang-tag - follow packing instruction,1.0,, -- , -- 
+56,56.0,86.0,zipper,43,YKK general hang-tag,,YKK,behind generel hang-tag,1.0,, -- , -- 

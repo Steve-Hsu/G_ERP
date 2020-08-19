@@ -1,0 +1,31 @@
+MATERIAL_ID,0,5,8,16,27,28,32,34
+10,SHELL FABRICS,,,,,,,
+11,340gms 80% cotton/20% polyester sweatshirt fabric,,"shell fabric at hood, front body, back body, sleeves, pockets
+facing fabric at CF interior facing, rolled facing at pocket edge
+大身布(1): 帽子, 正反面大身, 袖子, 手口袋, 前門襟內貼邊, 口袋貼邊",,1,,,use available color for proto
+12,80% cotton/20% polyester rib knit sweatshirt fabric,,"shell fabric at collar, cuffs, hem
+螺紋布(2):袖口, 下擺",,2,,,use available color for proto
+14,LINING FABRICS,,,,,,,
+15,340gms 80% cotton/20% polyester sweatshirt fabric,,lining 內裡布,interior hood 帽子的內裡布,,,,use available color for proto
+17,ZIPPERS,,,,,,,
+18,VSOL-56 DA8LH1 (E),YKK,"#5 vislon, open end left insert, DA8LH1 
+5號塑鋼拉鍊, 開尾, 左插, DA8LH1 拉頭",CF zipper  前中拉鍊,,1,0,use available for proto
+21,please source,,"herringbone cotton webbing/tape
+人字斜棉質領織帶","interior back neckseam
+內後領織帶",,,0,use available for proto
+22,please source,,"0.5"" flat drawcord (end is folded and stitched, no tips)
+0.5""寬平穿繩(繩尾反摺壓線, 不加鴨嘴)","front hood adjustment
+帽子調整帶",,,0,use available for proto
+23,please source,,"metal eyelet (opening is 0.375"")
+金屬雞眼開口寬度0.375""","front hood adjustment drawcord exit
+帽子穿繩出口",,2,0,antique silver
+26,please source,,"interior main label
+內主標","interior back neck
+內後領處",,,,use available for proto
+27,please source,,"care label
+洗標","interior left side seam
+內穿者左斜邊車縫處",,,,use available for proto
+29,HANGTAGS,,,,,,,
+30,please source,,"main hangtag
+主吊牌","tag pin inserted throught left underarm seam
+吊牌用子彈掛於穿者左腋下接縫處",,,,use available for proto

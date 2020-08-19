@@ -1,0 +1,28 @@
+,MATERIAL_ID,CATEGORY,0,8,16,27,28,32,34
+0,10,fabric,SHELL FABRICS,,,,,,
+1,11,fabric,340gms 80% cotton/20% polyester sweatshirt fabric,"shell fabric at hood, front body, back body, sleeves, pocket
+facing fabric at rolled facing at pocket edge
+å¤§èº«æ¬å¸(1):å¸½å­, æ­£åå¤§èº«, è¢å­, å£è¢, å£è¢åæºè²¼é",,1.0,,,use available color for proto
+2,12,fabric,80% cotton/20% polyester rib knit sweatshirt fabric,"shell fabric at collar, cuffs, hem
+èºç´å¸(2):è¢å£, ä¸æº",,2.0,,,use available color for proto
+3,14,fabric,LINING FABRICS,,,,,,
+4,15,fabric,340gms 80% cotton/20% polyester sweatshirt fabric,lining  å§è£¡å¸,interior hood  å¸½å­å§è£¡,,,,use available color for proto
+5,18,other,please source,"herringbone cotton webbing/tape
+äººå­ææ£è³ªé ç¹å¸¶","interior back neckseam
+å§å¾é ç¹å¸¶",,,0.0,use available for proto
+6,19,other,please source,"0.5"" flat drawcord (end is folded and stitched, no tips)
+0.5""å¯¬å¹³ç©¿ç¹©(ç¹©å°¾åæºå£ç·, ä¸å é´¨å´)","front hood adjustment
+å¸½å­èª¿æ´å¸¶",,,0.0,use available for proto
+7,20,other,please source,"metal eyelet (opening is 0.375"")
+éå±¬éç¼éå£å¯¬åº¦0.375""","front hood adjustment drawcord exit
+å¸½å­ç©¿ç¹©åºå£",,2.0,0.0,antique silver
+8,23,label,please source,"interior main label
+å§ä¸»æ¨","interior back neck
+å§å¾é è",,,,use available for proto
+9,24,label,please source,"care label
+æ´æ¨","interior left side seam
+å§ç©¿èå·¦æéè»ç¸«è",,,,use available for proto
+10,26,other,HANGTAGS,,,,,,
+11,27,other,please source,"main hangtag
+ä¸»åç","tag pin inserted throught left underarm seam
+åçç¨å­å½ææ¼ç©¿èå·¦èä¸æ¥ç¸«è",,,,use available for proto
