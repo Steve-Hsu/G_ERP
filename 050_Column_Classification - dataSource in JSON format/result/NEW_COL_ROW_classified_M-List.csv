@@ -1,0 +1,37 @@
+,,MATERIAL_ID,CATEGORY,,,,position,,color_way_1,color_way_2,color_way_3,color_way_4
+0,0.0,5.0,other,Glacier Pant,,MM Rating,,,,,,
+1,1.0,9.0,fabric,,,,FABRICS & LININGS,,,,,
+2,2.0,10.0,fabric,A,Shell Fabric,SOTP069-C1-H 100% Polyester 15k/10k+2-Layer +breathable coating+DWR (supplied by SOLIS),"Main body, waistband, back waist self fabric patch",,BLACK,CAMEL,NAVY,WILLOW
+3,3.0,11.0,fabric,B,Shell Fabric,SOTD109-C1-Y 100% Polyester 10K/8K 10K/8K +2-Layer +breathable coating+DWR (supplied by SOLIS),"Knee panel, butt panels, back pockets",,VINTAGE BLACK,KHAKI,DARK NAVY,BLACK
+4,4.0,12.0,fabric,C,Lining,210T-E EMB07 Terry Emboss Taffeta (Supplied by Ecoya),"Inside lining, Lower leg gaiters, back of front hand pocket",,BLACK,BLACK,BLACK,BLACK
+5,5.0,13.0,fabric,D,Lining,Velvety Tricot - SOTO048-1 (supplied by Solis),"inside waistband, inner front pockets, inside fly panel",,BLACK,BLACK,BLACK,BLACK
+6,6.0,14.0,fabric,E,Other,100% poly MESH - SOTC025-1 (supplied by Solis),vents,,BLACK,BLACK,BLACK,BLACK
+7,7.0,15.0,fabric,F,Other,nylon/elastic lycra - SONO029-1 (supplied by Solis),lower leg gators,,BLACK,BLACK,BLACK,BLACK
+8,8.0,16.0,zipper,,,,ZIPPERS,,,,,
+9,9.0,17.0,zipper,AA,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH",(1) fly,1.0,VINTAGE BLACK 580,KHAHI 886,DARK NAVY391,BLACK
+10,10.0,18.0,zipper,BB,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH1 (Zippers close down)",(2) hand pockets,2.0,VINTAGE BLACK 580,KHAHI 886,DARK NAVY391,BLACK
+11,11.0,19.0,zipper,CC,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH1 (Zippers close to outseam)",(1) Back pockets,,VINTAGE BLACK 580,KHAHI 886,DARK NAVY391,BLACK
+12,12.0,20.0,zipper,DD,Zipper,"YKK No.5 nylon coil zippers, auto-lock slider DA8LH (close down)",(2) lower leg bang zips,2.0,VINTAGE BLACK 580,KHAHI 886,DARK NAVY391,BLACK
+13,13.0,21.0,zipper,EE,Zipper,"YKK No.5 nylon coil zippers,1-way hidden chain, auto-lock slider DA8LH1 (zippers close down)",(2) inseam vents,2.0,VINTAGE BLACK 580,KHAHI 886,DARK NAVY391,BLACK
+14,14.0,22.0,other,FF,Zipper Pull,Utility cord zipper pullers with tied end - ABZP_01,"(2) vents ,(2)  hand pockets, (1) back pockets",5.0,BLACK,BLACK,BLACK,BLACK
+15,15.0,24.0,other,GG,Hardware,"Snap Buttons ABSNP_01 (sets), 17 mm (incl. washers)","(1) fly opening,",1.0,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18
+16,16.0,25.0,other,HH,Hardware,12mm Metal eyelet  (incl. washers),"(2)waistband, (1) LEFT belt loop",3.0,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18,DARK ANTI BRASS BI-18
+17,17.0,26.0,other,II,Hardware,metal lace hooks,inside gators at c.f,2.0,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED,BLACK OXIDIZED
+18,18.0,27.0,other,JJ,Key Clip,plastic key clip attched with webbing loop,inside w. right pocket,1.0,BLACK,BLACK,BLACK,BLACK
+19,19.0,28.0,other,KK,Webbing,8 mm  width webbing,key clip attachment,1.0,BLACK,BLACK,BLACK,BLACK
+20,20.0,29.0,other,LL,Drawcord,Polyester Flat Lace drawcord with metal sealed ends.  w:1 cm,Waistband,1.0,BLACK,BLACK,BLACK,BLACK
+21,21.0,30.0,other,MM,Elastic,gripper elastic,at inside lower leg gators,1.0,BLACK,BLACK,BLACK,BLACK
+22,22.0,31.0,label,NN,Main Label,ABWV_67 Freedom Main Label,"inside c.b. waist, see Q/A for reference",1.0,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK
+23,23.0,32.0,label,OO,Size Label,ABWV_69V vietnam Size Label,sewn in and centered below ABWV_110,1.0,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK
+24,24.0,33.0,label,PP,W/C Label,wash and care,"inside wearers left side seam, 8 cm down from waistband seam",1.0,BLACK,BLACK,BLACK,BLACK
+25,25.0,34.0,label,QQ,ABWVLP_01 Woven loop,ABWVLP_01 (Supplied by SML),inside center back waist seam,1.0,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK,OLIVE/BLACK
+26,26.0,35.0,other,RR,Branding,ABEM_122 Block text embroidery,"RIGHT back butt patch, see placement page for detail",1.0,VINTAGE BLACK 70021,BLACK,DARK NAVY 30055,BLACK
+27,27.0,36.0,label,SS,Branding,ABWV_110 Monder Athlete Woven Label,Centered 3cm below ABWV_67,1.0,BLACK/OFF WHITE/ OLIVE,BLACK/OFF WHITE/ OLIVE,BLACK/OFF WHITE/ OLIVE,BLACK/OFF WHITE/ OLIVE
+28,28.0,37.0,other,WW,,,PACKAGING/HANG TAGS (Bulk only),,,,,
+29,29.0,38.0,interfacing,TT,Hangtag,TBD,At CF zipper - order of hangtags is TBD,1.0,TBD,TBD,TBD,TBD
+30,30.0,39.0,interfacing,UU,Hangtag,TBD,At CF zipper - order of hangtags is TBD,1.0,TBD,TBD,TBD,TBD
+31,31.0,40.0,other,VV,polybag w/ warning matter,Airpill Logo Print:  16 cm,centered on poly bag,1.0,BLACK,BLACK,BLACK,BLACK
+32,32.0,41.0,other,WW,Country of Origin sticker (supplied by your side),Made in China sticker,Centered above UPC sticker,1.0,WHITE,WHITE,WHITE,WHITE
+33,33.0,42.0,other,XX,UPC sticker (supplied by your side),Sticker width 3.5 cm,Lookers right bottom corner,1.0,WHITE,WHITE,WHITE,WHITE
+34,34.0,46.0,zipper,3,ZIPPER DIRECTION:,"CF has right hand slider, pocket zippers close down, 1-way zippers at vents (Zippers CLOSE DOWN)",,,,,,
+35,35.0,48.0,other,5,HEAT CUT:,"Elastic, webbing, taffeta",,,,,,
